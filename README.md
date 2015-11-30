@@ -1,6 +1,6 @@
 # Industry register data
 
-Data for the [industry register](http://industry country.openregister.org), 
+Data for the [industry register](http://industry.openregister.org), 
 a condensed list of standard industrial classification of economic activities (SIC) codes
 as used by [Companies House](https://www.gov.uk/government/organisations/companies-house)
 as a description a company's nature of business.
