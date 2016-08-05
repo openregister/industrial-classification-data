@@ -27,7 +27,7 @@ industry	name
 0150	Mixed farming
 0161	Support activities for crop production
 0162	Support activities for animal production
-01621	Farm animal boarding and care 
+01621	Farm animal boarding and care
 01629	Support activities for animal production (other than farm animal boarding and care) n.e.c.
 0163	Post-harvest crop activities
 0164	Seed processing for propagation
@@ -81,10 +81,10 @@ industry	name
 1081	Manufacture of sugar
 1082	Manufacture of cocoa, chocolate and sugar confectionery
 10821	Manufacture of cocoa, and chocolate confectionery
-10822	Manufacture of sugar confectionery 
+10822	Manufacture of sugar confectionery
 1083	Processing of tea and coffee
-10831	Tea processing 
-10832	Production of coffee and coffee substitutes 
+10831	Tea processing
+10832	Production of coffee and coffee substitutes
 1084	Manufacture of condiments and seasonings
 1085	Manufacture of prepared meals and dishes
 1086	Manufacture of homogenized food preparations and dietetic food
@@ -104,7 +104,7 @@ industry	name
 1330	Finishing of textiles
 1391	Manufacture of knitted and crocheted fabrics
 1392	Manufacture of made-up textile articles, except apparel
-13921	Manufacture of soft furnishings 
+13921	Manufacture of soft furnishings
 13922	Manufacture of canvas goods, sacks etc.
 13923	Manufacture of household textiles (other than soft furnishings of 13.42/1)
 1393	Manufacture of carpets and rugs
@@ -117,11 +117,11 @@ industry	name
 1411	Manufacture of leather clothes
 1412	Manufacture of workwear
 1413	Manufacture of other outerwear
-14131	Manufacture of mens outerwear, other than leather clothes and workwear 
+14131	Manufacture of mens outerwear, other than leather clothes and workwear
 14132	 Manufacture of womens outerwear,  other than leather clothes and workwear
 1414	Manufacture of underwear
-14141	Manufacture of mens underwear 
-14142	Manufacture of womens underwear 
+14141	Manufacture of mens underwear
+14142	Manufacture of womens underwear
 1419	Manufacture of other wearing apparel and accessories n.e.c.
 1420	Manufacture of articles of fur
 1431	Manufacture of knitted and crocheted hosiery
@@ -152,8 +152,8 @@ industry	name
 1814	Binding and related services
 1820	Reproduction of recorded media
 18201	Reproduction of sound recording
-18202	Reproduction of video recording 
-18203	Reproduction of computer media 
+18202	Reproduction of video recording
+18203	Reproduction of computer media
 1910	Manufacture of coke oven products
 1920	Manufacture of refined petroleum products
 19201	Mineral oil refining
@@ -170,8 +170,8 @@ industry	name
 20301	Manufacture of paints, varnishes and similar coatings, mastics and sealants
 20302	Manufacture of printing ink
 2041	Manufacture of soap and detergents, cleaning and polishing preparations
-20411	Manufacture of soap and detergents 
-20412	Manufacture of cleaning and polishing preparations 
+20411	Manufacture of soap and detergents
+20412	Manufacture of cleaning and polishing preparations
 2042	Manufacture of perfumes and toilet preparations
 2051	Manufacture of explosives
 2052	Manufacture of glues
@@ -248,13 +248,13 @@ industry	name
 2620	Manufacture of computers and peripheral equipment
 2630	Manufacture of communication equipment
 26301	Manufacture of telegraph and telephone apparatus and equipment
-26309	 Manufacture of communication equipment (other than telegraph and telephone apparatus and equipment) 
+26309	 Manufacture of communication equipment (other than telegraph and telephone apparatus and equipment)
 2640	Manufacture of consumer electronics
 2651	Manufacture of instruments and appliances for measuring, testing and navigation
-26511	Manufacture of electronic instruments/appliances for measuring, testing, and navigation, except process control equipment 
-26512	 Manufacture of electronic industrial process control equipment 
-26513	 Manufacture of non-electronic instruments/appliances for measuring, testing and navigation, except process control equipment 
-26514	 Manufacture of non-electronic industrial process control equipment 
+26511	Manufacture of electronic instruments/appliances for measuring, testing, and navigation, except process control equipment
+26512	 Manufacture of electronic industrial process control equipment
+26513	 Manufacture of non-electronic instruments/appliances for measuring, testing and navigation, except process control equipment
+26514	 Manufacture of non-electronic industrial process control equipment
 2652	Manufacture of watches and clocks
 2660	Manufacture of irradiation, electromedical and electrotherapeutic equipment
 2670	Manufacture of optical instruments and photographic equipment
@@ -275,7 +275,7 @@ industry	name
 2812	Manufacture of fluid power equipment
 2813	Manufacture of other pumps and compressors
 28131	Manufacture of pumps
-28132	Manufacture of compressors 
+28132	Manufacture of compressors
 2814	Manufacture of other taps and valves
 2815	Manufacture of bearings, gears, gearing and driving elements
 2821	Manufacture of ovens, furnaces and furnace burners
@@ -285,7 +285,7 @@ industry	name
 2825	Manufacture of non-domestic cooling and ventilation equipment
 2829	Manufacture of other general-purpose machinery n.e.c.
 2830	Manufacture of agricultural and forestry machinery
-28301	Manufacture of agricultural tractors 
+28301	Manufacture of agricultural tractors
 28302	Manufacture of agricultural and forestry machinery (other than agricultural tractors)
 2841	Manufacture of metal forming machinery
 2849	Manufacture of machine tools n.e.c.
@@ -324,7 +324,7 @@ industry	name
 3220	Manufacture of musical instruments
 3230	Manufacture of sports goods
 3240	Manufacture of games and toys
-32401	 Manufacture of professional and arcade games and toys 
+32401	 Manufacture of professional and arcade games and toys
 32409	 Manufacture of games and toys (other than professional and arcade games and toys) n.e.c.
 3250	Manufacture of medical and dental instruments and supplies
 3291	Manufacture of brooms and brushes
@@ -377,14 +377,14 @@ industry	name
 4333	Floor and wall covering
 4334	Painting and glazing
 43341	Painting
-43342	Glazing 
+43342	Glazing
 4339	Other building completion and finishing
 4391	Roofing activities
 4399	Other specialized construction activities n.e.c.
-43991	Scaffold erection 
+43991	Scaffold erection
 43999	Specialized construction activities (other than scaffold erection) n.e.c.
 4511	Sale of cars and light motor vehicles
-45111	Sale of new cars and light motor vehicles 
+45111	Sale of new cars and light motor vehicles
 45112	Sale of used cars and light motor vehicles
 4519	Sale of other motor vehicles
 4520	Maintenance and repair of motor vehicles
@@ -426,7 +426,7 @@ industry	name
 4647	Wholesale of furniture, carpets and lighting equipment
 4648	Wholesale of watches and jewellery
 4649	Wholesale of other household goods
-46491	Wholesale of musical instruments  
+46491	Wholesale of musical instruments
 46499	 Wholesale of household goods (other than musical instruments) n.e.c.
 4651	Wholesale of computers, computer peripheral equipment and software
 4652	Wholesale of electronic and telecommunications equipment and parts
@@ -438,8 +438,8 @@ industry	name
 4666	Wholesale of other office machinery and equipment
 4669	Wholesale of other machinery and equipment
 4671	Wholesale of solid, liquid and gaseous fuels and related products
-46711	Wholesale of  petroleum and petroleum products 
-46719	Wholesale of fuels and related products (other than petroleum and petroleum products) 
+46711	Wholesale of  petroleum and petroleum products
+46719	Wholesale of fuels and related products (other than petroleum and petroleum products)
 4672	Wholesale of metals and metal ores
 4673	Wholesale of wood, construction materials and sanitary equipment
 4674	Wholesale of hardware, plumbing and heating equipment and supplies
@@ -460,7 +460,7 @@ industry	name
 4741	Retail sale of computers, peripheral units and software in specialized stores
 4742	Retail sale of telecommunications equipment in specialized stores
 47421	Retail sale of mobile telephones in specialised stores
-47429	 Retail sale of telecommunications equipment (other than mobile telephones) n.e.c., in specialised stores 
+47429	 Retail sale of telecommunications equipment (other than mobile telephones) n.e.c., in specialised stores
 4743	Retail sale of audio and video equipment in specialized stores
 4751	Retail sale of textiles in specialized stores
 4752	Retail sale of hardware, paints and glass in specialized stores
@@ -468,7 +468,7 @@ industry	name
 4754	Retail sale of electrical household appliances in specialized stores
 4759	Retail sale of furniture, lighting equipment and household articles n.e.c. in specialized stores
 47591	Retail sale of musical instruments and scores in specialized stores
-47599	Retail sale of furniture, lighting equipment and other household articles (not musical instruments) n.e.c., in specialized stores 
+47599	Retail sale of furniture, lighting equipment and other household articles (not musical instruments) n.e.c., in specialized stores
 4761	Retail sale of books in specialized stores
 4762	Retail sale of newspapers and stationery in specialized stores
 4763	Retail sale of music and video recordings in specialized stores
@@ -481,17 +481,17 @@ industry	name
 4773	Dispensing chemist in specialized stores
 4774	Retail sale of medical and orthopaedic goods in specialized stores
 47741	Retail sale of hearing aids in specialized stores
-47749	Retail sale of medical and orthopaedic goods (other than hearing aids) n.e.c., in specialized stores 
+47749	Retail sale of medical and orthopaedic goods (other than hearing aids) n.e.c., in specialized stores
 4775	Retail sale of cosmetic and toilet articles in specialized stores
 4776	Retail sale of flowers, plants, seeds, fertilizers, pet animals and pet food in specialized stores
 4777	Retail sale of watches and jewellery in specialized stores
 4778	Other retail sale of new goods in specialized stores
-47781	Retail sale in commercial art galleries 
-47782	Retail sale by opticians 
+47781	Retail sale in commercial art galleries
+47782	Retail sale by opticians
 47789	Other retail sale of new goods in specialized stores (other than by opticians or commercial art galleries), n.e.c.
 4779	Retail sale of second-hand goods in stores
-47791	Retail sale of antiques including antique books, in stores 
-47799	Retail sale of second-hand goods (other than antiques and antique books) in stores 
+47791	Retail sale of antiques including antique books, in stores
+47799	Retail sale of second-hand goods (other than antiques and antique books) in stores
 4781	Retail sale via stalls and markets of food, beverages and tobacco products
 4782	Retail sale via stalls and markets of textiles, clothing and footwear
 4789	Retail sale via stalls and markets of other goods
@@ -500,7 +500,7 @@ industry	name
 4910	Passenger rail transport, interurban
 4920	Freight rail transport
 4931	Urban, suburban or metropolitan area passenger land transport
-49311	Urban, suburban or metropolitan area passenger railway transportation by underground, metro and similar systems 
+49311	Urban, suburban or metropolitan area passenger railway transportation by underground, metro and similar systems
 49319	Urban, suburban or metropolitan area passenger land transport (not railway transportation by underground, metro and similar )
 4932	Taxi operation
 4939	Other passenger land transport
@@ -512,14 +512,14 @@ industry	name
 5030	Inland passenger water transport
 5040	Inland freight water transport
 5110	Passenger air transport
-51101	Scheduled passenger air transport 
-51102	Non-scheduled passenger air transport 
+51101	Scheduled passenger air transport
+51102	Non-scheduled passenger air transport
 5121	Freight air transport
 5122	Space transport
 5210	Warehousing and storage
-52101	Operation of warehousing and storage facilities for water transport activities of division 50 
+52101	Operation of warehousing and storage facilities for water transport activities of division 50
 52102	Operation of warehousing and storage facilities for air transport activities of division 51
-52103	Operation of warehousing and storage facilities for land transport activities of division 49 
+52103	Operation of warehousing and storage facilities for land transport activities of division 49
 5221	Service activities incidental to land transportation
 52211	Operation of rail freight terminals
 52212	Operation of rail passenger facilities at railway stations
@@ -538,20 +538,20 @@ industry	name
 53202	Unlicensed Carriers
 5510	Hotels and similar accommodation
 5520	Holiday and other collective accommodation
-55201	Holiday centres and villages 
+55201	Holiday centres and villages
 55202	Youth hostels
 55209	Other holiday and other collective accommodation n.e.c.
 5530	Recreational vehicle parks, trailer parks and camping grounds
 5590	Other accommodation
 5610	Restaurants and mobile food service activities
-56101	Licensed restaurants 
+56101	Licensed restaurants
 56102	Unlicensed restaurants and cafes
-56103	Take away food shops and mobile food stands 
+56103	Take away food shops and mobile food stands
 5621	Event catering activities
 5629	Other food services n.e.c.
 5630	Beverage serving activities
-56301	Licensed clubs 
-56302	Public houses and bars 
+56301	Licensed clubs
+56302	Public houses and bars
 5811	Book publishing
 5812	Publishing of directories and mailing lists
 5813	Publishing of newspapers
@@ -563,12 +563,12 @@ industry	name
 5829	Other software publishing
 5911	Motion picture, video and television programme production activities
 59111	Motion picture production ac
-59112	Video production activities 
-59113	Television programme production activities 
+59112	Video production activities
+59113	Television programme production activities
 5912	Motion picture, video and television programme post-production activities
 5913	Motion picture, video and television programme distribution activities
 59131	Motion picture distribution activities
-59132	Video distribution activities 
+59132	Video distribution activities
 59133	Television programme distribution activities
 5914	Motion picture projection activities
 5920	Sound recording and music publishing activities
@@ -579,8 +579,8 @@ industry	name
 6130	Satellite telecommunications activities
 6190	Other telecommunications activities
 6201	Computer programming activities
-62011	Ready-made interactive leisure and entertainment software development 
-62012	Business and domestic software development 
+62011	Ready-made interactive leisure and entertainment software development
+62012	Business and domestic software development
 6202	Information technology consultancy activities
 6203	Computer facilities management activities
 6209	Other information technology service activities
@@ -591,7 +591,7 @@ industry	name
 6411	Central banking
 6419	Other monetary intermediation
 64191	Banks
-64192	Building societies 
+64192	Building societies
 6420	Activities of holding companies
 64201	Activities of agricultural holding companies
 64202	Activities of production holding companies
@@ -600,25 +600,25 @@ industry	name
 64205	Activities of financial services holding companies
 64209	Activities of other holding companies n.e.c.
 6430	Trusts, funds and other financial vehicles
-64301	Activities of investment trusts 
-64302	Activities of unit trusts 
-64303	Activities of venture and development capital companies 
-64304	Activities of open-ended investment companies    
-64305	Activities of property unit trusts 
-64306	Activities of real estate investment trusts 
+64301	Activities of investment trusts
+64302	Activities of unit trusts
+64303	Activities of venture and development capital companies
+64304	Activities of open-ended investment companies
+64305	Activities of property unit trusts
+64306	Activities of real estate investment trusts
 6491	Financial leasing
 6492	Other credit granting
-64921	Credit granting by non-deposit taking finance houses and other specialist consumer credit grantors 
-64922	Activities of mortgage finance companies 
+64921	Credit granting by non-deposit taking finance houses and other specialist consumer credit grantors
+64922	Activities of mortgage finance companies
 64929	Other credit granting n.e.c.
 6499	Other financial intermediation n.e.c.
 64991	Security dealing on own account
 64992	Factoring
-64999	Other financial intermediation (not including security dealing on own account and factoring) n.e.c. 
+64999	Other financial intermediation (not including security dealing on own account and factoring) n.e.c.
 6511	Life insurance
 6512	Non-life insurance
 6520	Reinsurance
-65201	Life reinsurance 
+65201	Life reinsurance
 65202	Non-life reinsurance
 6530	Pension funding
 6611	Administration of financial markets
@@ -630,15 +630,15 @@ industry	name
 6630	Fund management activities
 6810	Buying and selling of own real estate
 6820	Renting and operating of own or leased real estate
-68201	Renting and operating of Housing Association real estate 
+68201	Renting and operating of Housing Association real estate
 68202	Letting and operating of conference and exhibition centres
 68209	Letting and operating of own or leased real estate n.e.c.
 6831	Real estate agencies
 6832	Management of real estate on a fee or contract basis
 6910	Legal activities
-69101	Barristers at law 
-69102	Solicitors 
-69109	Activities of patent and copyright agents; other legal activities (other than those of barristers and solicitors) n.e.c. 
+69101	Barristers at law
+69102	Solicitors
+69109	Activities of patent and copyright agents; other legal activities (other than those of barristers and solicitors) n.e.c.
 6920	Accounting, bookkeeping and auditing activities; tax consultancy
 69201	Accounting, and auditing activities
 69202	Bookkeeping activities
@@ -646,14 +646,14 @@ industry	name
 7010	Activities of head offices
 7021	Public relation and communication activities
 7022	Business and other management consultancy activities
-70221	Financial management 
+70221	Financial management
 70229	Management consultancy activities (other than financial management)
 7111	Architectural activities
-71111	Architectural activities 
-71112	Urban planning and landscape architectural activities 
+71111	Architectural activities
+71112	Urban planning and landscape architectural activities
 7112	Engineering activities and related technical consultancy
-71121	Engineering design activities for industrial process and production 
-71122	Engineering related scientific and technical consulting activities 
+71121	Engineering design activities for industrial process and production
+71122	Engineering related scientific and technical consulting activities
 71129	Other engineering activities n.e.c.
 7120	Technical testing and analysis
 7211	Research and experimental development on biotechnology
@@ -664,44 +664,44 @@ industry	name
 7320	Market research and public opinion polling
 7410	Specialized design activities
 7420	Photographic activities
-74201	Portrait photographic activities 
+74201	Portrait photographic activities
 74202	Other specialist photography (not including portrait photography)
-74203	Film processing 
+74203	Film processing
 74209	Other photographic activities (not including portrait and other specialist photography and film processing) n.e.c.
 7430	Translation and interpretation activities
 7490	Other professional, scientific and technical activities n.e.c.
-74901	Environmental consulting activities 
-74902	Quantity surveying activities 
-74909	Other professional, scientific and technical activities (not including environmental consultancy or quantity surveying) n.e.c. 
+74901	Environmental consulting activities
+74902	Quantity surveying activities
+74909	Other professional, scientific and technical activities (not including environmental consultancy or quantity surveying) n.e.c.
 7500	Veterinary activities
 7711	Renting and leasing of cars and light motor vehicles
 7712	Renting and leasing of trucks and other heavy vehicles
 7721	Renting and leasing of recreational and sports goods
 7722	Renting of video tapes and disks
 7729	Renting and leasing of other personal and household goods n.e.c.
-77291	Renting and leasing of media entertainment equipment 
+77291	Renting and leasing of media entertainment equipment
 77299	Renting and leasing of other personal and household goods (other than media entertainment equipment)
 7731	Renting and leasing of agricultural machinery and equipment
 7732	Renting and leasing of construction and civil engineering machinery and equipment
 7733	Renting and leasing of office machinery and equipment (including computers)
 7734	Renting and leasing of water transport equipment
-77341	Renting and leasing of passenger water transport equipment 
-77342	Renting and leasing of freight water transport equipment 
+77341	Renting and leasing of passenger water transport equipment
+77342	Renting and leasing of freight water transport equipment
 7735	Renting and leasing of air transport equipment
-77351	Renting and leasing of passenger air transport equipment 
-77352	Renting and leasing of freight air transport equipment 
+77351	Renting and leasing of passenger air transport equipment
+77352	Renting and leasing of freight air transport equipment
 7739	Renting and leasing of other machinery, equipment and tangible goods n.e.c.
 7740	Leasing of intellectual property and similar products, except copyrighted works
 7810	Activities of employment placement agencies
-78101	Motion picture, television and other theatrical casting 
+78101	Motion picture, television and other theatrical casting
 78109	Activities of employment placement agencies (other than motion picture, television and other theatrical casting) n.e.c.
 7820	Temporary employment agency activities
 7830	Human resources provision
 7911	Travel agency activities
 7912	Tour operator activities
 7990	Other reservation service and related activities
-79901	Activities of tourist guides 
-79902	Other reservation service and related activities (not including activities of tourist guides) 
+79901	Activities of tourist guides
+79902	Other reservation service and related activities (not including activities of tourist guides)
 8010	Private security activities
 8020	Security systems service activities
 8030	Investigation activities
@@ -709,21 +709,21 @@ industry	name
 8121	General cleaning of buildings
 8122	Other building and industrial cleaning activities
 81221	Window cleaning services
-81222	Specialised cleaning services 
+81222	Specialised cleaning services
 81223	Furnace and chimney cleaning services
 81229	Building and industrial cleaning activities n.e.c.
 8129	Other cleaning services n.e.c.
 81291	Disinfecting and extermination services
-81299	Cleaning services (other than disinfecting and extermination services) n.e.c.  
+81299	Cleaning services (other than disinfecting and extermination services) n.e.c.
 8130	Landscape service activities
 8211	Combined office administrative service activities
 8219	Photocopying, document preparation and other specialised office support activities
 8220	Activities of call centres
 8230	Organisation of conventions and trade shows
-82301	Activities of exhibition and fair organizers 
-82302	Activities of conference organizers 
+82301	Activities of exhibition and fair organizers
+82302	Activities of conference organizers
 8291	Activities of collection agencies and credit bureaus
-82911	Activities of collection agencies 
+82911	Activities of collection agencies
 82912	Activities of credit bureaus
 8292	Packaging activities
 8299	Other business support service activities n.e.c.
@@ -750,8 +750,8 @@ industry	name
 8559	Other education n.e.c.
 8560	Educational support services
 8610	Hospital activities
-86101	Hospital activities 
-86102	Medical nursing home activities 
+86101	Hospital activities
+86102	Medical nursing home activities
 8621	General medical practice activities
 8622	Specialist medical practice activities
 8623	Dental practice activities
@@ -778,7 +778,7 @@ industry	name
 9312	Activities of sport clubs
 9313	Fitness facilities
 9319	Other sports activities
-93191	Activities of racehorse owners 
+93191	Activities of racehorse owners
 93199	Other sports activities (not including activities of racehorse owners) n.e.c.
 9321	Activities of amusement parks and theme parks
 9329	Other amusement and recreation activities n.e.c.
