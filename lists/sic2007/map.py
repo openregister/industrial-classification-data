@@ -1,7 +1,6 @@
 #!/usr/bin/env python3
 
 import sys
-import re
 from xlrd import open_workbook
 
 sep = '\t'
@@ -18,7 +17,7 @@ ncols = sheet.ncols
 for r in range(2, sheet.nrows):
     cells = [sheet.cell(r, c).value for c in range(0, ncols) if sheet.cell(r, c) != '']
 
-    line = '\t'.join(cells).strip()
+    line = sep.join(cells).strip()
 
-    if line != '':
+    if line != '' and sep in line:
         print(line)
