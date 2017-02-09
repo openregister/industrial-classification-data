@@ -36,7 +36,7 @@ A		AGRICULTURE, FORESTRY AND FISHING
 0161	016	Support activities for crop production		
 0162	016	Support activities for animal production		
 01621	0162	Farm animal boarding and care		
-01629	0162	Support activities for animal production (other than farm animal boarding and care) n.e.c.		
+01629	0162	Support activities for animal production (other than farm animal boarding and care) not elsewhere classified		
 0163	016	Post-harvest crop activities		
 0164	016	Seed processing for propagation		
 017	01	Hunting, trapping and related service activities		
@@ -80,11 +80,11 @@ B		MINING AND QUARRYING
 081	08	Quarrying of stone, sand and clay		
 0811	081	Quarrying of ornamental and building stone, limestone, gypsum, chalk and slate		
 0812	081	Operation of gravel and sand pits; mining of clays and kaolin		
-089	08	Mining and quarrying n.e.c.		
+089	08	Mining and quarrying not elsewhere classified		
 0891	089	Mining of chemical and fertiliser minerals		
 0892	089	Extraction of peat		
 0893	089	Extraction of salt		
-0899	089	Other mining and quarrying n.e.c.		
+0899	089	Other mining and quarrying not elsewhere classified		
 09	B	Mining support service activities		
 091	09	Support activities for petroleum and natural gas extraction		
 0910	091	Support activities for petroleum and natural gas extraction		
@@ -109,7 +109,7 @@ C		MANUFACTURING
 1051	105	Operation of dairies and cheese making		
 10511	1051	Liquid milk and cream production		
 10512	1051	Butter and cheese production		
-10519	1051	Manufacture of milk products (other than liquid milk and cream, butter, cheese) n.e.c.		
+10519	1051	Manufacture of milk products (other than liquid milk and cream, butter, cheese) not elsewhere classified		
 1052	105	Manufacture of ice cream		
 106	10	Manufacture of grain mill products, starches and starch products		
 1061	106	Manufacture of grain mill products		
@@ -131,7 +131,7 @@ C		MANUFACTURING
 1084	108	Manufacture of condiments and seasonings		
 1085	108	Manufacture of prepared meals and dishes		
 1086	108	Manufacture of homogenised food preparations and dietetic food		
-1089	108	Manufacture of other food products n.e.c.		
+1089	108	Manufacture of other food products not elsewhere classified		
 109	10	Manufacture of prepared animal feeds		
 1091	109	Manufacture of prepared feeds for farm animals		
 1092	109	Manufacture of prepared pet foods		
@@ -162,11 +162,11 @@ C		MANUFACTURING
 13923	1392	Manufacture of household textiles (other than soft furnishings of 13.92/1)		
 1393	139	Manufacture of carpets and rugs		
 13931	1393	Manufacture of woven or tufted carpets and rugs		
-13939	1393	Manufacture of carpets and rugs (other than woven or tufted) n.e.c.		
+13939	1393	Manufacture of carpets and rugs (other than woven or tufted) not elsewhere classified		
 1394	139	Manufacture of cordage, rope, twine and netting		
 1395	139	Manufacture of non-wovens and articles made from non-wovens, except apparel		
 1396	139	Manufacture of other technical and industrial textiles		
-1399	139	Manufacture of other textiles n.e.c.		
+1399	139	Manufacture of other textiles not elsewhere classified		
 14	C	Manufacture of wearing apparel		
 141	14	Manufacture of wearing apparel, except fur apparel		
 1411	141	Manufacture of leather clothes		
@@ -215,7 +215,7 @@ C		MANUFACTURING
 1811	181	Printing of newspapers		
 1812	181	Other printing		
 18121	1812	Manufacture of printed labels		
-18129	1812	Printing (other than printing of newspapers and printing on labels and tags) n.e.c.		
+18129	1812	Printing (other than printing of newspapers and printing on labels and tags) not elsewhere classified		
 1813	181	Pre-press and pre-media services		
 1814	181	Binding and related services		
 182	18	Reproduction of recorded media		
@@ -254,7 +254,7 @@ C		MANUFACTURING
 2051	205	Manufacture of explosives		
 2052	205	Manufacture of glues		
 2053	205	Manufacture of essential oils		
-2059	205	Manufacture of other chemical products n.e.c.		
+2059	205	Manufacture of other chemical products not elsewhere classified		
 206	20	Manufacture of man-made fibres		
 2060	206	Manufacture of man-made fibres		
 21	C	Manufacture of basic pharmaceutical products and pharmaceutical preparations		
@@ -301,9 +301,9 @@ C		MANUFACTURING
 2369	236	Manufacture of other articles of concrete, plaster and cement		
 237	23	Cutting, shaping and finishing of stone		
 2370	237	Cutting, shaping and finishing of stone		
-239	23	Manufacture of abrasive products and non-metallic mineral products n.e.c.		
+239	23	Manufacture of abrasive products and non-metallic mineral products not elsewhere classified		
 2391	239	Production of abrasive products		
-2399	239	Manufacture of other non-metallic mineral products n.e.c.		
+2399	239	Manufacture of other non-metallic mineral products not elsewhere classified		
 24	C	Manufacture of basic metals		
 241	24	Manufacture of basic iron and steel and of ferro-alloys		
 2410	241	Manufacture of basic iron and steel and of ferro-alloys		
@@ -351,7 +351,7 @@ C		MANUFACTURING
 2592	259	Manufacture of light metal packaging		
 2593	259	Manufacture of wire products, chain and springs		
 2594	259	Manufacture of fasteners and screw machine products		
-2599	259	Manufacture of other fabricated metal products n.e.c.		
+2599	259	Manufacture of other fabricated metal products not elsewhere classified		
 26	C	Manufacture of computer, electronic and optical products		
 261	26	Manufacture of electronic components and boards		
 2611	261	Manufacture of electronic components		
@@ -396,7 +396,7 @@ C		MANUFACTURING
 2752	275	Manufacture of non-electric domestic appliances		
 279	27	Manufacture of other electrical equipment		
 2790	279	Manufacture of other electrical equipment		
-28	C	Manufacture of machinery and equipment n.e.c.		
+28	C	Manufacture of machinery and equipment not elsewhere classified		
 281	28	Manufacture of general-purpose machinery		
 2811	281	Manufacture of engines and turbines, except aircraft, vehicle and cycle engines		
 2812	281	Manufacture of fluid power equipment		
@@ -411,7 +411,7 @@ C		MANUFACTURING
 2823	282	Manufacture of office machinery and equipment (except computers and peripheral equipment)		
 2824	282	Manufacture of power-driven hand tools		
 2825	282	Manufacture of non-domestic cooling and ventilation equipment		
-2829	282	Manufacture of other general-purpose machinery n.e.c.		
+2829	282	Manufacture of other general-purpose machinery not elsewhere classified		
 283	28	Manufacture of agricultural and forestry machinery		
 2830	283	Manufacture of agricultural and forestry machinery		
 28301	2830	Manufacture of agricultural tractors		
@@ -429,7 +429,7 @@ C		MANUFACTURING
 2894	289	Manufacture of machinery for textile, apparel and leather production		
 2895	289	Manufacture of machinery for paper and paperboard production		
 2896	289	Manufacture of plastics and rubber machinery		
-2899	289	Manufacture of other special-purpose machinery n.e.c.		
+2899	289	Manufacture of other special-purpose machinery not elsewhere classified		
 29	C	Manufacture of motor vehicles, trailers and semi-trailers		
 291	29	Manufacture of motor vehicles		
 2910	291	Manufacture of motor vehicles		
@@ -451,10 +451,10 @@ C		MANUFACTURING
 3030	303	Manufacture of air and spacecraft and related machinery		
 304	30	Manufacture of military fighting vehicles		
 3040	304	Manufacture of military fighting vehicles		
-309	30	Manufacture of transport equipment n.e.c.		
+309	30	Manufacture of transport equipment not elsewhere classified		
 3091	309	Manufacture of motorcycles		
 3092	309	Manufacture of bicycles and invalid carriages		
-3099	309	Manufacture of other transport equipment n.e.c.		
+3099	309	Manufacture of other transport equipment not elsewhere classified		
 31	C	Manufacture of furniture		
 310	31	Manufacture of furniture		
 3101	310	Manufacture of office and shop furniture		
@@ -473,12 +473,12 @@ C		MANUFACTURING
 324	32	Manufacture of games and toys		
 3240	324	Manufacture of games and toys		
 32401	3240	Manufacture of professional and arcade games and toys		
-32409	3240	Manufacture of games and toys (other than professional and arcade games and toys) n.e.c.		
+32409	3240	Manufacture of games and toys (other than professional and arcade games and toys) not elsewhere classified		
 325	32	Manufacture of medical and dental instruments and supplies		
 3250	325	Manufacture of medical and dental instruments and supplies		
-329	32	Other manufacturing n.e.c.		
+329	32	Other manufacturing not elsewhere classified		
 3291	329	Manufacture of brooms and brushes		
-3299	329	Other manufacturing n.e.c.		
+3299	329	Other manufacturing not elsewhere classified		
 33	C	Repair and installation of machinery and equipment		
 331	33	Repair of fabricated metal products, machinery and equipment		
 3311	331	Repair of fabricated metal products		
@@ -542,7 +542,7 @@ F		CONSTRUCTION
 4222	422	Construction of utility projects for electricity and telecommunications		
 429	42	Construction of other civil engineering projects		
 4291	429	Construction of water projects		
-4299	429	Construction of other civil engineering projects n.e.c.		
+4299	429	Construction of other civil engineering projects not elsewhere classified		
 43	F	Specialised construction activities		
 431	43	Demolition and site preparation		
 4311	431	Demolition		
@@ -562,9 +562,9 @@ F		CONSTRUCTION
 4339	433	Other building completion and finishing		
 439	43	Other specialised construction activities		
 4391	439	Roofing activities		
-4399	439	Other specialised construction activities n.e.c.		
+4399	439	Other specialised construction activities not elsewhere classified		
 43991	4399	Scaffold erection		
-43999	4399	Specialised construction activities (other than scaffold erection) n.e.c.		
+43999	4399	Specialised construction activities (other than scaffold erection) not elsewhere classified		
 G		WHOLESALE AND RETAIL TRADE; REPAIR OF MOTOR VEHICLES AND MOTORCYCLES		
 45	G	Wholesale and retail trade and repair of motor vehicles and motorcycles		
 451	45	Sale of motor vehicles		
@@ -612,7 +612,7 @@ G		WHOLESALE AND RETAIL TRADE; REPAIR OF MOTOR VEHICLES AND MOTORCYCLES
 4642	464	Wholesale of clothing and footwear		
 4643	464	Wholesale of electrical household appliances		
 46431	4643	Wholesale of gramophone records, audio tapes, compact discs and video tapes and of the equipment on which these are played		
-46439	4643	Wholesale of radio and television goods and of electrical household appliances (other than of gramophone records, audio tapes, compact discs and video tapes and the equipment on which these are played) n.e.c.		
+46439	4643	Wholesale of radio and television goods and of electrical household appliances (other than of gramophone records, audio tapes, compact discs and video tapes and the equipment on which these are played) not elsewhere classified		
 4644	464	Wholesale of china and glassware and cleaning materials		
 4645	464	Wholesale of perfume and cosmetics		
 4646	464	Wholesale of pharmaceutical goods		
@@ -620,7 +620,7 @@ G		WHOLESALE AND RETAIL TRADE; REPAIR OF MOTOR VEHICLES AND MOTORCYCLES
 4648	464	Wholesale of watches and jewellery		
 4649	464	Wholesale of other household goods		
 46491	4649	Wholesale of musical instruments		
-46499	4649	Wholesale of household goods (other than musical instruments) n.e.c.		
+46499	4649	Wholesale of household goods (other than musical instruments) not elsewhere classified		
 465	46	Wholesale of information and communication equipment		
 4651	465	Wholesale of computers, computer peripheral equipment and software		
 4652	465	Wholesale of electronic and telecommunications equipment and parts		
@@ -662,7 +662,7 @@ G		WHOLESALE AND RETAIL TRADE; REPAIR OF MOTOR VEHICLES AND MOTORCYCLES
 4741	474	Retail sale of computers, peripheral units and software in specialised stores		
 4742	474	Retail sale of telecommunications equipment in specialised stores		
 47421	4742	Retail sale of mobile telephones in specialised stores		
-47429	4742	Retail sale of telecommunications equipment (other than mobile telephones) n.e.c., in specialised stores		
+47429	4742	Retail sale of telecommunications equipment (other than mobile telephones) not elsewhere classified, in specialised stores		
 4743	474	Retail sale of audio and video equipment in specialised stores		
 475	47	Retail sale of other household equipment in specialised stores		
 4751	475	Retail sale of textiles in specialised stores		
@@ -671,7 +671,7 @@ G		WHOLESALE AND RETAIL TRADE; REPAIR OF MOTOR VEHICLES AND MOTORCYCLES
 4754	475	Retail sale of electrical household appliances in specialised stores		
 4759	475	Retail sale of furniture, lighting equipment and other household articles in specialised stores		
 47591	4759	Retail sale of musical instruments and scores in specialised stores		
-47599	4759	Retail sale of furniture, lighting equipment and other household articles (other than musical instruments) n.e.c., in specialised stores		
+47599	4759	Retail sale of furniture, lighting equipment and other household articles (other than musical instruments) not elsewhere classified, in specialised stores		
 476	47	Retail sale of cultural and recreation goods in specialised stores		
 4761	476	Retail sale of books in specialised stores		
 4762	476	Retail sale of newspapers and stationery in specialised stores		
@@ -686,7 +686,7 @@ G		WHOLESALE AND RETAIL TRADE; REPAIR OF MOTOR VEHICLES AND MOTORCYCLES
 4773	477	Dispensing chemist in specialised stores		
 4774	477	Retail sale of medical and orthopaedic goods in specialised stores		
 47741	4774	Retail sale of hearing aids in specialised stores		
-47749	4774	Retail sale of medical and orthopaedic goods (other than hearing aids) n.e.c., in specialised stores		
+47749	4774	Retail sale of medical and orthopaedic goods (other than hearing aids) not elsewhere classified, in specialised stores		
 4775	477	Retail sale of cosmetic and toilet articles in specialised stores		
 4776	477	Retail sale of flowers, plants, seeds, fertilisers, pet animals and pet food in specialised stores		
 4777	477	Retail sale of watches and jewellery in specialised stores		
@@ -715,7 +715,7 @@ H		TRANSPORTATION AND STORAGE
 49311	4931	Urban, suburban or metropolitan area passenger railway transportation by underground, metro and similar systems		
 49319	4931	Urban, suburban or metropolitan area passenger land transport other than railway transportation by underground, metro and similar systems		
 4932	493	Taxi operation		
-4939	493	Other passenger land transport n.e.c.		
+4939	493	Other passenger land transport not elsewhere classified		
 494	49	Freight transport by road and removal services		
 4941	494	Freight transport by road		
 4942	494	Removal services		
@@ -749,7 +749,7 @@ H		TRANSPORTATION AND STORAGE
 52211	5221	Operation of rail freight terminals		
 52212	5221	Operation of rail passenger facilities at railway stations		
 52213	5221	Operation of bus and coach passenger facilities at bus and coach stations		
-52219	5221	Other service activities incidental to land transportation, n.e.c. (not including operation of rail freight terminals, passenger facilities at railway stations or passenger facilities at bus and coach stations)		
+52219	5221	Other service activities incidental to land transportation, not elsewhere classified (not including operation of rail freight terminals, passenger facilities at railway stations or passenger facilities at bus and coach stations)		
 5222	522	Service activities incidental to water transportation		
 5223	522	Service activities incidental to air transportation		
 5224	522	Cargo handling		
@@ -772,7 +772,7 @@ I		ACCOMMODATION AND FOOD SERVICE ACTIVITIES
 5520	552	Holiday and other short-stay accommodation		
 55201	5520	Holiday centres and villages		
 55202	5520	Youth hostels		
-55209	5520	Other holiday and other short-stay accommodation (not including holiday centres and villages or youth hostels) n.e.c.		
+55209	5520	Other holiday and other short-stay accommodation (not including holiday centres and villages or youth hostels) not elsewhere classified		
 553	55	Camping grounds, recreational vehicle parks and trailer parks		
 5530	553	Camping grounds, recreational vehicle parks and trailer parks		
 559	55	Other accommodation		
@@ -845,7 +845,7 @@ J		INFORMATION AND COMMUNICATION
 6312	631	Web portals		
 639	63	Other information service activities		
 6391	639	News agency activities		
-6399	639	Other information service activities n.e.c.		
+6399	639	Other information service activities not elsewhere classified		
 K		FINANCIAL AND INSURANCE ACTIVITIES		
 64	K	Financial service activities, except insurance and pension funding		
 641	64	Monetary intermediation		
@@ -860,7 +860,7 @@ K		FINANCIAL AND INSURANCE ACTIVITIES
 64203	6420	Activities of construction holding companies		
 64204	6420	Activities of distribution holding companies		
 64205	6420	Activities of financial services holding companies		
-64209	6420	Activities of other holding companies (not including agricultural, production, construction, distribution and financial services holding companies) n.e.c.		
+64209	6420	Activities of other holding companies (not including agricultural, production, construction, distribution and financial services holding companies) not elsewhere classified		
 643	64	Trusts, funds and similar financial entities		
 6430	643	Trusts, funds and similar financial entities		
 64301	6430	Activities of investment trusts		
@@ -874,11 +874,11 @@ K		FINANCIAL AND INSURANCE ACTIVITIES
 6492	649	Other credit granting		
 64921	6492	Credit granting by non-deposit taking finance houses and other specialist consumer credit grantors		
 64922	6492	Activities of mortgage finance companies		
-64929	6492	Other credit granting (not including credit granting by non-deposit taking finance houses and other specialist consumer credit grantors and activities of mortgage finance companies) n.e.c.		
-6499	649	Other financial service activities, except insurance and pension funding, n.e.c.		
+64929	6492	Other credit granting (not including credit granting by non-deposit taking finance houses and other specialist consumer credit grantors and activities of mortgage finance companies) not elsewhere classified		
+6499	649	Other financial service activities, except insurance and pension funding, not elsewhere classified		
 64991	6499	Security dealing on own account		
 64992	6499	Factoring		
-64999	6499	Other financial service activities, except insurance and pension funding, (not including security dealing on own account and factoring) n.e.c.		
+64999	6499	Other financial service activities, except insurance and pension funding, (not including security dealing on own account and factoring) not elsewhere classified		
 65	K	Insurance, reinsurance and pension funding, except compulsory social security		
 651	65	Insurance		
 6511	651	Life insurance		
@@ -908,7 +908,7 @@ L		REAL ESTATE ACTIVITIES
 6820	682	Renting and operating of own or leased real estate		
 68201	6820	Renting and operating of Housing Association real estate		
 68202	6820	Letting and operating of conference and exhibition centres		
-68209	6820	Letting and operating of own or leased real estate (other than Housing Association real estate and conference and exhibition services) n.e.c.		
+68209	6820	Letting and operating of own or leased real estate (other than Housing Association real estate and conference and exhibition services) not elsewhere classified		
 683	68	Real estate activities on a fee or contract basis		
 6831	683	Real estate agencies		
 6832	683	Management of real estate on a fee or contract basis		
@@ -918,7 +918,7 @@ M		PROFESSIONAL, SCIENTIFIC AND TECHNICAL ACTIVITIES
 6910	691	Legal activities		
 69101	6910	Barristers at law		
 69102	6910	Solicitors		
-69109	6910	Activities of patent and copyright agents; other legal activities (other than those of barristers and solicitors) n.e.c.		
+69109	6910	Activities of patent and copyright agents; other legal activities (other than those of barristers and solicitors) not elsewhere classified		
 692	69	Accounting, bookkeeping and auditing activities; tax consultancy		
 6920	692	Accounting, bookkeeping and auditing activities; tax consultancy		
 69201	6920	Accounting, and auditing activities		
@@ -963,14 +963,14 @@ M		PROFESSIONAL, SCIENTIFIC AND TECHNICAL ACTIVITIES
 74201	7420	Portrait photographic activities		
 74202	7420	Other specialist photography (not including portrait photography)		
 74203	7420	Film processing		
-74209	7420	Other photographic activities (not including portrait and other specialist photography and film processing) n.e.c.		
+74209	7420	Other photographic activities (not including portrait and other specialist photography and film processing) not elsewhere classified		
 743	74	Translation and interpretation activities		
 7430	743	Translation and interpretation activities		
-749	74	Other professional, scientific and technical activities n.e.c.		
-7490	749	Other professional, scientific and technical activities n.e.c.		
+749	74	Other professional, scientific and technical activities not elsewhere classified		
+7490	749	Other professional, scientific and technical activities not elsewhere classified		
 74901	7490	Environmental consulting activities		
 74902	7490	Quantity surveying activities		
-74909	7490	Other professional, scientific and technical activities (not including environmental consultancy or quantity surveying) n.e.c.		
+74909	7490	Other professional, scientific and technical activities (not including environmental consultancy or quantity surveying) not elsewhere classified		
 75	M	Veterinary activities		
 750	75	Veterinary activities		
 7500	750	Veterinary activities		
@@ -995,14 +995,14 @@ N		ADMINISTRATIVE AND SUPPORT SERVICE ACTIVITIES
 7735	773	Renting and leasing of air transport equipment		
 77351	7735	Renting and leasing of passenger air transport equipment		
 77352	7735	Renting and leasing of freight air transport equipment		
-7739	773	Renting and leasing of other machinery, equipment and tangible goods n.e.c.		
+7739	773	Renting and leasing of other machinery, equipment and tangible goods not elsewhere classified		
 774	77	Leasing of intellectual property and similar products, except copyrighted works		
 7740	774	Leasing of intellectual property and similar products, except copyrighted works		
 78	N	Employment activities		
 781	78	Activities of employment placement agencies		
 7810	781	Activities of employment placement agencies		
 78101	7810	Motion picture, television and other theatrical casting		
-78109	7810	Activities of employment placement agencies (other than motion picture, television and other theatrical casting) n.e.c.		
+78109	7810	Activities of employment placement agencies (other than motion picture, television and other theatrical casting) not elsewhere classified		
 782	78	Temporary employment agency activities		
 7820	782	Temporary employment agency activities		
 783	78	Other human resources provision		
@@ -1031,10 +1031,10 @@ N		ADMINISTRATIVE AND SUPPORT SERVICE ACTIVITIES
 81221	8122	Window cleaning services		
 81222	8122	Specialised cleaning services		
 81223	8122	Furnace and chimney cleaning services		
-81229	8122	Building and industrial cleaning activities (other than window cleaning, specialised cleaning and furnace and chimney cleaning services) n.e.c.		
+81229	8122	Building and industrial cleaning activities (other than window cleaning, specialised cleaning and furnace and chimney cleaning services) not elsewhere classified		
 8129	812	Other cleaning activities		
 81291	8129	Disinfecting and extermination services		
-81299	8129	Cleaning services (other than disinfecting and extermination services) n.e.c.		
+81299	8129	Cleaning services (other than disinfecting and extermination services) not elsewhere classified		
 813	81	Landscape service activities		
 8130	813	Landscape service activities		
 82	N	Office administrative, office support and other business support activities		
@@ -1047,12 +1047,12 @@ N		ADMINISTRATIVE AND SUPPORT SERVICE ACTIVITIES
 8230	823	Organisation of conventions and trade shows		
 82301	8230	Activities of exhibition and fair organizers		
 82302	8230	Activities of conference organizers		
-829	82	Business support service activities n.e.c.		
+829	82	Business support service activities not elsewhere classified		
 8291	829	Activities of collection agencies and credit bureaus		
 82911	8291	Activities of collection agencies		
 82912	8291	Activities of credit bureaus		
 8292	829	Packaging activities		
-8299	829	Other business support service activities n.e.c.		
+8299	829	Other business support service activities not elsewhere classified		
 O		PUBLIC ADMINISTRATION AND DEFENCE; COMPULSORY SOCIAL SECURITY		
 84	O	Public administration and defence; compulsory social security		
 841	84	Administration of the State and the economic and social policy of the community		
@@ -1085,7 +1085,7 @@ P		EDUCATION
 8551	855	Sports and recreation education		
 8552	855	Cultural education		
 8553	855	Driving school activities		
-8559	855	Other education n.e.c.		
+8559	855	Other education not elsewhere classified		
 856	85	Educational support activities		
 8560	856	Educational support activities		
 Q		HUMAN HEALTH AND SOCIAL WORK ACTIVITIES		
@@ -1114,7 +1114,7 @@ Q		HUMAN HEALTH AND SOCIAL WORK ACTIVITIES
 8810	881	Social work activities without accommodation for the elderly and disabled		
 889	88	Other social work activities without accommodation		
 8891	889	Child day-care activities		
-8899	889	Other social work activities without accommodation n.e.c.		
+8899	889	Other social work activities without accommodation not elsewhere classified		
 R		ARTS, ENTERTAINMENT AND RECREATION		
 90	R	Creative, arts and entertainment activities		
 900	90	Creative, arts and entertainment activities		
@@ -1140,7 +1140,7 @@ R		ARTS, ENTERTAINMENT AND RECREATION
 9313	931	Fitness facilities		
 9319	931	Other sports activities		
 93191	9319	Activities of racehorse owners		
-93199	9319	Other sports activities (not including activities of racehorse owners) n.e.c.		
+93199	9319	Other sports activities (not including activities of racehorse owners) not elsewhere classified		
 932	93	Amusement and recreation activities		
 9321	932	Activities of amusement parks and theme parks		
 9329	932	Other amusement and recreation activities		
@@ -1154,7 +1154,7 @@ S		OTHER SERVICE ACTIVITIES
 949	94	Activities of other membership organisations		
 9491	949	Activities of religious organisations		
 9492	949	Activities of political organisations		
-9499	949	Activities of other membership organisations n.e.c.		
+9499	949	Activities of other membership organisations not elsewhere classified		
 95	S	Repair of computers and personal and household goods		
 951	95	Repair of computers and communication equipment		
 9511	951	Repair of computers and peripheral equipment		
@@ -1172,7 +1172,7 @@ S		OTHER SERVICE ACTIVITIES
 9602	960	Hairdressing and other beauty treatment		
 9603	960	Funeral and related activities		
 9604	960	Physical well-being activities		
-9609	960	Other personal service activities n.e.c.		
+9609	960	Other personal service activities not elsewhere classified		
 T		ACTIVITIES OF HOUSEHOLDS AS EMPLOYERS; UNDIFFERENTIATED GOODS-AND SERVICES-PRODUCING ACTIVITIES OF HOUSEHOLDS FOR OWN USE		
 97	T	Activities of households as employers of domestic personnel		
 970	97	Activities of households as employers of domestic personnel		

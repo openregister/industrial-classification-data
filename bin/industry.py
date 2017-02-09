@@ -25,4 +25,7 @@ for row in csv.DictReader(sys.stdin, delimiter=sep):
 
         row['industry'] = code
 
+        # expand abbreviations
+        row['name'] = row['name'].replace('n.e.c.', 'not elsewhere classified')
+
     print(sep.join([row.get(field, '') for field in fields]))
