@@ -35,15 +35,6 @@ Companies House only use "code" values in their data, so a service will need to 
 - [start-date](http://field.alpha.openregister.org/field/start-date)
 - [end-date](http://field.alpha.openregister.org/field/end-date)
 
-# Industrial sector register data
-
-Discovery data for a potential [industrial-sector register](http://industrial-sector.openregister.org),
-a set of codes found in treasury data based on the [European System of Accounts (ESA 95)](https://en.wikipedia.org/wiki/European_System_of_Accounts)
-categories described in 
-[Council Regulation (EC) No 2223/96 of 25 June 1996 on the European system of national and regional accounts in the Community](http://eur-lex.europa.eu/legal-content/EN/TXT/?uri=celex:31996R2223) 
-[© European Union 1998-2015](http://eur-lex.europa.eu/)
-made available under the terms [on the reuse of Commission documents](http://eur-lex.europa.eu/legal-content/EN/TXT/?uri=CELEX:32011D0833).
-
 # Licence
 
 The software in this project is covered by LICENSE file.
