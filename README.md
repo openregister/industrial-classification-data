@@ -27,13 +27,13 @@ Companies House only use "code" values in their data, so a service will need to 
 |[companies-house-data](lists/companies-house-data)|[used in com|
 |[companies-house-resources](lists/companies-house-resources)|[Companies House resources page](http://resources.companieshouse.gov.uk/sic/)|
 
-## [Industry data](data/industry/industry.tsv)
+## [Industry](data/industry/industry.tsv) data
 
 - industry — the Standard Industry Code (SIC)
-- parent-industry — the parent industry SIC
+- parent-industry — the parent Standard Industry Code (SIC)
 - [name](http://field.alpha.openregister.org/field/name) — the name of the industry, in English
-- [start-date](http://field.alpha.openregister.org/field/start-date)
-- [end-date](http://field.alpha.openregister.org/field/end-date)
+- [start-date](http://field.alpha.openregister.org/field/start-date) — date from which the code applied (optional)
+- [end-date](http://field.alpha.openregister.org/field/end-date) — date after which the code no longer applies
 
 # Licence
 
