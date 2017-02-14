@@ -1,6 +1,6 @@
 # Industry register data
 
-[Source data](data/industry/industry.tsv) for the proposed [industry register](http://industry.openregister.org), a list of standard industrial classification of economic activities (SIC 2007) codes
+[Data](data/industry/industry.tsv) for the proposed [industry register](http://industry.openregister.org), a list of standard industrial classification of economic activities (SIC 2007) codes
 managed by [Office for National Statistics (ONS)](https://www.ons.gov.uk/) and used by [Companies House](https://www.gov.uk/government/organisations/companies-house)
 as a part of the registration as the company's "nature of business".
 
@@ -9,7 +9,7 @@ Companies House bulk data includes up to four SIC values for each company.
 The text for each code is presented by the [Companies House beta service](https://beta.companieshouse.gov.uk)
 expanding abbreviations such as "n.e.c." to "not elsewhere classified".
 
-## Source data
+## Data sources
 
 | List | Source |
 | :---         |    :--- |
