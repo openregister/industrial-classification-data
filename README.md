@@ -24,7 +24,7 @@ Companies House only use "code" values in their data, so a service will need to 
 | :---         |    :--- |
 |[uksic2007](lists/uksic2007)|[ONS UK SIC 2007](https://www.ons.gov.uk/methodology/classificationsandstandards/ukstandardindustrialclassificationofeconomicactivities/uksic2007)|
 |companies-house-govuk|[Companies House guidance on GOV.UK (PDF)](https://www.gov.uk/government/publications/standard-industrial-classification-of-economic-activities-sic)|
-|[companies-house-data](lists/companies-house-data)|[used in com|
+|[companies-house-data](lists/companies-house-data)|Codes used in [Companies House bulk data](http://download.companieshouse.gov.uk/en_output.html)|
 |[companies-house-resources](lists/companies-house-resources)|[Companies House resources page](http://resources.companieshouse.gov.uk/sic/)|
 
 ## [Industry](data/industry/industry.tsv) data
