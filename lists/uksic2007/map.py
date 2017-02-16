@@ -4,7 +4,7 @@ import sys
 from xlrd import open_workbook
 
 sep = '\t'
-fields = ['industry', 'name']
+fields = ['industrial-classification', 'name']
 print(sep.join(fields))
 
 #

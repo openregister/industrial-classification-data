@@ -9,7 +9,7 @@ import zipfile
 h = re.compile(' - ')
 sep = '\t'
 
-fields = ['industry', 'name', 'count']
+fields = ['industrial-classification', 'name', 'count']
 
 print(sep.join(fields))
 
@@ -32,6 +32,6 @@ for path in sys.argv[1:]:
 
 for value in sorted(values):
     if value != '' and value != 'None Supplied':
-        (industry, name) = h.split(value, 2)
+        (code, name) = h.split(value, 2)
         count = str(values[value])
-        print(sep.join([industry, name, count]))
+        print(sep.join([code, name, count]))

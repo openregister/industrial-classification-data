@@ -1,0 +1,1728 @@
+industrial-classification	parent-industrial-classification	name	name-cy	start-date	end-date
+01	A	Crop and animal production, hunting and related service activities			
+011	01	Growing of non-perennial crops			
+0111	011	Growing of cereals (except rice), leguminous crops and oil seeds			
+01110	0111	Growing of cereals (except rice), leguminous crops and oil seeds	Tyfu grawn (ac eithrio reis), cnydau o godlysiau ac olew had		
+0112	011	Growing of rice			
+01120	0112	Growing of rice	Tyfu reis		
+0113	011	Growing of vegetables and melons, roots and tubers			
+01130	0113	Growing of vegetables and melons, roots and tubers	Tyfu llysiau a melonau,gwreiddlysiau a chloron		
+0114	011	Growing of sugar cane			
+01140	0114	Growing of sugar cane	Tyfu câns siwgr		
+0115	011	Growing of tobacco			
+01150	0115	Growing of tobacco	Tyfu tybaco		
+0116	011	Growing of fibre crops			
+01160	0116	Growing of fibre crops	Tyfu cnydau ffibrog		
+0119	011	Growing of other non-perennial crops			
+01190	0119	Growing of other non-perennial crops	Tyfu cnydau eraill nad ydynt yn gnydau lluosflwydd		
+012	01	Growing of perennial crops			
+0121	012	Growing of grapes			
+01210	0121	Growing of grapes	Tyfu grawnwin		
+0122	012	Growing of tropical and subtropical fruits			
+01220	0122	Growing of tropical and subtropical fruits	Tyfu ffrwythau trofannol ac isdrofannol		
+0123	012	Growing of citrus fruits			
+01230	0123	Growing of citrus fruits	Tyfu ffrwythau sitrws		
+0124	012	Growing of pome fruits and stone fruits			
+01240	0124	Growing of pome fruits and stone fruits	Tyfu ffrwythau o deulu'r afal a ffrwythau carreg		
+0125	012	Growing of other tree and bush fruits and nuts			
+01250	0125	Growing of other tree and bush fruits and nuts	Tyfu cnau a ffrwythau coed a pherth eraill		
+0126	012	Growing of oleaginous fruits			
+01260	0126	Growing of oleaginous fruits	Tyfu ffrwythau olewaidd		
+0127	012	Growing of beverage crops			
+01270	0127	Growing of beverage crops	Tyfu cnydau gwneud diodydd		
+0128	012	Growing of spices, aromatic, drug and pharmaceutical crops			
+01280	0128	Growing of spices, aromatic, drug and pharmaceutical crops	Tyfu cnydau sbeis, aromatig, cyffuriau a fferyllol		
+0129	012	Growing of other perennial crops			
+01290	0129	Growing of other perennial crops	Tyfu cnydau lluosflwydd eraill		
+013	01	Plant propagation			
+0130	013	Plant propagation			
+01300	0130	Plant propagation	Epilio planhigion		
+014	01	Animal production			
+0141	014	Raising of dairy cattle			
+01410	0141	Raising of dairy cattle	Magu gwartheg godro		
+0142	014	Raising of other cattle and buffaloes			
+01420	0142	Raising of other cattle and buffaloes	Magu gwartheg eraill a byfflos		
+0143	014	Raising of horses and other equines			
+01430	0143	Raising of horses and other equines	Magu ceffylau ac anifeiliaid eraill o deulu'r ceffyl		
+0144	014	Raising of camels and camelids			
+01440	0144	Raising of camels and camelids	Magu camelod a chamelidau		
+0145	014	Raising of sheep and goats			
+01450	0145	Raising of sheep and  goats	Magu defaid a geifr		
+0146	014	Raising of swine/pigs			
+01460	0146	Raising of swine/pigs	Magu moch/anifeiliaid o deulu'r mochyn		
+0147	014	Raising of poultry			
+01470	0147	Raising of poultry	Magu dofednod		
+0149	014	Raising of other animals			
+01490	0149	Raising of other animals	Magu anifeiliaid eraill		
+015	01	Mixed farming			
+0150	015	Mixed farming			
+01500	0150	Mixed farming	Ffermio cymysg		
+016	01	Support activities to agriculture and post-harvest crop activities			
+0161	016	Support activities for crop production			
+01610	0161	Support activities for crop production	Gweithgareddau cynorthwyol ym maes cynhyrchu cnydau		
+0162	016	Support activities for animal production			
+01621	0162	Farm animal boarding and care	Lletya a gofalu am anifeiliaid fferm		
+01629	0162	Support activities for animal production (other than farm animal boarding and care) not elsewhere classified	Gweithgareddau cynorthwyol ym maes magu anifeiliaid (ac eithrio lletya a gofalu am anifeiliaid fferm) n.dd.b.		
+0163	016	Post-harvest crop activities			
+01630	0163	Post-harvest crop activities	Gweithgareddau yn sgil cynaeafu cnydau		
+0164	016	Seed processing for propagation			
+01640	0164	Seed processing for propagation	Prosesu hadau i'w hepilio		
+017	01	Hunting, trapping and related service activities			
+0170	017	Hunting, trapping and related service activities			
+01700	0170	Hunting, trapping and related service activities	Hela, maglu a gweithgareddau'r gwasanaethau cysylltiedig		
+02	A	Forestry and logging			
+021	02	Silviculture and other forestry activities			
+0210	021	Silviculture and other forestry activities			
+02100	0210	Silviculture and other forestry activities	Tyfu coed a gweithgareddau coedwigaeth eraill		
+022	02	Logging			
+0220	022	Logging			
+02200	0220	Logging	Torri coed yn foncyffion		
+023	02	Gathering of wild growing non-wood products			
+0230	023	Gathering of wild growing non-wood products			
+02300	0230	Gathering of wild growing non-wood products	Casglu cynnyrch sy'n tyfu'n wyllt heblaw pren		
+024	02	Support services to forestry			
+0240	024	Support services to forestry			
+02400	0240	Support services to forestry	Gwasanaethau cynorthwyol ym maes coedwigaeth		
+03	A	Fishing and aquaculture			
+031	03	Fishing			
+0311	031	Marine fishing			
+03110	0311	Marine fishing	Pysgota morol		
+0312	031	Freshwater fishing			
+03120	0312	Freshwater fishing	Pysgota dŵr croyw		
+032	03	Aquaculture			
+0321	032	Marine aquaculture			
+03210	0321	Marine aquaculture	Acwafeithrin morol		
+0322	032	Freshwater aquaculture			
+03220	0322	Freshwater aquaculture	Acwafeithrin mewn dŵr croyw		
+05	B	Mining of coal and lignite			
+051	05	Mining of hard coal			
+0510	051	Mining of hard coal			
+05101	0510	Deep coal mines	Pyllau glo dwfn		
+05102	0510	Open cast coal working	Cloddfeydd glo brig		
+052	05	Mining of lignite			
+0520	052	Mining of lignite			
+05200	0520	Mining of lignite	Mwyngloddio coedlo (lignit)		
+06	B	Extraction of crude petroleum and natural gas			
+061	06	Extraction of crude petroleum			
+0610	061	Extraction of crude petroleum			
+06100	0610	Extraction of crude petroleum	Echdynnu petrolewm crai		
+062	06	Extraction of natural gas			
+0620	062	Extraction of natural gas			
+06200	0620	Extraction of natural gas	Echdynnu nwyon naturiol		
+07	B	Mining of metal ores			
+071	07	Mining of iron ores			
+0710	071	Mining of iron ores			
+07100	0710	Mining of iron ores	Mwyngloddio mwynau haearn		
+072	07	Mining of non-ferrous metal ores			
+0721	072	Mining of uranium and thorium ores			
+07210	0721	Mining of uranium and thorium ores	Mwyngloddio mwynau wraniwm a thoriwm		
+0729	072	Mining of other non-ferrous metal ores			
+07290	0729	Mining of other non-ferrous metal ores	Mwyngloddio mwynau metel anfferrus eraill		
+08	B	Other mining and quarrying			
+081	08	Quarrying of stone, sand and clay			
+0811	081	Quarrying of ornamental and building stone, limestone, gypsum, chalk and slate			
+08110	0811	Quarrying of ornamental and building stone, limestone, gypsum, chalk and slate	Chwarela cerrig addurnol a cherrig adeiladu, calchfaen, gypswm, sialc a llechi		
+0812	081	Operation of gravel and sand pits; mining of clays and kaolin			
+08120	0812	Operation of gravel and sand pits; mining of clays and kaolin	Gweithredu pyllau graean a thywod; mwyngloddio clai a chaolin		
+089	08	Mining and quarrying not elsewhere classified			
+0891	089	Mining of chemical and fertiliser minerals			
+08910	0891	Mining of chemical and fertilizer minerals	Mwyngloddio mwynau cemegol a gwrteithio		
+0892	089	Extraction of peat			
+08920	0892	Extraction of peat	Echdynnu mawn		
+0893	089	Extraction of salt			
+08930	0893	Extraction of salt	Echdynnu halen		
+0899	089	Other mining and quarrying not elsewhere classified			
+08990	0899	Other mining and quarrying not elsewhere classified	Gweithgareddau mwyngloddio a chwarela eraill n.dd.b.		
+09	B	Mining support service activities			
+091	09	Support activities for petroleum and natural gas extraction			
+0910	091	Support activities for petroleum and natural gas extraction			
+09100	0910	Support activities for petroleum and natural gas mining	Gweithgareddau cynorthwyol ym maes mwyngloddio petrolewm a nwy naturiol		
+099	09	Support activities for other mining and quarrying			
+0990	099	Support activities for other mining and quarrying			
+09900	0990	Support activities for other mining and quarrying	Gweithgareddau cynorthwyol mwyngloddio a chwarela arall		
+10	C	Manufacture of food products			
+101	10	Processing and preserving of meat and production of meat products			
+1011	101	Processing and preserving of meat			
+10110	1011	Processing and preserving of meat	Prosesu a chyffeithio cig		
+1012	101	Processing and preserving of poultry meat			
+10120	1012	Processing and preserving of poultry meat	Prosesu a chyffeithio cig dofednod		
+1013	101	Production of meat and poultry meat products			
+10130	1013	Production of meat and poultry meat products	Cynhyrchu cynhyrchion cig a dofednod		
+102	10	Processing and preserving of fish, crustaceans and molluscs			
+1020	102	Processing and preserving of fish, crustaceans and molluscs			
+10200	1020	Processing and preserving of fish, crustaceans and molluscs	Prosesu a chyffeithio pysgod, cramenogion a molysgiaid		
+103	10	Processing and preserving of fruit and vegetables			
+1031	103	Processing and preserving of potatoes			
+10310	1031	Processing and preserving of potatoes	Prosesu a chyffeithio tatws		
+1032	103	Manufacture of fruit and vegetable juice			
+10320	1032	Manufacture of fruit and vegetable juice	Gweithgynhyrchu sudd ffrwythau a llysiau		
+1039	103	Other processing and preserving of fruit and vegetables			
+10390	1039	Other processing and preserving of fruit and vegetables	Prosesu a chyffeithio ffrwythau a llysiau at ddibenion eraill		
+104	10	Manufacture of vegetable and animal oils and fats			
+1041	104	Manufacture of oils and fats			
+10410	1041	Manufacture of oils and fats	Gweithgynhyrchu olewon a brasterau		
+1042	104	Manufacture of margarine and similar edible fats			
+10420	1042	Manufacture of margarine and similar edible fats	Gweithgynhyrchu margarin a brasterau bwytadwy tebyg		
+105	10	Manufacture of dairy products			
+1051	105	Operation of dairies and cheese making			
+10511	1051	Liquid milk and cream production	Cynhyrchu llaeth a hufen hylifol		
+10512	1051	Butter and cheese production	Cynhyrchu menyn a chaws		
+10519	1051	Manufacture of other milk products	Gweithgynhyrchu cynnyrch llaeth arall		
+1052	105	Manufacture of ice cream			
+10520	1052	Manufacture of ice cream	Gweithgynhyrchu hufen iâ		
+106	10	Manufacture of grain mill products, starches and starch products			
+1061	106	Manufacture of grain mill products			
+10611	1061	Grain milling	Melino grawn		
+10612	1061	Manufacture of breakfast cereals and cereals-based food	Gweithgynhyrchu grawnfwydydd brecwast a grawnfwydydd eraill		
+1062	106	Manufacture of starches and starch products			
+10620	1062	Manufacture of starches and starch products	Gweithgynhyrchu startsh a chynnyrch startsh		
+107	10	Manufacture of bakery and farinaceous products			
+1071	107	Manufacture of bread; manufacture of fresh pastry goods and cakes			
+10710	1071	Manufacture of bread; manufacture of fresh pastry goods and cakes	Gweithgynhyrchu bara; gweithgynhyrchu teisennau a chacennau ffres		
+1072	107	Manufacture of rusks and biscuits; manufacture of preserved pastry goods and cakes			
+10720	1072	Manufacture of rusks and biscuits; manufacture of preserved pastry goods and cakes	Gweithgynhyrchu rhysgenni a bisgedi; gweithgynhyrchu teisennau a chacennau cadw		
+1073	107	Manufacture of macaroni, noodles, couscous and similar farinaceous products			
+10730	1073	Manufacture of macaroni, noodles, couscous and similar farinaceous products	Gweithgynhyrchu macaroni, nwdls, couscous a chynnyrch cannog tebyg		
+108	10	Manufacture of other food products			
+1081	108	Manufacture of sugar			
+10810	1081	Manufacture of sugar	Gweithgynhyrchu siwgr		
+1082	108	Manufacture of cocoa, chocolate and sugar confectionery			
+10821	1082	Manufacture of cocoa and chocolate confectionery	Gweithgynhyrchu melysion coco a siocled		
+10822	1082	Manufacture of sugar confectionery	Gweithgynhyrchu melysion siwgr		
+1083	108	Processing of tea and coffee			
+10831	1083	Tea processing	Prosesu te		
+10832	1083	Production of coffee and coffee substitutes	Cynhyrchu coffi ac amnewidion coffi		
+1084	108	Manufacture of condiments and seasonings			
+10840	1084	Manufacture of condiments and seasonings	Gweithgynhyrchu confennau a sesnin		
+1085	108	Manufacture of prepared meals and dishes			
+10850	1085	Manufacture of prepared meals and dishes	Gweithgynhyrchu prydau a seigiau parod		
+1086	108	Manufacture of homogenised food preparations and dietetic food			
+10860	1086	Manufacture of homogenized food preparations and dietetic food	Gweithgynhyrchu bwydydd homogenaidd a lluniaethol		
+1089	108	Manufacture of other food products not elsewhere classified			
+10890	1089	Manufacture of other food products not elsewhere classified	Gweithgynhyrchu cynnyrch bwyd arall n.dd.b.		
+109	10	Manufacture of prepared animal feeds			
+1091	109	Manufacture of prepared feeds for farm animals			
+10910	1091	Manufacture of prepared feeds for farm animals	Gweithgynhyrchu bwydydd parod ar gyfer anifeiliaid fferm		
+1092	109	Manufacture of prepared pet foods			
+10920	1092	Manufacture of prepared pet foods	Gweithgynhyrchu bwydydd parod ar gyfer anifeiliaid anwes		
+11	C	Manufacture of beverages			
+110	11	Manufacture of beverages			
+1101	110	Distilling, rectifying and blending of spirits			
+11010	1101	Distilling, rectifying and blending of spirits	Distyllu, puro a chymysgu gwirodydd		
+1102	110	Manufacture of wine from grape			
+11020	1102	Manufacture of wine from grape	Gweithgynhyrchu gwin o rawnwin		
+1103	110	Manufacture of cider and other fruit wines			
+11030	1103	Manufacture of cider and other fruit wines	Gweithgynhyrchu seidr a mathau eraill o winoedd ffrwyth		
+1104	110	Manufacture of other non-distilled fermented beverages			
+11040	1104	Manufacture of other non-distilled fermented beverages	Gweithgynhyrchu diodydd brag eraill heb eu distyllu		
+1105	110	Manufacture of beer			
+11050	1105	Manufacture of beer	Gweithgynhyrchu cwrw		
+1106	110	Manufacture of malt			
+11060	1106	Manufacture of malt	Gweithgynhyrchu brag		
+1107	110	Manufacture of soft drinks; production of mineral waters and other bottled waters			
+11070	1107	Manufacture of soft drinks; production of mineral waters and other bottled waters	Gweithgynhyrchu diodydd ysgafn; cynhyrchu dŵr mwynol a dŵr potel arall		
+12	C	Manufacture of tobacco products			
+120	12	Manufacture of tobacco products			
+1200	120	Manufacture of tobacco products			
+12000	1200	Manufacture of tobacco products	Gweithgynhyrchu cynnyrch tybaco		
+13	C	Manufacture of textiles			
+131	13	Preparation and spinning of textile fibres			
+1310	131	Preparation and spinning of textile fibres			
+13100	1310	Preparation and spinning of textile fibres	Paratoi a nyddu ffibrau gweol		
+132	13	Weaving of textiles			
+1320	132	Weaving of textiles			
+13200	1320	Weaving of textiles	Gwehyddu tecstilau		
+133	13	Finishing of textiles			
+1330	133	Finishing of textiles			
+13300	1330	Finishing of textiles	Gorffennu tecstilau		
+139	13	Manufacture of other textiles			
+1391	139	Manufacture of knitted and crocheted fabrics			
+13910	1391	Manufacture of knitted and crocheted fabrics	Gweithgynhyrchu ffabrig wedi'i wau a'i grosio		
+1392	139	Manufacture of made-up textile articles, except apparel			
+13921	1392	Manufacture of soft furnishings	Gweithgynhyrchu dodrefn meddal		
+13922	1392	manufacture of canvas goods, sacks, etc.	Gweithgynhyrchu nwyddau cynfas, sachau ac ati		
+13923	1392	manufacture of household textiles	Gweithgynhyrchu tecstilau cartref		
+1393	139	Manufacture of carpets and rugs			
+13931	1393	Manufacture of woven or tufted carpets and rugs	Gweithgynhyrchu carpedi a rygiau codennog neu wedi'u gwehyddu		
+13939	1393	Manufacture of other carpets and rugs	Gweithgynhyrchu carpedi a rygiau eraill		
+1394	139	Manufacture of cordage, rope, twine and netting			
+13940	1394	Manufacture of cordage, rope, twine and netting	Gweithgynhyrchu deunyddiau rhaffog, rhaffau, cortynnau a rhwydi		
+1395	139	Manufacture of non-wovens and articles made from non-wovens, except apparel			
+13950	1395	Manufacture of non-wovens and articles made from non-wovens, except apparel	Gweithgynhyrchu nwyddau heb eu gwehyddu a nwyddau o ddeunyddiau heb eu gwehyddu, ac eithrio dillad		
+1396	139	Manufacture of other technical and industrial textiles			
+13960	1396	Manufacture of other technical and industrial textiles	Gweithgynhyrchu tecstilau technegol a diwydiannol eraill		
+1399	139	Manufacture of other textiles not elsewhere classified			
+13990	1399	Manufacture of other textiles not elsewhere classified	Gweithgynhyrchu tecstilau eraill n.dd.b.		
+14	C	Manufacture of wearing apparel			
+141	14	Manufacture of wearing apparel, except fur apparel			
+1411	141	Manufacture of leather clothes			
+14110	1411	Manufacture of leather clothes	Gweithgynhyrchu dillad lledr		
+1412	141	Manufacture of workwear			
+14120	1412	Manufacture of workwear	Gweithgynhyrchu dillad gwaith		
+1413	141	Manufacture of other outerwear			
+14131	1413	Manufacture of other men's outerwear	Gweithgynhyrchu dillad uchaf eraill i ddynion		
+14132	1413	Manufacture of other women's outerwear	Gweithgynhyrchu dillad uchaf eraill i fenywod		
+1414	141	Manufacture of underwear			
+14141	1414	Manufacture of men's underwear	Gweithgynhyrchu dillad isaf i ddynion		
+14142	1414	Manufacture of women's underwear	Gweithgynhyrchu dillad isaf i fenywod		
+1419	141	Manufacture of other wearing apparel and accessories			
+14190	1419	Manufacture of other wearing apparel and accessories not elsewhere classified	Gweithgynhyrchu dillad ac ategolion eraill n.dd.b.		
+142	14	Manufacture of articles of fur			
+1420	142	Manufacture of articles of fur			
+14200	1420	Manufacture of articles of fur	Gweithgynhyrchu eitemau ffwr		
+143	14	Manufacture of knitted and crocheted apparel			
+1431	143	Manufacture of knitted and crocheted hosiery			
+14310	1431	Manufacture of knitted and crocheted hosiery	Gweithgynhyrchu hosanwaith wedi'i wau a'i grosio		
+1439	143	Manufacture of other knitted and crocheted apparel			
+14390	1439	Manufacture of other knitted and crocheted apparel	Gweithgynhyrchu dillad eraill wedi'i gwau a’u crosio		
+15	C	Manufacture of leather and related products			
+151	15	Tanning and dressing of leather; manufacture of luggage, handbags, saddlery and harness; dressing and dyeing of fur			
+1511	151	Tanning and dressing of leather; dressing and dyeing of fur			
+15110	1511	Tanning and dressing of leather; dressing and dyeing of fur	Barcio a thrin lledr; trin a lliwio ffwr		
+1512	151	Manufacture of luggage, handbags and the like, saddlery and harness			
+15120	1512	Manufacture of luggage, handbags and the like, saddlery and harness	Gweithgynhyrchu bagiau, bagiau llaw ac ati, cyfrwyon a harneisi		
+152	15	Manufacture of footwear			
+1520	152	Manufacture of footwear			
+15200	1520	Manufacture of footwear	Gweithgynhyrchu esgidiau		
+16	C	Manufacture of wood and of products of wood and cork, except furniture; manufacture of articles of straw and plaiting materials			
+161	16	Sawmilling and planing of wood			
+1610	161	Sawmilling and planing of wood			
+16100	1610	Sawmilling and planing of wood	Llifio a phlaenio pren		
+162	16	Manufacture of products of wood, cork, straw and plaiting materials			
+1621	162	Manufacture of veneer sheets and wood-based panels			
+16210	1621	Manufacture of veneer sheets and wood-based panels	Gweithgynhyrchu dalenni argaen a phaneli o bren		
+1622	162	Manufacture of assembled parquet floors			
+16220	1622	Manufacture of assembled parquet floors	Gweithgynhyrchu lloriau parquet parod		
+1623	162	Manufacture of other builders' carpentry and joinery			
+16230	1623	Manufacture of other builders' carpentry and joinery	Gweithgynhyrchu gwaith coed a gwaith saer arall ar gyfer adeiladwyr		
+1624	162	Manufacture of wooden containers			
+16240	1624	Manufacture of wooden containers	Gweithgynhyrchu cynwysyddion pren		
+1629	162	Manufacture of other products of wood; manufacture of articles of cork, straw and plaiting materials			
+16290	1629	Manufacture of other products of wood; manufacture of articles of cork, straw and plaiting materials	Gweithgynhyrchu cynhyrchion pren eraill; gweithgynhyrchu deunyddiau corc, gwellt a phleth		
+17	C	Manufacture of paper and paper products			
+171	17	Manufacture of pulp, paper and paperboard			
+1711	171	Manufacture of pulp			
+17110	1711	Manufacture of pulp	Gweithgynhyrchu mwydion pren		
+1712	171	Manufacture of paper and paperboard			
+17120	1712	Manufacture of paper and paperboard	Gweithgynhyrchu papur a bwrdd papur		
+172	17	Manufacture of articles of paper and paperboard			
+1721	172	Manufacture of corrugated paper and paperboard and of containers of paper and paperboard			
+17211	1721	Manufacture of corrugated paper and paperboard, sacks and bags	Gweithgynhyrchu papur rhychiog a bwrdd papur, sachau a bagiau		
+17219	1721	Manufacture of other paper and paperboard containers	Gweithgynhyrchu cynwysyddion eraill o bapur a bwrdd papur		
+1722	172	Manufacture of household and sanitary goods and of toilet requisites			
+17220	1722	Manufacture of household and sanitary goods and of toilet requisites	Gweithgynhyrchu nwyddau cartref, iechydol a thŷ bach		
+1723	172	Manufacture of paper stationery			
+17230	1723	Manufacture of paper stationery	Gweithgynhyrchu deunyddiau ysgrifennu papur		
+1724	172	Manufacture of wallpaper			
+17240	1724	Manufacture of wallpaper	Gweithgynhyrchu papur wal		
+1729	172	Manufacture of other articles of paper and paperboard			
+17290	1729	Manufacture of other articles of paper and paperboard not elsewhere classified	Gweithgynhyrchu eitemau eraill o bapur a bwrdd papur n.dd.b.		
+18	C	Printing and reproduction of recorded media			
+181	18	Printing and service activities related to printing			
+1811	181	Printing of newspapers			
+18110	1811	Printing of newspapers	Argraffu papurau newydd		
+1812	181	Other printing			
+18121	1812	Manufacture of printed labels	Gweithgynhyrchu labeli printiedig		
+18129	1812	Printing not elsewhere classified	Argraffu n.dd.b.		
+1813	181	Pre-press and pre-media services			
+18130	1813	Pre-press and pre-media services	Gwasanaethau paratoi ar gyfer y wasg a'r cyfryngau		
+1814	181	Binding and related services			
+18140	1814	Binding and related services	Rhwymo a gwasanaethau cysylltiedig		
+182	18	Reproduction of recorded media			
+1820	182	Reproduction of recorded media			
+18201	1820	Reproduction of sound recording	Atgynhyrchu recordiadau sain		
+18202	1820	Reproduction of video recording	Atgynhyrchu recordiadau fideo		
+18203	1820	Reproduction of computer media	Atgynhyrchu cyfryngau cyfrifiadurol		
+19	C	Manufacture of coke and refined petroleum products			
+191	19	Manufacture of coke oven products			
+1910	191	Manufacture of coke oven products			
+19100	1910	Manufacture of coke oven products	Gweithgynhyrchu cynhyrchion ffwrn golosg		
+192	19	Manufacture of refined petroleum products			
+1920	192	Manufacture of refined petroleum products			
+19201	1920	Mineral oil refining	Puro olewon mwynol		
+19209	1920	Other treatment of petroleum products (excluding petrochemicals manufacture)	Trin cynhyrchion petrolewm eraill (ac eithrio gweithgynhyrchu petrocemegion)		
+20	C	Manufacture of chemicals and chemical products			
+201	20	Manufacture of basic chemicals, fertilisers and nitrogen compounds, plastics and synthetic rubber in primary forms			
+2011	201	Manufacture of industrial gases			
+20110	2011	Manufacture of industrial gases	Gweithgynhyrchu nwyon diwydiannol		
+2012	201	Manufacture of dyes and pigments			
+20120	2012	Manufacture of dyes and pigments	Gweithgynhyrchu lifynnau a phigmentau		
+2013	201	Manufacture of other inorganic basic chemicals			
+20130	2013	Manufacture of other inorganic basic chemicals	Gweithgynhyrchu cemegion sylfaenol anorganig eraill		
+2014	201	Manufacture of other organic basic chemicals			
+20140	2014	Manufacture of other organic basic chemicals	Gweithgynhyrchu cemegion sylfaenol organig eraill		
+2015	201	Manufacture of fertilisers and nitrogen compounds			
+20150	2015	Manufacture of fertilizers and nitrogen compounds	Gweithgynhyrchu gwrtaith a chyfansoddion nitrogen		
+2016	201	Manufacture of plastics in primary forms			
+20160	2016	Manufacture of plastics in primary forms	Gweithgynhyrchu plastig ar ei ffurf sylfaenol		
+2017	201	Manufacture of synthetic rubber in primary forms			
+20170	2017	Manufacture of synthetic rubber in primary forms	Gweithgynhyrchu rwber synthetig ar ei ffurf sylfaenol		
+202	20	Manufacture of pesticides and other agrochemical products			
+2020	202	Manufacture of pesticides and other agrochemical products			
+20200	2020	Manufacture of pesticides and other agrochemical products	Gweithgynhyrchu plaladdwyr a chynnyrch agrocemegol		
+203	20	Manufacture of paints, varnishes and similar coatings, printing ink and mastics			
+2030	203	Manufacture of paints, varnishes and similar coatings, printing ink and mastics			
+20301	2030	Manufacture of paints, varnishes and similar coatings, mastics and sealants	Gweithgynhyrchu paent, farnais a chaenau, mastigau a deunyddiau selio tebyg eraill		
+20302	2030	Manufacture of printing ink	Gweithgynhyrchu inc argraffu		
+204	20	Manufacture of soap and detergents, cleaning and polishing preparations, perfumes and toilet preparations			
+2041	204	Manufacture of soap and detergents, cleaning and polishing preparations			
+20411	2041	Manufacture of soap and detergents	Gweithgynhyrchu sebon a glanedyddion		
+20412	2041	Manufacture of cleaning and polishing preparations	Gweithgynhyrchu cymysgeddau glanhau a chaboli		
+2042	204	Manufacture of perfumes and toilet preparations			
+20420	2042	Manufacture of perfumes and toilet preparations	Gweithgynhyrchu persawrau a chymysgeddau ymolchi		
+205	20	Manufacture of other chemical products			
+2051	205	Manufacture of explosives			
+20510	2051	Manufacture of explosives	Gweithgynhyrchu ffrwydron		
+2052	205	Manufacture of glues			
+20520	2052	Manufacture of glues	Gweithgynhyrchu glud		
+2053	205	Manufacture of essential oils			
+20530	2053	Manufacture of essential oils	Gweithgynhyrchu olewon naws		
+2059	205	Manufacture of other chemical products not elsewhere classified			
+20590	2059	Manufacture of other chemical products not elsewhere classified	Gweithgynhyrchu cynhyrchion cemegol eraill n.dd.b.		
+206	20	Manufacture of man-made fibres			
+2060	206	Manufacture of man-made fibres			
+20600	2060	Manufacture of man-made fibres	Gweithgynhyrchu ffibrau gwneud		
+21	C	Manufacture of basic pharmaceutical products and pharmaceutical preparations			
+211	21	Manufacture of basic pharmaceutical products			
+2110	211	Manufacture of basic pharmaceutical products			
+21100	2110	Manufacture of basic pharmaceutical products	Gweithgynhyrchu cynhyrchion fferyllol sylfaenol		
+212	21	Manufacture of pharmaceutical preparations			
+2120	212	Manufacture of pharmaceutical preparations			
+21200	2120	Manufacture of pharmaceutical preparations	Gweithgynhyrchu cymysgeddau fferyllol		
+22	C	Manufacture of rubber and plastic products			
+221	22	Manufacture of rubber products			
+2211	221	Manufacture of rubber tyres and tubes; retreading and rebuilding of rubber tyres			
+22110	2211	Manufacture of rubber tyres and tubes; retreading and rebuilding of rubber tyres	Gweithgynhyrchu teiars a thiwbiau rwber; adfer ac ailwampio teiars rwber		
+2219	221	Manufacture of other rubber products			
+22190	2219	Manufacture of other rubber products	Gweithgynhyrchu cynhyrchion rwber eraill		
+222	22	Manufacture of plastics products			
+2221	222	Manufacture of plastic plates, sheets, tubes and profiles			
+22210	2221	Manufacture of plastic plates, sheets, tubes and profiles	Gweithgynhyrchu platiau, dalenni, tiwbiau a phroffiliau plastig		
+2222	222	Manufacture of plastic packing goods			
+22220	2222	Manufacture of plastic packing goods	Gweithgynhyrchu nwyddau pacio plastig		
+2223	222	Manufacture of builders’ ware of plastic			
+22230	2223	Manufacture of builders  ware of plastic	Gweithgynhyrchu deunydd adeiladu o blastig		
+2229	222	Manufacture of other plastic products			
+22290	2229	Manufacture of other plastic products	Gweithgynhyrchu cynhyrchion plastig eraill		
+23	C	Manufacture of other non-metallic mineral products			
+231	23	Manufacture of glass and glass products			
+2311	231	Manufacture of flat glass			
+23110	2311	Manufacture of flat glass	Gweithgynhyrchu gwydr gwastad		
+2312	231	Shaping and processing of flat glass			
+23120	2312	Shaping and processing of flat glass	Siapio a phrosesu gwydr gwastad		
+2313	231	Manufacture of hollow glass			
+23130	2313	Manufacture of hollow glass	Gweithgynhyrchu gwydr cau		
+2314	231	Manufacture of glass fibres			
+23140	2314	Manufacture of glass fibres	Gweithgynhyrchu ffibrau gwydr		
+2319	231	Manufacture and processing of other glass, including technical glassware			
+23190	2319	Manufacture and processing of other glass, including technical glassware	Gweithgynhyrchu a phrosesu gwydrau eraill, gan gynnwys llestri gwydr technegol		
+232	23	Manufacture of refractory products			
+2320	232	Manufacture of refractory products			
+23200	2320	Manufacture of refractory products	Gweithgynhyrchu cynhyrchion gwrthsafol		
+233	23	Manufacture of clay building materials			
+2331	233	Manufacture of ceramic tiles and flags			
+23310	2331	Manufacture of ceramic tiles and flags	Gweithgynhyrchu teils a cherrig llorio serameg		
+2332	233	Manufacture of bricks, tiles and construction products, in baked clay			
+23320	2332	Manufacture of bricks, tiles and construction products, in baked clay	Gweithgynhyrchu brics, teils a chynhyrchion adeiladu clai cras		
+234	23	Manufacture of other porcelain and ceramic products			
+2341	234	Manufacture of ceramic household and ornamental articles			
+23410	2341	Manufacture of ceramic household and ornamental articles	Gweithgynhyrchu nwyddau cartref ac addurnol seramig		
+2342	234	Manufacture of ceramic sanitary fixtures			
+23420	2342	Manufacture of ceramic sanitary fixtures	Gweithgynhyrchu offer iechydol seramig		
+2343	234	Manufacture of ceramic insulators and insulating fittings			
+23430	2343	Manufacture of ceramic insulators and insulating fittings	Gweithgynhyrchu ynysyddion ac offer ynysu seramig		
+2344	234	Manufacture of other technical ceramic products			
+23440	2344	Manufacture of other technical ceramic products	Gweithgynhyrchu cynhyrchion technegol seramig eraill		
+2349	234	Manufacture of other ceramic products			
+23490	2349	Manufacture of other ceramic products not elsewhere classified	Gweithgynhyrchu cynhyrchion seramig eraill n.dd.b.		
+235	23	Manufacture of cement, lime and plaster			
+2351	235	Manufacture of cement			
+23510	2351	Manufacture of cement	Gweithgynhyrchu sment		
+2352	235	Manufacture of lime and plaster			
+23520	2352	Manufacture of lime and plaster	Gweithgynhyrchu calch a phlastr		
+236	23	Manufacture of articles of concrete, cement and plaster			
+2361	236	Manufacture of concrete products for construction purposes			
+23610	2361	Manufacture of concrete products for construction purposes	Gweithgynhyrchu cynhyrchion concrit at ddibenion adeiladu		
+2362	236	Manufacture of plaster products for construction purposes			
+23620	2362	Manufacture of plaster products for construction purposes	Gweithgynhyrchu cynhyrchion plastr at ddibenion adeiladu		
+2363	236	Manufacture of ready-mixed concrete			
+23630	2363	Manufacture of ready-mixed concrete	Gweithgynhyrchu concrit parod		
+2364	236	Manufacture of mortars			
+23640	2364	Manufacture of mortars	Gweithgynhyrchu morter (priddgalch)		
+2365	236	Manufacture of fibre cement			
+23650	2365	Manufacture of fibre cement	Gweithgynhyrchu sment ffibr		
+2369	236	Manufacture of other articles of concrete, plaster and cement			
+23690	2369	Manufacture of other articles of concrete, plaster and cement	Gweithgynhyrchu nwyddau eraill o goncrit, plastr a sment		
+237	23	Cutting, shaping and finishing of stone			
+2370	237	Cutting, shaping and finishing of stone			
+23700	2370	Cutting, shaping and finishing of stone	Torri, naddu a gorffennu carreg		
+239	23	Manufacture of abrasive products and non-metallic mineral products not elsewhere classified			
+2391	239	Production of abrasive products			
+23910	2391	Production of abrasive products	Cynhyrchu cynhyrchion ffrithiol		
+2399	239	Manufacture of other non-metallic mineral products not elsewhere classified			
+23990	2399	Manufacture of other non-metallic mineral products not elsewhere classified	Gweithgynhyrchu cynhyrchion mwynau anfetelaidd eraill n.dd.b.		
+24	C	Manufacture of basic metals			
+241	24	Manufacture of basic iron and steel and of ferro-alloys			
+2410	241	Manufacture of basic iron and steel and of ferro-alloys			
+24100	2410	Manufacture of basic iron and steel and of ferro-alloys	Gweithgynhyrchu haearn a dur sylfaenol a ffero-aloeon		
+242	24	Manufacture of tubes, pipes, hollow profiles and related fittings, of steel			
+2420	242	Manufacture of tubes, pipes, hollow profiles and related fittings, of steel			
+24200	2420	Manufacture of tubes, pipes, hollow profiles and related fittings, of steel	Gweithgynhyrchu tiwbiau, pibellau, proffiliau gwag a gosodiadau cysylltiedig, o ddur		
+243	24	Manufacture of other products of first processing of steel			
+2431	243	Cold drawing of bars			
+24310	2431	Cold drawing of bars	Tynnu bariau yn oer		
+2432	243	Cold rolling of narrow strip			
+24320	2432	Cold rolling of narrow strip	Rholio stribedi cul yn oer		
+2433	243	Cold forming or folding			
+24330	2433	Cold forming or folding	Ffurfio neu blygu oer		
+2434	243	Cold drawing of wire			
+24340	2434	Cold drawing of wire	Tynnu weiar yn oer		
+244	24	Manufacture of basic precious and other non-ferrous metals			
+2441	244	Precious metals production			
+24410	2441	Precious metals production	Cynhyrchu metelau gwerthfawr		
+2442	244	Aluminium production			
+24420	2442	Aluminium production	Cynhyrchu alwminiwm		
+2443	244	Lead, zinc and tin production			
+24430	2443	Lead, zinc and tin production	Cynhyrchu plwm, sinc a thun		
+2444	244	Copper production			
+24440	2444	Copper production	Cynhyrchu copr		
+2445	244	Other non-ferrous metal production			
+24450	2445	Other non-ferrous metal production	Cynhyrchu metelau anfferrus eraill		
+2446	244	Processing of nuclear fuel			
+24460	2446	Processing of nuclear fuel	Prosesu tanwydd niwclear		
+245	24	Casting of metals			
+2451	245	Casting of iron			
+24510	2451	Casting of iron	Bwrw haearn		
+2452	245	Casting of steel			
+24520	2452	Casting of steel	Bwrw dur		
+2453	245	Casting of light metals			
+24530	2453	Casting of light metals	Bwrw metelau ysgafn		
+2454	245	Casting of other non-ferrous metals			
+24540	2454	Casting of other non-ferrous metals	Bwrw metelau anfferrus eraill		
+25	C	Manufacture of fabricated metal products, except machinery and equipment			
+251	25	Manufacture of structural metal products			
+2511	251	Manufacture of metal structures and parts of structures			
+25110	2511	Manufacture of metal structures and parts of structures	Gweithgynhyrchu strwythurau metel a rhannau o strwythurau		
+2512	251	Manufacture of doors and windows of metal			
+25120	2512	Manufacture of doors and windows of metal	Gweithgynhyrchu drysau a ffenestri o fetel		
+252	25	Manufacture of tanks, reservoirs and containers of metal			
+2521	252	Manufacture of central heating radiators and boilers			
+25210	2521	Manufacture of central heating radiators and boilers	Gweithgynhyrchu rheiddiaduron a bwyleri gwres canolog		
+2529	252	Manufacture of other tanks, reservoirs and containers of metal			
+25290	2529	Manufacture of other tanks, reservoirs and containers of metal	Gweithgynhyrchu tanciau, cronfeydd a chynwysyddion eraill o fetel		
+253	25	Manufacture of steam generators, except central heating hot water boilers			
+2530	253	Manufacture of steam generators, except central heating hot water boilers			
+25300	2530	Manufacture of steam generators, except central heating hot water boilers	Gweithgynhyrchu generaduron stêm, ac eithrio bwyleri dŵr poeth gwres canolog		
+254	25	Manufacture of weapons and ammunition			
+2540	254	Manufacture of weapons and ammunition			
+25400	2540	Manufacture of weapons and ammunition	Gweithgynhyrchu arfau a ffrwydron rhyfel		
+255	25	Forging, pressing, stamping and roll-forming of metal; powder metallurgy			
+2550	255	Forging, pressing, stamping and roll-forming of metal; powder metallurgy			
+25500	2550	Forging, pressing, stamping and roll-forming of metal; powder metallurgy	Gofannu, gwasgu, stampio a rholio metel; meteleg powdr		
+256	25	Treatment and coating of metals; machining			
+2561	256	Treatment and coating of metals			
+25610	2561	Treatment and coating of metals	Trin a chaenu metelau		
+2562	256	Machining			
+25620	2562	Machining	Turnio		
+257	25	Manufacture of cutlery, tools and general hardware			
+2571	257	Manufacture of cutlery			
+25710	2571	Manufacture of cutlery	Gweithgynhyrchu cytleri		
+2572	257	Manufacture of locks and hinges			
+25720	2572	Manufacture of locks and hinges	Gweithgynhyrchu cloeon a cholfachau		
+2573	257	Manufacture of tools			
+25730	2573	Manufacture of tools	Gweithgynhyrchu tŵls		
+259	25	Manufacture of other fabricated metal products			
+2591	259	Manufacture of steel drums and similar containers			
+25910	2591	Manufacture of steel drums and similar containers	Gweithgynhyrchu drymiau dur a chynwysyddion tebyg		
+2592	259	Manufacture of light metal packaging			
+25920	2592	Manufacture of light metal packaging	Gweithgynhyrchu deunydd pecynnu metel ysgafn		
+2593	259	Manufacture of wire products, chain and springs			
+25930	2593	Manufacture of wire products, chain and springs	Gweithgynhyrchu cynhyrchion weiar, cadwyni a sbringiau		
+2594	259	Manufacture of fasteners and screw machine products			
+25940	2594	Manufacture of fasteners and screw machine products	Gweithgynhyrchu ffasnyddion a sgriwiau peiriannol		
+2599	259	Manufacture of other fabricated metal products not elsewhere classified			
+25990	2599	Manufacture of other fabricated metal products not elsewhere classified	Gweithgynhyrchu cynhyrchion metel gwneud eraill n.dd.b.		
+26	C	Manufacture of computer, electronic and optical products			
+261	26	Manufacture of electronic components and boards			
+2611	261	Manufacture of electronic components			
+26110	2611	Manufacture of electronic components	Gweithgynhyrchu cydrannau electronig		
+2612	261	Manufacture of loaded electronic boards			
+26120	2612	Manufacture of loaded electronic boards	Gweithgynhyrchu byrddau electronig parod		
+262	26	Manufacture of computers and peripheral equipment			
+2620	262	Manufacture of computers and peripheral equipment			
+26200	2620	Manufacture of computers and peripheral equipment	Gweithgynhyrchu cyfrifiaduron a pherifferolion		
+263	26	Manufacture of communication equipment			
+2630	263	Manufacture of communication equipment			
+26301	2630	Manufacture of telegraph and telephone apparatus and equipment	Gweithgynhyrchu cyfarpar ac offer telegraff a theleffon		
+26309	2630	Manufacture of communication equipment other than telegraph, and telephone apparatus and equipment	Gweithgynhyrchu offer a chyfarpar cyfathrebu ac eithrio cyfarpar ac offer telegraff a theleffon		
+264	26	Manufacture of consumer electronics			
+2640	264	Manufacture of consumer electronics			
+26400	2640	Manufacture of consumer electronics	Gweithgynhyrchu electroneg i ddefnyddwyr		
+265	26	Manufacture of instruments and appliances for measuring, testing and navigation; watches and clocks			
+2651	265	Manufacture of instruments and appliances for measuring, testing and navigation			
+26511	2651	Manufacture of electronic measuring, testing etc. equipment, not for industrial process control	Gweithgynhyrchu cyfarpar electronig ar gyfer mesur, profi ac ati, ond nid at ddibenion rheoli prosesau diwydiannol		
+26512	2651	Manufacture of electronic industrial process control equipment	Gweithgynhyrchu cyfarpar electronig i reoli prosesau diwydiannol		
+26513	2651	Manufacture of non-electronic measuring, testing etc. equipment, not for industrial process control	Gweithgynhyrchu cyfarpar nad yw'n electronig ar gyfer mesur, profi ac ati, ond nid at ddibenion rheoli prosesau diwydiannol		
+26514	2651	Manufacture of non-electronic industrial process control equipment	Gweithgynhyrchu cyfarpar nad yw'n electronig ar gyfer rheoli prosesau diwydiannol		
+2652	265	Manufacture of watches and clocks			
+26520	2652	Manufacture of watches and clocks	Gweithgynhyrchu watsys a chlociau		
+266	26	Manufacture of irradiation, electromedical and electrotherapeutic equipment			
+2660	266	Manufacture of irradiation, electromedical and electrotherapeutic equipment			
+26600	2660	Manufacture of irradiation, electromedical and electrotherapeutic equipment	Gweithgynhyrchu cyfarpar arbelydru, electrofeddygol ac electrotherapiwtig		
+267	26	Manufacture of optical instruments and photographic equipment			
+2670	267	Manufacture of optical instruments and photographic equipment			
+26701	2670	Manufacture of optical precision instruments	Gweithgynhyrchu cyfarpar manylwaith optig		
+26702	2670	Manufacture of photographic and cinematographic equipment	Gweithgynhyrchu cyfarpar ffotograffig a sinematograffig		
+268	26	Manufacture of magnetic and optical media			
+2680	268	Manufacture of magnetic and optical media			
+26800	2680	Manufacture of magnetic and optical media	Gweithgynhyrchu cyfryngau magnetig ac optegol		
+27	C	Manufacture of electrical equipment			
+271	27	Manufacture of electric motors, generators, transformers and electricity distribution and control apparatus			
+2711	271	Manufacture of electric motors, generators and transformers			
+27110	2711	Manufacture of electric motors, generators and transformers	Gweithgynhyrchu moduron trydan, generaduron a newidyddion		
+2712	271	Manufacture of electricity distribution and control apparatus			
+27120	2712	Manufacture of electricity distribution and control apparatus	Gweithgynhyrchu cyfarpar dosbarthu a rheoli trydan		
+272	27	Manufacture of batteries and accumulators			
+2720	272	Manufacture of batteries and accumulators			
+27200	2720	Manufacture of batteries and accumulators	Gweithgynhyrchu batris a chronaduron		
+273	27	Manufacture of wiring and wiring devices			
+2731	273	Manufacture of fibre optic cables			
+27310	2731	Manufacture of fibre optic cables	Gweithgynhyrchu ceblau ffibr optig		
+2732	273	Manufacture of other electronic and electric wires and cables			
+27320	2732	Manufacture of other electronic and electric wires and cables	Gweithgynhyrchu gwifrau a cheblau electronig a thrydan eraill		
+2733	273	Manufacture of wiring devices			
+27330	2733	Manufacture of wiring devices	Gweithgynhyrchu dyfeisiau gwifro		
+274	27	Manufacture of electric lighting equipment			
+2740	274	Manufacture of electric lighting equipment			
+27400	2740	Manufacture of electric lighting equipment	Gweithgynhyrchu offer goleuo trydanol		
+275	27	Manufacture of domestic appliances			
+2751	275	Manufacture of electric domestic appliances			
+27510	2751	Manufacture of electric domestic appliances	Gweithgynhyrchu dyfeisiau trydan domestig		
+2752	275	Manufacture of non-electric domestic appliances			
+27520	2752	Manufacture of non-electric domestic appliances	Gweithgynhyrchu dyfeisiau domestig nad ydynt yn drydanol		
+279	27	Manufacture of other electrical equipment			
+2790	279	Manufacture of other electrical equipment			
+27900	2790	Manufacture of other electrical equipment	Gweithgynhyrchu cyfarpar trydanol eraill		
+28	C	Manufacture of machinery and equipment not elsewhere classified			
+281	28	Manufacture of general-purpose machinery			
+2811	281	Manufacture of engines and turbines, except aircraft, vehicle and cycle engines			
+28110	2811	Manufacture of engines and turbines, except aircraft, vehicle and cycle engines	Gweithgynhyrchu injans a thyrbinau, ac eithrio injans awyrennau, cerbydau a beiciau		
+2812	281	Manufacture of fluid power equipment			
+28120	2812	Manufacture of fluid power equipment	Gweithgynhyrchu cyfarpar pŵer hylifol		
+2813	281	Manufacture of other pumps and compressors			
+28131	2813	Manufacture of pumps	Gweithgynhyrchu pympiau		
+28132	2813	Manufacture of compressors	Gweithgynhyrchu cywasgyddion		
+2814	281	Manufacture of other taps and valves			
+28140	2814	Manufacture of taps and valves	Gweithgynhyrchu tapiau a falfiau		
+2815	281	Manufacture of bearings, gears, gearing and driving elements			
+28150	2815	Manufacture of bearings, gears, gearing and driving elements	Gweithgynhyrchu berynnau, gerau ac elfennau gerio a gyrru		
+282	28	Manufacture of other general-purpose machinery			
+2821	282	Manufacture of ovens, furnaces and furnace burners			
+28210	2821	Manufacture of ovens, furnaces and furnace burners	Gweithgynhyrchu ffyrnau, ffwrneisi a llosgwyr ffwrnais		
+2822	282	Manufacture of lifting and handling equipment			
+28220	2822	Manufacture of lifting and handling equipment	Gweithgynhyrchu cyfarpar codi a thrin		
+2823	282	Manufacture of office machinery and equipment (except computers and peripheral equipment)			
+28230	2823	Manufacture of office machinery and equipment (except computers and peripheral equipment)	Gweithgynhyrchu peiriannau a chyfarpar swyddfa (ac eithrio cyfrifiaduron a pherifferolion)		
+2824	282	Manufacture of power-driven hand tools			
+28240	2824	Manufacture of power-driven hand tools	Gweithgynhyrchu tŵls pŵer maint llaw		
+2825	282	Manufacture of non-domestic cooling and ventilation equipment			
+28250	2825	Manufacture of non-domestic cooling and ventilation equipment	Gweithgynhyrchu offer oeri ac awyru annomestig		
+2829	282	Manufacture of other general-purpose machinery not elsewhere classified			
+28290	2829	Manufacture of other general-purpose machinery not elsewhere classified	Gweithgynhyrchu peiriannau eraill at ddibenion cyffredinol n.dd.b.		
+283	28	Manufacture of agricultural and forestry machinery			
+2830	283	Manufacture of agricultural and forestry machinery			
+28301	2830	Manufacture of agricultural tractors	Gweithgynhyrchu tractorau amaethyddol		
+28302	2830	Manufacture of agricultural and forestry machinery other than tractors	Gweithgynhyrchu peiriannau amaethyddol a choedwigaeth ac eithrio tractorau		
+284	28	Manufacture of metal forming machinery and machine tools			
+2841	284	Manufacture of metal forming machinery			
+28410	2841	Manufacture of metal forming machinery	Gweithgynhyrchu peiriannau ffurfio metel		
+2849	284	Manufacture of other machine tools			
+28490	2849	Manufacture of other machine tools	Gweithgynhyrchu offer peiriannol eraill		
+289	28	Manufacture of other special-purpose machinery			
+2891	289	Manufacture of machinery for metallurgy			
+28910	2891	Manufacture of machinery for metallurgy	Gweithgynhyrchu peiriannau meteleg		
+2892	289	Manufacture of machinery for mining, quarrying and construction			
+28921	2892	Manufacture of machinery for mining	Gweithgynhyrchu peiriannau mwyngloddio		
+28922	2892	Manufacture of earthmoving equipment	Gweithgynhyrchu cyfarpar symud tir		
+28923	2892	Manufacture of equipment for concrete crushing and screening and roadworks	Gweithgynhyrchu cyfarpar malu concrit a sgrinio a gwaith ffyrdd		
+2893	289	Manufacture of machinery for food, beverage and tobacco processing			
+28930	2893	Manufacture of machinery for food, beverage and tobacco processing	Gweithgynhyrchu peiriannau prosesu bwyd, diodydd a thybaco		
+2894	289	Manufacture of machinery for textile, apparel and leather production			
+28940	2894	Manufacture of machinery for textile, apparel and leather production	Gweithgynhyrchu peiriannau cynhyrchu tecstilau, dillad a lledr		
+2895	289	Manufacture of machinery for paper and paperboard production			
+28950	2895	Manufacture of machinery for paper and paperboard production	Gweithgynhyrchu peiriannau cynhyrchu papur a bwrdd papur		
+2896	289	Manufacture of plastics and rubber machinery			
+28960	2896	Manufacture of plastics and rubber machinery	Gweithgynhyrchu peiriannau gwneud plastig a rwber		
+2899	289	Manufacture of other special-purpose machinery not elsewhere classified			
+28990	2899	Manufacture of other special-purpose machinery not elsewhere classified	Gweithgynhyrchu peiriannau pwrpasol eraill n.dd.b.		
+29	C	Manufacture of motor vehicles, trailers and semi-trailers			
+291	29	Manufacture of motor vehicles			
+2910	291	Manufacture of motor vehicles			
+29100	2910	Manufacture of motor vehicles	Gweithgynhyrchu cerbydau modur		
+292	29	Manufacture of bodies (coachwork) for motor vehicles; manufacture of trailers and semi-trailers			
+2920	292	Manufacture of bodies (coachwork) for motor vehicles; manufacture of trailers and semi-trailers			
+29201	2920	Manufacture of bodies (coachwork) for motor vehicles (except caravans)	Gweithgynhyrchu cyrff (coetswaith) cerbydau modur (ac eithrio carafanau)		
+29202	2920	Manufacture of trailers and semi-trailers	Gweithgynhyrchu trelars a hanner-trelars		
+29203	2920	Manufacture of caravans	Gweithgynhyrchu carafanau		
+293	29	Manufacture of parts and accessories for motor vehicles			
+2931	293	Manufacture of electrical and electronic equipment for motor vehicles			
+29310	2931	Manufacture of electrical and electronic equipment for motor vehicles and their engines	Gweithgynhyrchu cyfarpar trydanol ac electronig ar gyfer cerbydau modur a'u hinjans		
+2932	293	Manufacture of other parts and accessories for motor vehicles			
+29320	2932	Manufacture of other parts and accessories for motor vehicles	Gweithgynhyrchu darnau ac ategolion eraill ar gyfer cerbydau modur		
+30	C	Manufacture of other transport equipment			
+301	30	Building of ships and boats			
+3011	301	Building of ships and floating structures			
+30110	3011	Building of ships and floating structures	Adeiladu llongau a strwythurau sy'n arnofio		
+3012	301	Building of pleasure and sporting boats			
+30120	3012	Building of pleasure and sporting boats	Adeiladu cychod pleser a chwaraeon		
+302	30	Manufacture of railway locomotives and rolling stock			
+3020	302	Manufacture of railway locomotives and rolling stock			
+30200	3020	Manufacture of railway locomotives and rolling stock	Gweithgynhyrchu locomotifau a cherbydau rheilffordd		
+303	30	Manufacture of air and spacecraft and related machinery			
+3030	303	Manufacture of air and spacecraft and related machinery			
+30300	3030	Manufacture of air and spacecraft and related machinery	Gweithgynhyrchu peiriannau awyr a llongau gofod a'r peiriannau cysylltiedig		
+304	30	Manufacture of military fighting vehicles			
+3040	304	Manufacture of military fighting vehicles			
+30400	3040	Manufacture of military fighting vehicles	Gweithgynhyrchu cerbydau ymladd milwrol		
+309	30	Manufacture of transport equipment not elsewhere classified			
+3091	309	Manufacture of motorcycles			
+30910	3091	Manufacture of motorcycles	Gweithgynhyrchu beiciau modur		
+3092	309	Manufacture of bicycles and invalid carriages			
+30920	3092	Manufacture of bicycles and invalid carriages	Gweithgynhyrchu beiciau a cherbydau i'r methedig		
+3099	309	Manufacture of other transport equipment not elsewhere classified			
+30990	3099	Manufacture of other transport equipment not elsewhere classified	Gweithgynhyrchu cyfarpar arall ar gyfer trafnidiaeth n.dd.b.		
+31	C	Manufacture of furniture			
+310	31	Manufacture of furniture			
+3101	310	Manufacture of office and shop furniture			
+31010	3101	Manufacture of office and shop furniture	Gweithgynhyrchu celfi swyddfa a siop		
+3102	310	Manufacture of kitchen furniture			
+31020	3102	Manufacture of kitchen furniture	Gweithgynhyrchu celfi'r gegin		
+3103	310	Manufacture of mattresses			
+31030	3103	Manufacture of mattresses	Gweithgynhyrchu matresi		
+3109	310	Manufacture of other furniture			
+31090	3109	Manufacture of other furniture	Gweithgynhyrchu celfi eraill		
+32	C	Other manufacturing			
+321	32	Manufacture of jewellery, bijouterie and related articles			
+3211	321	Striking of coins			
+32110	3211	Striking of coins	Bwrw darnau arian		
+3212	321	Manufacture of jewellery and related articles			
+32120	3212	Manufacture of jewellery and related articles	Gweithgynhyrchu gemwaith ac eitemau cysylltiedig		
+3213	321	Manufacture of imitation jewellery and related articles			
+32130	3213	Manufacture of imitation jewellery and related articles	Gweithgynhyrchu gemwaith ffug ac eitemau cysylltiedig		
+322	32	Manufacture of musical instruments			
+3220	322	Manufacture of musical instruments			
+32200	3220	Manufacture of musical instruments	Gweithgynhyrchu offerynnau cerdd		
+323	32	Manufacture of sports goods			
+3230	323	Manufacture of sports goods			
+32300	3230	Manufacture of sports goods	Gweithgynhyrchu nwyddau chwaraeon		
+324	32	Manufacture of games and toys			
+3240	324	Manufacture of games and toys			
+32401	3240	Manufacture of professional and arcade games and toys	Gweithgynhyrchu gemau a theganau proffesiynol ac arcêd		
+32409	3240	Manufacture of other games and toys, not elsewhere classified	Gweithgynhyrchu gemau a theganau eraill n.dd.b.		
+325	32	Manufacture of medical and dental instruments and supplies			
+3250	325	Manufacture of medical and dental instruments and supplies			
+32500	3250	Manufacture of medical and dental instruments and supplies	Gweithgynhyrchu offerynnau a nwyddau meddygol a deintyddol		
+329	32	Other manufacturing not elsewhere classified			
+3291	329	Manufacture of brooms and brushes			
+32910	3291	Manufacture of brooms and brushes	Gweithgynhyrchu ysgubellau a brwshys		
+3299	329	Other manufacturing not elsewhere classified			
+32990	3299	Other manufacturing not elsewhere classified	Gweithgynhyrchu arall n.dd.b.		
+33	C	Repair and installation of machinery and equipment			
+331	33	Repair of fabricated metal products, machinery and equipment			
+3311	331	Repair of fabricated metal products			
+33110	3311	Repair of fabricated metal products	Atgyweirio cynhyrchion metel gwneuthuredig		
+3312	331	Repair of machinery			
+33120	3312	Repair of machinery	Atgyweirio peiriannau		
+3313	331	Repair of electronic and optical equipment			
+33130	3313	Repair of electronic and optical equipment	Atgyweirio offer electronig ac optig		
+3314	331	Repair of electrical equipment			
+33140	3314	Repair of electrical equipment	Atgyweirio offer trydanol		
+3315	331	Repair and maintenance of ships and boats			
+33150	3315	Repair and maintenance of ships and boats	Atgyweirio a chynnal llongau a chychod		
+3316	331	Repair and maintenance of aircraft and spacecraft			
+33160	3316	Repair and maintenance of aircraft and spacecraft	Atgyweirio a chynnal awyrennau a llongau awyr		
+3317	331	Repair and maintenance of other transport equipment			
+33170	3317	Repair and maintenance of other transport equipment not elsewhere classified	Atgyweirio a chynnal of cyfarpar arall ar gyfer trafnidiaeth n.dd.b.		
+3319	331	Repair of other equipment			
+33190	3319	Repair of other equipment	Atgyweirio mathau eraill o gyfarpar		
+332	33	Installation of industrial machinery and equipment			
+3320	332	Installation of industrial machinery and equipment			
+33200	3320	Installation of industrial machinery and equipment	Gosod peiriannau ac offer diwydiannol		
+35	D	Electricity, gas, steam and air conditioning supply			
+351	35	Electric power generation, transmission and distribution			
+3511	351	Production of electricity			
+35110	3511	Production of electricity	Cynhyrchu trydan		
+3512	351	Transmission of electricity			
+35120	3512	Transmission of electricity	Trawsyrru trydan		
+3513	351	Distribution of electricity			
+35130	3513	Distribution of electricity	Dosbarthu trydan		
+3514	351	Trade of electricity			
+35140	3514	Trade of electricity	Masnachu trydan		
+352	35	Manufacture of gas; distribution of gaseous fuels through mains			
+3521	352	Manufacture of gas			
+35210	3521	Manufacture of gas	Gweithgynhyrchu nwy		
+3522	352	Distribution of gaseous fuels through mains			
+35220	3522	Distribution of gaseous fuels through mains	Dosbarthu tanwydd nwyol trwy prif bibell		
+3523	352	Trade of gas through mains			
+35230	3523	Trade of gas through mains	Masnachu nwy trwy prif bibell		
+353	35	Steam and air conditioning supply			
+3530	353	Steam and air conditioning supply			
+35300	3530	Steam and air conditioning supply	Cyflenwi stêm a thymherwyr awyr		
+36	E	Water collection, treatment and supply			
+360	36	Water collection, treatment and supply			
+3600	360	Water collection, treatment and supply			
+36000	3600	Water collection, treatment and supply	Casglu, trin a chyflenwi dŵr		
+37	E	Sewerage			
+370	37	Sewerage			
+3700	370	Sewerage			
+37000	3700	Sewerage	Carthffosiaeth		
+38	E	Waste collection, treatment and disposal activities; materials recovery			
+381	38	Waste collection			
+3811	381	Collection of non-hazardous waste			
+38110	3811	Collection of non-hazardous waste	Casglu gwastraff nad yw'n beryglus		
+3812	381	Collection of hazardous waste			
+38120	3812	Collection of hazardous waste	Casglu gwastraff peryglus		
+382	38	Waste treatment and disposal			
+3821	382	Treatment and disposal of non-hazardous waste			
+38210	3821	Treatment and disposal of non-hazardous waste	Trin a gwaredu gwastraff nad yw'n beryglus		
+3822	382	Treatment and disposal of hazardous waste			
+38220	3822	Treatment and disposal of hazardous waste	Trin a gwaredu gwastraff peryglus		
+383	38	Materials recovery			
+3831	383	Dismantling of wrecks			
+38310	3831	Dismantling of wrecks	Datgymalu drylliadau		
+3832	383	Recovery of sorted materials			
+38320	3832	Recovery of sorted materials	Adfer deunyddiau a ddidolwyd		
+39	E	Remediation activities and other waste management services.			
+390	39	Remediation activities and other waste management services			
+3900	390	Remediation activities and other waste management services			
+39000	3900	Remediation activities and other waste management services	Gweithgareddau adfer a gwasanaethau rheoli gwastraff eraill		
+41	F	Construction of buildings			
+411	41	Development of building projects			
+4110	411	Development of building projects			
+41100	4110	Development of building projects	Datblygu projectau adeiladu		
+412	41	Construction of residential and non-residential buildings			
+4120	412	Construction of residential and non-residential buildings			
+41201	4120	Construction of commercial buildings	Adeiladu adeiladau masnachol		
+41202	4120	Construction of domestic buildings	Adeiladu adeiladau domestig		
+42	F	Civil engineering			
+421	42	Construction of roads and railways			
+4211	421	Construction of roads and motorways			
+42110	4211	Construction of roads and motorways	Adeiladu ffyrdd a phriffyrdd		
+4212	421	Construction of railways and underground railways			
+42120	4212	Construction of railways and underground railways	Adeiladu rheilffyrdd a rheilffyrdd tanddaearol		
+4213	421	Construction of bridges and tunnels			
+42130	4213	Construction of bridges and tunnels	Adeiladu pontydd a thwneli		
+422	42	Construction of utility projects			
+4221	422	Construction of utility projects for fluids			
+42210	4221	Construction of utility projects for fluids	Adeiladu projectau cyfleustodau hylifau		
+4222	422	Construction of utility projects for electricity and telecommunications			
+42220	4222	Construction of utility projects for electricity and telecommunications	Adeiladu projectau cyfleustodau trydan a thelathrebu		
+429	42	Construction of other civil engineering projects			
+4291	429	Construction of water projects			
+42910	4291	Construction of water projects	Adeiladu projectau dŵr		
+4299	429	Construction of other civil engineering projects not elsewhere classified			
+42990	4299	Construction of other civil engineering projects not elsewhere classified	Adeiladu projectau peirianneg sifil eraill n.dd.b.		
+43	F	Specialised construction activities			
+431	43	Demolition and site preparation			
+4311	431	Demolition			
+43110	4311	Demolition	Dymchwel		
+4312	431	Site preparation			
+43120	4312	Site preparation	Paratoi safleoedd		
+4313	431	Test drilling and boring			
+43130	4313	Test drilling and boring	Drilio a thorri tyllau profi		
+432	43	Electrical, plumbing and other construction installation activities			
+4321	432	Electrical installation			
+43210	4321	Electrical installation	Gosod offer trydanol		
+4322	432	Plumbing, heat and air-conditioning installation			
+43220	4322	Plumbing, heat and air-conditioning installation	Gosod systemau plymio, gwres a thymheru'r aer		
+4329	432	Other construction installation			
+43290	4329	Other construction installation	Mathau eraill osod at ddibenion adeiladu		
+433	43	Building completion and finishing			
+4331	433	Plastering			
+43310	4331	Plastering	Plastro		
+4332	433	Joinery installation			
+43320	4332	Joinery installation	Gosod gwaith coed		
+4333	433	Floor and wall covering			
+43330	4333	Floor and wall covering	Gorchuddio lloriau a waliau		
+4334	433	Painting and glazing			
+43341	4334	Painting	Peintio		
+43342	4334	Glazing	Gwydro		
+4339	433	Other building completion and finishing			
+43390	4339	Other building completion and finishing	Gwaith gorffen a gorffennu adeiladu eraill		
+439	43	Other specialised construction activities			
+4391	439	Roofing activities			
+43910	4391	Roofing activities	Gweithgareddau gosod to		
+4399	439	Other specialised construction activities not elsewhere classified			
+43991	4399	Scaffold erection	Codi sgaffaldiau		
+43999	4399	Other specialised construction activities not elsewhere classified	Gweithgareddau adeiladu arbenigol eraill n.dd.b.		
+45	G	Wholesale and retail trade and repair of motor vehicles and motorcycles			
+451	45	Sale of motor vehicles			
+4511	451	Sale of cars and light motor vehicles			
+45111	4511	Sale of new cars and light motor vehicles	Gwerthu ceir a cherbydau modur ysgafn newydd		
+45112	4511	Sale of used cars and light motor vehicles	Gwerthu ceir a cherbydau modur ysgafn ail law		
+4519	451	Sale of other motor vehicles			
+45190	4519	Sale of other motor vehicles	Gwerthu cerbydau modur eraill		
+452	45	Maintenance and repair of motor vehicles			
+4520	452	Maintenance and repair of motor vehicles			
+45200	4520	Maintenance and repair of motor vehicles	Cynnal ac atgyweirio cerbydau modur		
+453	45	Sale of motor vehicle parts and accessories			
+4531	453	Wholesale trade of motor vehicle parts and accessories			
+45310	4531	Wholesale trade of motor vehicle parts and accessories	Cyfanwerthu darnau ac ategolion cerbydau modur		
+4532	453	Retail trade of motor vehicle parts and accessories			
+45320	4532	Retail trade of motor vehicle parts and accessories	Adwerthu darnau ac ategolion cerbydau modur		
+454	45	Sale, maintenance and repair of motorcycles and related parts and accessories			
+4540	454	Sale, maintenance and repair of motorcycles and related parts and accessories			
+45400	4540	Sale, maintenance and repair of motorcycles and related parts and accessories	Gwerthu, cynnal ac atgyweirio beiciau modur a darnau ac ategolion cysylltiedig		
+46	G	Wholesale trade, except of motor vehicles and motorcycles			
+461	46	Wholesale on a fee or contract basis			
+4611	461	Agents involved in the sale of agricultural raw materials, live animals, textile raw materials and semi-finished goods			
+46110	4611	Agents selling agricultural raw materials, livestock, textile raw materials and semi-finished goods	Asiantau sy'n gwerthu deunydd crai amaethyddol, da byw, deunyddiau crai tecstilau a nwyddau lled-barod		
+4612	461	Agents involved in the sale of fuels, ores, metals and industrial chemicals			
+46120	4612	Agents involved in the sale of fuels, ores, metals and industrial chemicals	Asiantau sydd ynghlwm wrth werthu tanwydd, mwynau, metelau a chemegion diwydiannol		
+4613	461	Agents involved in the sale of timber and building materials			
+46130	4613	Agents involved in the sale of timber and building materials	Asiantau sydd ynghlwm wrth werthu pren a deunyddiau adeiladu		
+4614	461	Agents involved in the sale of machinery, industrial equipment, ships and aircraft			
+46140	4614	Agents involved in the sale of machinery, industrial equipment, ships and aircraft	Asiantau sydd ynghlwm wrth werthu peiriannau, offer diwydiannol, llongau ac awyrennau		
+4615	461	Agents involved in the sale of furniture, household goods, hardware and ironmongery			
+46150	4615	Agents involved in the sale of furniture, household goods, hardware and ironmongery	Asiantau sydd ynghlwm wrth werthu celfi, nwyddau cartref, caledwedd a nwyddau haearn		
+4616	461	Agents involved in the sale of textiles, clothing, fur, footwear and leather goods			
+46160	4616	Agents involved in the sale of textiles, clothing, fur, footwear and leather goods	Asiantau sydd ynghlwm wrth werthu tecstilau, dillad, ffwr, esgidiau a nwyddau lledr		
+4617	461	Agents involved in the sale of food, beverages and tobacco			
+46170	4617	Agents involved in the sale of food, beverages and tobacco	Asiantau sydd ynghlwm wrth werthu bwydydd, diodydd a thybaco		
+4618	461	Agents specialised in the sale of other particular products			
+46180	4618	Agents specialised in the sale of other particular products	Asiantau sy'n arbenigo mewn gwerthu cynhyrchion penodol eraill		
+4619	461	Agents involved in the sale of a variety of goods			
+46190	4619	Agents involved in the sale of a variety of goods	Asiantau sydd ynghlwm wrth werthu amrywiaeth o nwyddau		
+462	46	Wholesale of agricultural raw materials and live animals			
+4621	462	Wholesale of grain, unmanufactured tobacco, seeds and animal feeds			
+46210	4621	Wholesale of grain, unmanufactured tobacco, seeds and animal feeds	Cyfanwerthu grawn, tybaco crai, hadau a bwydydd anifeiliaid		
+4622	462	Wholesale of flowers and plants			
+46220	4622	Wholesale of flowers and plants	Cyfanwerthu blodau a phlanhigion		
+4623	462	Wholesale of live animals			
+46230	4623	Wholesale of live animals	Cyfanwerthu anifeiliaid byw		
+4624	462	Wholesale of hides, skins and leather			
+46240	4624	Wholesale of hides, skins and leather	Cyfanwerthu crwyn a lledr		
+463	46	Wholesale of food, beverages and tobacco			
+4631	463	Wholesale of fruit and vegetables			
+46310	4631	Wholesale of fruit and vegetables	Cyfanwerthu ffrwythau a llysiau		
+4632	463	Wholesale of meat and meat products			
+46320	4632	Wholesale of meat and meat products	Cyfanwerthu cig a chynhyrchion cig		
+4633	463	Wholesale of dairy products, eggs and edible oils and fats			
+46330	4633	Wholesale of dairy products, eggs and edible oils and fats	Cyfanwerthu cynhyrchion llaeth, wyau ac olewon a brasterau bwytadwy		
+4634	463	Wholesale of beverages			
+46341	4634	Wholesale of fruit and vegetable juices, mineral water and soft drinks	Cyfanwerthu sudd ffrwythau a llysiau, dŵr mwynol a diodydd ysgafn		
+46342	4634	Wholesale of wine, beer, spirits and other alcoholic beverages	Cyfanwerthu gwin, cwrw, gwirodydd a diodydd meddwol eraill		
+4635	463	Wholesale of tobacco products			
+46350	4635	Wholesale of tobacco products	Cyfanwerthu cynhyrchion tybaco		
+4636	463	Wholesale of sugar and chocolate and sugar confectionery			
+46360	4636	Wholesale of sugar and chocolate and sugar confectionery	Cyfanwerthu siwgr a siocled a melysion siwgr		
+4637	463	Wholesale of coffee, tea, cocoa and spices			
+46370	4637	Wholesale of coffee, tea, cocoa and spices	Cyfanwerthu coffi, te, coco a sbeis		
+4638	463	Wholesale of other food, including fish, crustaceans and molluscs			
+46380	4638	Wholesale of other food, including fish, crustaceans and molluscs	Cyfanwerthu bwydydd eraill, gan gynnwys pysgod, cramenogion a molysgiaid		
+4639	463	Non-specialised wholesale of food, beverages and tobacco			
+46390	4639	Non-specialised wholesale of food, beverages and tobacco	Cyfanwerthu bwydydd, diodydd a thybaco cyffredinol		
+464	46	Wholesale of household goods			
+4641	464	Wholesale of textiles			
+46410	4641	Wholesale of textiles	Cyfanwerthu tecstilau		
+4642	464	Wholesale of clothing and footwear			
+46420	4642	Wholesale of clothing and footwear	Cyfanwerthu dillad ac esgidiau		
+4643	464	Wholesale of electrical household appliances			
+46431	4643	Wholesale of audio tapes, records, CDs and video tapes and the equipment on which these are played	Cyfanwerthu tapiau sain, recordiau, CDs a thapiau fideo a'r offer ar gyfer eu chwarae		
+46439	4643	Wholesale of radio, television goods & electrical household appliances (other than records, tapes, CD's & video tapes and the equipment used for playing them)	Cyfanwerthu nwyddau radio a theledu a dyfeisiau trydan i’r cartref (ac eithrio recordiau, tapiau, CDs a thapiau fideo, a’r offer a ddefnyddir i’w chwarae)		
+4644	464	Wholesale of china and glassware and cleaning materials			
+46440	4644	Wholesale of china and glassware and cleaning materials	Cyfanwerthu llestri gwydr a tsieina a deunyddiau glanhau		
+4645	464	Wholesale of perfume and cosmetics			
+46450	4645	Wholesale of perfume and cosmetics	Cyfanwerthu persawr a chosmetigau		
+4646	464	Wholesale of pharmaceutical goods			
+46460	4646	Wholesale of pharmaceutical goods	Cyfanwerthu nwyddau fferyllol		
+4647	464	Wholesale of furniture, carpets and lighting equipment			
+46470	4647	Wholesale of furniture, carpets and lighting equipment	Cyfanwerthu celfi, carpedi ac offer goleuo		
+4648	464	Wholesale of watches and jewellery			
+46480	4648	Wholesale of watches and jewellery	Cyfanwerthu watsys a gemwaith		
+4649	464	Wholesale of other household goods			
+46491	4649	Wholesale of musical instruments	Cyfanwerthu offerynnau cerdd		
+46499	4649	Wholesale of household goods (other than musical instruments) n.e.c	Cyfanwerthu nwyddau cartref (ac eithrio offerynnau cerdd) n.dd.b.		
+465	46	Wholesale of information and communication equipment			
+4651	465	Wholesale of computers, computer peripheral equipment and software			
+46510	4651	Wholesale of computers, computer peripheral equipment and software	Cyfanwerthu cyfrifiaduron, perifferolion cyfrifiadurol a meddalwedd		
+4652	465	Wholesale of electronic and telecommunications equipment and parts			
+46520	4652	Wholesale of electronic and telecommunications equipment and parts	Cyfanwerthu cyfarpar electronig a thelathrebu a'r darnau cysylltiedig		
+466	46	Wholesale of other machinery, equipment and supplies			
+4661	466	Wholesale of agricultural machinery, equipment and supplies			
+46610	4661	Wholesale of agricultural machinery, equipment and supplies	Cyfanwerthu peiriannau, cyfarpar a chyflenwadau amaethyddol		
+4662	466	Wholesale of machine tools			
+46620	4662	Wholesale of machine tools	Cyfanwerthu offer peiriannol		
+4663	466	Wholesale of mining, construction and civil engineering machinery			
+46630	4663	Wholesale of mining, construction and civil engineering machinery	Cyfanwerthu peiriannau mwyngloddio, adeiladu a pheirianneg sifil		
+4664	466	Wholesale of machinery for the textile industry and of sewing and knitting machines			
+46640	4664	Wholesale of machinery for the textile industry and of sewing and knitting machines	Cyfanwerthu peiriannau ar gyfer y diwydiant tecstilau a pheiriannau gwnïo a gwau		
+4665	466	Wholesale of office furniture			
+46650	4665	Wholesale of office furniture	Cyfanwerthu celfi swyddfa		
+4666	466	Wholesale of other office machinery and equipment			
+46660	4666	Wholesale of other office machinery and equipment	Cyfanwerthu peiriannau a chyfarpar swyddfa eraill		
+4669	466	Wholesale of other machinery and equipment			
+46690	4669	Wholesale of other machinery and equipment	Cyfanwerthu peiriannau a chyfarpar eraill		
+467	46	Other specialised wholesale			
+4671	467	Wholesale of solid, liquid and gaseous fuels and related products			
+46711	4671	Wholesale of petroleum and petroleum products	Cyfanwerthu petrolewm a chynhyrchion petrolewm		
+46719	4671	Wholesale of other fuels and related products	Cyfanwerthu mathau eraill o danwydd a chynhyrchion cysylltiedig		
+4672	467	Wholesale of metals and metal ores			
+46720	4672	Wholesale of metals and metal ores	Cyfanwerthu metelau a mwynau metel		
+4673	467	Wholesale of wood, construction materials and sanitary equipment			
+46730	4673	Wholesale of wood, construction materials and sanitary equipment	Cyfanwerthu pren, deunyddiau adeiladu ac offer iechydol		
+4674	467	Wholesale of hardware, plumbing and heating equipment and supplies			
+46740	4674	Wholesale of hardware, plumbing and heating equipment and supplies	Cyfanwerthu cyfarpar a nwyddau metel, plymio a gwresogi		
+4675	467	Wholesale of chemical products			
+46750	4675	Wholesale of chemical products	Cyfanwerthu cynhyrchion cemegol		
+4676	467	Wholesale of other intermediate products			
+46760	4676	Wholesale of other intermediate products	Cyfanwerthu cynhyrchion rhyngol eraill		
+4677	467	Wholesale of waste and scrap			
+46770	4677	Wholesale of waste and scrap	Cyfanwerthu gwastraff a sgrap		
+469	46	Non-specialised wholesale trade			
+4690	469	Non-specialised wholesale trade			
+46900	4690	Non-specialised wholesale trade	Masnach cyfanwerthu cyffredinol		
+47	G	Retail trade, except of motor vehicles and motorcycles			
+471	47	Retail sale in non-specialised stores			
+4711	471	Retail sale in non-specialised stores with food, beverages or tobacco predominating			
+47110	4711	Retail sale in non-specialised stores with food, beverages or tobacco predominating	Adwerthu mewn siopau cyffredinol sy'n gwerthu bwydydd, diodydd a thybaco yn bennaf		
+4719	471	Other retail sale in non-specialised stores			
+47190	4719	Other retail sale in non-specialised stores	Adwerthu arall mewn siopau cyffredinol		
+472	47	Retail sale of food, beverages and tobacco in specialised stores			
+4721	472	Retail sale of fruit and vegetables in specialised stores			
+47210	4721	Retail sale of fruit and vegetables in specialised stores	Adwerthu ffrwythau a llysiau mewn siopau arbenigol		
+4722	472	Retail sale of meat and meat products in specialised stores			
+47220	4722	Retail sale of meat and meat products in specialised stores	Adwerthu cig a chynhyrchion cig mewn siopau arbenigol		
+4723	472	Retail sale of fish, crustaceans and molluscs in specialised stores			
+47230	4723	Retail sale of fish, crustaceans and molluscs in specialised stores	Adwerthu pysgod, cramenogion a molysgiaid mewn siopau arbenigol		
+4724	472	Retail sale of bread, cakes, flour confectionery and sugar confectionery in specialised stores			
+47240	4724	Retail sale of bread, cakes, flour confectionery and sugar confectionery in specialised stores	Adwerthu bara, cacennau, melysion cannog a melysion siwgr mewn siopau arbenigol		
+4725	472	Retail sale of beverages in specialised stores			
+47250	4725	Retail sale of beverages in specialised stores	Adwerthu diodydd mewn siopau arbenigol		
+4726	472	Retail sale of tobacco products in specialised stores			
+47260	4726	Retail sale of tobacco products in specialised stores	Adwerthu cynhyrchion tybaco mewn siopau arbenigol		
+4729	472	Other retail sale of food in specialised stores			
+47290	4729	Other retail sale of food in specialised stores	Adwerthu bwydydd eraill mewn siopau arbenigol		
+473	47	Retail sale of automotive fuel in specialised stores			
+4730	473	Retail sale of automotive fuel in specialised stores			
+47300	4730	Retail sale of automotive fuel in specialised stores	Adwerthu tanwydd cerbydau modur mewn siopau arbenigol		
+474	47	Retail sale of information and communication equipment in specialised stores			
+4741	474	Retail sale of computers, peripheral units and software in specialised stores			
+47410	4741	Retail sale of computers, peripheral units and software in specialised stores	Adwerthu cyfrifiaduron, unedau perifferol a meddalwedd mewn siopau arbenigol		
+4742	474	Retail sale of telecommunications equipment in specialised stores			
+47421	4742	Retail sale of mobile telephones	Adwerthu teleffonau symudol		
+47429	4742	Retail sale of telecommunications equipment other than mobile telephones	Adwerthu offer telathrebu ac eithrio teleffonau symudol		
+4743	474	Retail sale of audio and video equipment in specialised stores			
+47430	4743	Retail sale of audio and video equipment in specialised stores	Adwerthu offer sain a fideo mewn siopau arbenigol		
+475	47	Retail sale of other household equipment in specialised stores			
+4751	475	Retail sale of textiles in specialised stores			
+47510	4751	Retail sale of textiles in specialised stores	Adwerthu tecstilau mewn siopau arbenigol		
+4752	475	Retail sale of hardware, paints and glass in specialised stores			
+47520	4752	Retail sale of hardware, paints and glass in specialised stores	Adwerthu nwyddau haearn, paent a gwydr mewn siopau arbenigol		
+4753	475	Retail sale of carpets, rugs, wall and floor coverings in specialised stores			
+47530	4753	Retail sale of carpets, rugs, wall and floor coverings in specialised stores	Adwerthu carpedi, rygiau, a gorchuddion waliau a lloriau mewn siopau arbenigol		
+4754	475	Retail sale of electrical household appliances in specialised stores			
+47540	4754	Retail sale of electrical household appliances in specialised stores	Adwerthu dyfeisiau cartref trydanol mewn siopau arbenigol		
+4759	475	Retail sale of furniture, lighting equipment and other household articles in specialised stores			
+47591	4759	Retail sale of musical instruments and scores	Adwerthu offerynnau cerdd a sgoriau		
+47599	4759	Retail of furniture, lighting, and similar (not musical instruments or scores) in specialised store	Adwerthu celfi, goleuadau a phethau tebyg (nid offerynnau cerdd na sgoriau) mewn siopau arbenigol		
+476	47	Retail sale of cultural and recreation goods in specialised stores			
+4761	476	Retail sale of books in specialised stores			
+47610	4761	Retail sale of books in specialised stores	Adwerthu llyfrau mewn siopau arbenigol		
+4762	476	Retail sale of newspapers and stationery in specialised stores			
+47620	4762	Retail sale of newspapers and stationery in specialised stores	Adwerthu papurau newydd a deunyddiau ysgrifennu mewn siopau arbenigol		
+4763	476	Retail sale of music and video recordings in specialised stores			
+47630	4763	Retail sale of music and video recordings in specialised stores	Adwerthu recordiadau cerddorol a fideo mewn siopau arbenigol		
+4764	476	Retail sale of sporting equipment in specialised stores			
+47640	4764	Retail sale of sports goods, fishing gear, camping goods, boats and bicycles	Adwerthu nwyddau chwaraeon, offer pysgota, offer gwersylla, cychod a beiciau		
+4765	476	Retail sale of games and toys in specialised stores			
+47650	4765	Retail sale of games and toys in specialised stores	Adwerthu gemau a theganau mewn siopau arbenigol		
+477	47	Retail sale of other goods in specialised stores			
+4771	477	Retail sale of clothing in specialised stores			
+47710	4771	Retail sale of clothing in specialised stores	Adwerthu dillad mewn siopau arbenigol		
+4772	477	Retail sale of footwear and leather goods in specialised stores			
+47721	4772	Retail sale of footwear in specialised stores	Adwerthu esgidiau mewn siopau arbenigol		
+47722	4772	Retail sale of leather goods in specialised stores	Adwerthu nwyddau lledr mewn siopau arbenigol		
+4773	477	Dispensing chemist in specialised stores			
+47730	4773	Dispensing chemist in specialised stores	Fferyllwyr cymwysedig mewn siop arbenigol		
+4774	477	Retail sale of medical and orthopaedic goods in specialised stores			
+47741	4774	Retail sale of hearing aids	Adwerthu cymhorthion clyw		
+47749	4774	Retail sale of medical and orthopaedic goods in specialised stores (not incl. hearing aids) not elsewhere classified	Adwerthu nwyddau meddygol ac orthopaedig  mewn siopau arbenigol (ac eithrio cymhorthion clyw) n.dd.b.		
+4775	477	Retail sale of cosmetic and toilet articles in specialised stores			
+47750	4775	Retail sale of cosmetic and toilet articles in specialised stores	Adwerthu nwyddau cosmetig ac ymolchi mewn siopau arbenigol		
+4776	477	Retail sale of flowers, plants, seeds, fertilisers, pet animals and pet food in specialised stores			
+47760	4776	Retail sale of flowers, plants, seeds, fertilizers, pet animals and pet food in specialised stores	Adwerthu blodau, planhigion, hadau, gwrtaith, anifeiliaid anwes a bwyd anifeiliaid anwes mewn siopau arbenigol		
+4777	477	Retail sale of watches and jewellery in specialised stores			
+47770	4777	Retail sale of watches and jewellery in specialised stores	Adwerthu watsys a gemwaith mewn siopau arbenigol		
+4778	477	Other retail sale of new goods in specialised stores			
+47781	4778	Retail sale in commercial art galleries	Adwerthu mewn orielau celf masnachol		
+47782	4778	Retail sale by opticians	Adwerthu gan optegwyr		
+47789	4778	Other retail sale of new goods in specialised stores (not commercial art galleries and opticians)	Adwerthu nwyddau newydd eraill mewn siopau arbenigol (nid orielau celf masnachol nac optegwyr)		
+4779	477	Retail sale of second-hand goods in stores			
+47791	4779	Retail sale of antiques including antique books in stores	Adwerthu hen greiriau gan gynnwys hen lyfrau mewn siopau		
+47799	4779	Retail sale of other second-hand goods in stores (not incl. antiques)	Adwerthu nwyddau ail-law eraill mewn siopau (ac eithrio hen greiriau)		
+478	47	Retail sale via stalls and markets			
+4781	478	Retail sale via stalls and markets of food, beverages and tobacco products			
+47810	4781	Retail sale via stalls and markets of food, beverages and tobacco products	Adwerthu bwydydd, diodydd a chynhyrchion tybaco o stondinau a thrwy farchnadoedd		
+4782	478	Retail sale via stalls and markets of textiles, clothing and footwear			
+47820	4782	Retail sale via stalls and markets of textiles, clothing and footwear	Adwerthu tecstilau, dillad ac esgidiau o stondinau a thrwy farchnadoedd		
+4789	478	Retail sale via stalls and markets of other goods			
+47890	4789	Retail sale via stalls and markets of other goods	Adwerthu nwyddau eraill o stondinau a thrwy farchnadoedd		
+479	47	Retail trade not in stores, stalls or markets			
+4791	479	Retail sale via mail order houses or via Internet			
+47910	4791	Retail sale via mail order houses or via Internet	Adwerthu trwy'r post neu dros y Rhyngrwyd		
+4799	479	Other retail sale not in stores, stalls or markets			
+47990	4799	Other retail sale not in stores, stalls or markets	Adwerthu arall heb fod mewn siopau, o stondinau neu drwy farchnadoedd		
+49	H	Land transport and transport via pipelines			
+491	49	Passenger rail transport, interurban			
+4910	491	Passenger rail transport, interurban			
+49100	4910	Passenger rail transport, interurban	Cludo teithwyr ar y rheilffordd, rhyngdrefol		
+492	49	Freight rail transport			
+4920	492	Freight rail transport			
+49200	4920	Freight rail transport	Cludo nwyddau ar y rheilffordd		
+493	49	Other passenger land transport			
+4931	493	Urban and suburban passenger land transport			
+49311	4931	Urban and suburban passenger railway transportation by underground, metro and similar systems	Cludo teithwyr trefol a maestrefol ar systemau rheilffyrdd tanddaearol, metro a systemau tebyg		
+49319	4931	Other urban, suburban or metropolitan passenger land transport (not underground, metro or similar)	Cludo teithwyr trefol, maestrefol neu ddinesig dros y tir (nid systemau tanddaearol, metro na'u tebyg)		
+4932	493	Taxi operation			
+49320	4932	Taxi operation	Busnes tacsi		
+4939	493	Other passenger land transport not elsewhere classified			
+49390	4939	Other passenger land transport	Dulliau eraill o gludo teithwyr ar y tir		
+494	49	Freight transport by road and removal services			
+4941	494	Freight transport by road			
+49410	4941	Freight transport by road	Cludo nwyddau ar y ffyrdd		
+4942	494	Removal services			
+49420	4942	Removal services	Gwasanaethau mudo		
+495	49	Transport via pipeline			
+4950	495	Transport via pipeline			
+49500	4950	Transport via pipeline	Trafnidiaeth trwy lein beipiau		
+50	H	Water transport			
+501	50	Sea and coastal passenger water transport			
+5010	501	Sea and coastal passenger water transport			
+50100	5010	Sea and coastal passenger water transport	Cludo teithwyr ar ddyfroedd morol ac arfordirol		
+502	50	Sea and coastal freight water transport			
+5020	502	Sea and coastal freight water transport			
+50200	5020	Sea and coastal freight water transport	Cludo nwyddau ar ddyfroedd morol ac arfordirol		
+503	50	Inland passenger water transport			
+5030	503	Inland passenger water transport			
+50300	5030	Inland passenger water transport	Cludo teithwyr ar ddyfroedd mewndirol		
+504	50	Inland freight water transport			
+5040	504	Inland freight water transport			
+50400	5040	Inland freight water transport	Cludo nwyddau ar ddyfroedd mewndirol		
+51	H	Air transport			
+511	51	Passenger air transport			
+5110	511	Passenger air transport			
+51101	5110	Scheduled passenger air transport	Trafnidiaeth a raglennir ar gyfer teithwyr awyr		
+51102	5110	Non-scheduled passenger air transport	Trafnidiaeth na raglennir ar gyfer teithwyr awyr		
+512	51	Freight air transport and space transport			
+5121	512	Freight air transport			
+51210	5121	Freight air transport	Trafnidiaeth awyr ar gyfer nwyddau		
+5122	512	Space transport			
+51220	5122	Space transport	Trafnidiaeth y gofod		
+52	H	Warehousing and support activities for transportation			
+521	52	Warehousing and storage			
+5210	521	Warehousing and storage			
+52101	5210	Operation of warehousing and storage facilities for water transport activities	Gweithredu stordai a chyfleusterau storio ar gyfer gweithgareddau cludo ar y dŵr		
+52102	5210	Operation of warehousing and storage facilities for air transport activities	Gweithredu stordai a chyfleusterau storio ar gyfer gweithgareddau cludo yn yr awyr		
+52103	5210	Operation of warehousing and storage facilities for land transport activities	Gweithredu stordai a chyfleusterau storio ar gyfer gweithgareddau cludo ar y tir		
+522	52	Support activities for transportation			
+5221	522	Service activities incidental to land transportation			
+52211	5221	Operation of rail freight terminals	Gweithredu terfynellau cludo nwyddau ar y rheilffyrdd		
+52212	5221	Operation of rail passenger facilities at railway stations	Gweithredu cyfleusterau ar gyfer teithwyr mewn gorsafoedd rheilffordd		
+52213	5221	Operation of bus and coach passenger facilities at bus and coach stations	Gweithredu cyfleusterau ar gyfer teithwyr mewn gorsafoedd bysiau a choetsys		
+52219	5221	Other service activities incidental to land transportation, not elsewhere classified	Gwasanaethau eraill sydd ynghlwm wrth drafnidiaeth dros y tir, n.dd.b.		
+5222	522	Service activities incidental to water transportation			
+52220	5222	Service activities incidental to water transportation	Gwasanaethau sydd ynghlwm wrth drafnidiaeth ar y dŵr		
+5223	522	Service activities incidental to air transportation			
+52230	5223	Service activities incidental to air transportation	Gwasanaethau sydd ynghlwm wrth drafnidiaeth awyr		
+5224	522	Cargo handling			
+52241	5224	Cargo handling for water transport activities	Dosbarthu cargo ar gyfer gweithgareddau trafnidiaeth ar y dŵr		
+52242	5224	Cargo handling for air transport activities	Dosbarthu cargo ar gyfer gweithgareddau trafnidiaeth awyr		
+52243	5224	Cargo handling for land transport activities	Dosbarthu cargo ar gyfer gweithgareddau trafnidiaeth dros y tir		
+5229	522	Other transportation support activities			
+52290	5229	Other transportation support activities	Gweithgareddau eraill sy'n ategu trafnidiaeth		
+53	H	Postal and courier activities			
+531	53	Postal activities under universal service obligation			
+5310	531	Postal activities under universal service obligation			
+53100	5310	Postal activities under universal service obligation	Gweithgareddau post o dan rhwymedigaeth gwasanaeth gyffredinol		
+532	53	Other postal and courier activities			
+5320	532	Other postal and courier activities			
+53201	5320	Licensed carriers	Cludwr trwyddedig		
+53202	5320	Unlicensed carriers	Cludwr didrwydded		
+55	I	Accommodation			
+551	55	Hotels and similar accommodation			
+5510	551	Hotels and similar accommodation			
+55100	5510	Hotels and similar accommodation	Gwestai a llety tebyg		
+552	55	Holiday and other short-stay accommodation			
+5520	552	Holiday and other short-stay accommodation			
+55201	5520	Holiday centres and villages	Canolfannau a phentrefi gwyliau		
+55202	5520	Youth hostels	Hostelau ieuenctid		
+55209	5520	Other holiday and other collective accommodation	Llety gwyliau arall a mathau eraill o lety torfol		
+553	55	Camping grounds, recreational vehicle parks and trailer parks			
+5530	553	Camping grounds, recreational vehicle parks and trailer parks			
+55300	5530	Recreational vehicle parks, trailer parks and camping grounds	Parciau cerbydau hamdden, parciau trelars a meysydd gwersylla		
+559	55	Other accommodation			
+5590	559	Other accommodation			
+55900	5590	Other accommodation	Llety arall		
+56	I	Food and beverage service activities			
+561	56	Restaurants and mobile food service activities			
+5610	561	Restaurants and mobile food service activities			
+56101	5610	Licenced restaurants	Tai bwyta trwyddedig		
+56102	5610	Unlicenced restaurants and cafes	Tai bwyta a chaffis didrwydded		
+56103	5610	Take-away food shops and mobile food stands	Siopau prydau parod a stondinau bwyd symudol		
+562	56	Event catering and other food service activities			
+5621	562	Event catering activities			
+56210	5621	Event catering activities	Gweithgareddau arlwyo ar gyfer digwyddiadau		
+5629	562	Other food service activities			
+56290	5629	Other food services	Gwasanaethau bwyd eraill		
+563	56	Beverage serving activities			
+5630	563	Beverage serving activities			
+56301	5630	Licenced clubs	Clybiau trwyddedig		
+56302	5630	Public houses and bars	Tafarndai  a bariau		
+58	J	Publishing activities			
+581	58	Publishing of books, periodicals and other publishing activities			
+5811	581	Book publishing			
+58110	5811	Book publishing	Cyhoeddi llyfrau		
+5812	581	Publishing of directories and mailing lists			
+58120	5812	Publishing of directories and mailing lists	Cyhoeddi cyfeirlyfrau a rhestrau postio		
+5813	581	Publishing of newspapers			
+58130	5813	Publishing of newspapers	Cyhoeddi papurau newydd		
+5814	581	Publishing of journals and periodicals			
+58141	5814	Publishing of learned journals	Cyhoeddi cyfnodolion dysgedig		
+58142	5814	Publishing of  consumer and business journals and periodicals	Cyhoeddi cyfnodolion a newyddiaduron i ddefnyddwyr a busnesau		
+5819	581	Other publishing activities			
+58190	5819	Other publishing activities	Gweithgareddau cyhoeddi eraill		
+582	58	Software publishing			
+5821	582	Publishing of computer games			
+58210	5821	Publishing of computer games	Cyhoeddi gemau cyfrifiadur		
+5829	582	Other software publishing			
+58290	5829	Other software publishing	Cyhoeddi meddalwedd arall		
+59	J	Motion picture, video and television programme production, sound recording and music publishing activities			
+591	59	Motion picture, video and television programme activities			
+5911	591	Motion picture, video and television programme production activities			
+59111	5911	Motion picture production activities	Gweithgareddau cynhyrchu ffilmiau		
+59112	5911	Video production activities	Gweithgareddau cynhyrchu fideo		
+59113	5911	Television programme production activities	Gweithgareddau cynhyrchu rhaglenni teledu		
+5912	591	Motion picture, video and television programme post-production activities			
+59120	5912	Motion picture, video and television programme post-production activities	Gweithgareddau ôl-gynhyrchu ar gyfer ffilmiau, fideo a rhaglenni teledu		
+5913	591	Motion picture, video and television programme distribution activities			
+59131	5913	Motion picture distribution activities	Gweithgareddau dosbarthu ffilmiau		
+59132	5913	Video distribution activities	Gweithgareddau dosbarthu fideo		
+59133	5913	Television programme distribution activities	Gweithgareddau dosbarthu rhaglenni teledu		
+5914	591	Motion picture projection activities			
+59140	5914	Motion picture projection activities	Gweithgareddau taflunio ffilmiau		
+592	59	Sound recording and music publishing activities			
+5920	592	Sound recording and music publishing activities			
+59200	5920	Sound recording and music publishing activities	Gweithgareddau recordio sain a chyhoeddi cerddoriaeth		
+60	J	Programming and broadcasting activities			
+601	60	Radio broadcasting			
+6010	601	Radio broadcasting			
+60100	6010	Radio broadcasting	Darlledu ar y radio		
+602	60	Television programming and broadcasting activities			
+6020	602	Television programming and broadcasting activities			
+60200	6020	Television programming and broadcasting activities	Gweithgareddau rhaglennu a darlledu ar y teledu		
+61	J	Telecommunications			
+611	61	Wired telecommunications activities			
+6110	611	Wired telecommunications activities			
+61100	6110	Wired telecommunications activities	Gweithgareddau telathrebu â gwifrau		
+612	61	Wireless telecommunications activities			
+6120	612	Wireless telecommunications activities			
+61200	6120	Wireless telecommunications activities	Gweithgareddau telathrebu diwifr		
+613	61	Satellite telecommunications activities			
+6130	613	Satellite telecommunications activities			
+61300	6130	Satellite telecommunications activities	Gweithgareddau telathrebu drwy loeren		
+619	61	Other telecommunications activities			
+6190	619	Other telecommunications activities			
+61900	6190	Other telecommunications activities	Gweithgareddau telathrebu eraill		
+62	J	Computer programming, consultancy and related activities			
+620	62	Computer programming, consultancy and related activities			
+6201	620	Computer programming activities			
+62011	6201	Ready-made interactive leisure and entertainment software development	Datblygu meddalwedd hamdden ac adloniant ryngweithiol barod		
+62012	6201	Business and domestic software development	Datblygu meddalwedd busnes a domestig		
+6202	620	Computer consultancy activities			
+62020	6202	Information technology consultancy activities	Gweithgareddau ymgynghoriaeth ym maes technoleg gwybodaeth		
+6203	620	Computer facilities management activities			
+62030	6203	Computer facilities management activities	Gweithgareddau rheoli cyfleusterau cyfrifiadurol		
+6209	620	Other information technology and computer service activities			
+62090	6209	Other information technology service activities	Gweithgareddau eraill ym maes gwasanaethau technoleg gwybodaeth		
+63	J	Information service activities			
+631	63	Data processing, hosting and related activities; web portals			
+6311	631	Data processing, hosting and related activities			
+63110	6311	Data processing, hosting and related activities	Prosesu a lletya data a gweithgareddau cysylltiedig		
+6312	631	Web portals			
+63120	6312	Web portals	Pyrth ar y we		
+639	63	Other information service activities			
+6391	639	News agency activities			
+63910	6391	News agency activities	Gweithgareddau asiantaethau newyddion		
+6399	639	Other information service activities not elsewhere classified			
+63990	6399	Other information service activities not elsewhere classified	Gweithgareddau gwasanaethau gwybodaeth eraill n.dd.b.		
+64	K	Financial service activities, except insurance and pension funding			
+641	64	Monetary intermediation			
+6411	641	Central banking			
+64110	6411	Central banking	Bancio canolog		
+6419	641	Other monetary intermediation			
+64191	6419	Banks	Banciau		
+64192	6419	Building societies	Cymdeithasau adeiladu		
+642	64	Activities of holding companies			
+6420	642	Activities of holding companies			
+64201	6420	Activities of agricultural holding companies	Gweithgareddau cwmnïau daliannol ym maes amaeth		
+64202	6420	Activities of production holding companies	Gweithgareddau cwmnïau daliannol ym maes cynhyrchu		
+64203	6420	Activities of construction holding companies	Gweithgareddau cwmnïau daliannol ym maes adeiladu		
+64204	6420	Activities of distribution holding companies	Gweithgareddau cwmnïau daliannol ym maes dosbarthu		
+64205	6420	Activities of financial services holding companies	Gweithgareddau cwmnïau daliannol ym maes gwasanaethau ariannol		
+64209	6420	Activities of other holding companies not elsewhere classified	Gweithgareddau cwmnïau daliannol eraill n.dd.b.		
+643	64	Trusts, funds and similar financial entities			
+6430	643	Trusts, funds and similar financial entities			
+64301	6430	Activities of investment trusts	Gweithgareddau ymddiriedolaethau buddsoddi		
+64302	6430	Activities of unit trusts	Gweithgareddau ymddiriedolaethau unedol		
+64303	6430	Activities of venture and development capital companies	Gweithgareddau cwmnïau cyfalaf mentro a datblygu		
+64304	6430	Activities of open-ended investment companies	Gweithgareddau cwmnïau buddsoddi penagored		
+64305	6430	Activities of property unit trusts	Gweithgareddau ymddiriedolaethau eiddo unedol		
+64306	6430	Activities of real estate investment trusts	Gweithgareddau ymddiriedolaethau buddsoddi mewn eiddo diriaethol		
+649	64	Other financial service activities, except insurance and pension funding			
+6491	649	Financial leasing			
+64910	6491	Financial leasing	Prydlesu ariannol		
+6492	649	Other credit granting			
+64921	6492	Credit granting by non-deposit taking finance houses and other specialist consumer credit grantors	Ariandai sy'n rhoi credyd nad ydynt yn cymryd adnau a darparwyr credyd arbenigol eraill i ddefnyddwyr		
+64922	6492	Activities of mortgage finance companies	Gweithgareddau cwmnïau ariannu morgeisi		
+64929	6492	Other credit granting not elsewhere classified	Darparwyr credyd eraill n.dd.b.		
+6499	649	Other financial service activities, except insurance and pension funding, not elsewhere classified			
+64991	6499	Security dealing on own account	Gwerthu gwarannau ar ei gyfrif ei hun		
+64992	6499	Factoring	Asiantau masnachol		
+64999	6499	Financial intermediation not elsewhere classified	Mathau eraill o ryngoli ariannol na ddosbarthwyd fel arall		
+65	K	Insurance, reinsurance and pension funding, except compulsory social security			
+651	65	Insurance			
+6511	651	Life insurance			
+65110	6511	Life insurance	Yswiriant bywyd		
+6512	651	Non-life insurance			
+65120	6512	Non-life insurance	Yswiriant nad yw'n yswiriant bywyd		
+652	65	Reinsurance			
+6520	652	Reinsurance			
+65201	6520	Life reinsurance	Ailyswirio bywydau		
+65202	6520	Non-life reinsurance	Ailyswirio pethau heblaw bywyd		
+653	65	Pension funding			
+6530	653	Pension funding			
+65300	6530	Pension funding	Ariannu pensiynau		
+66	K	Activities auxiliary to financial services and insurance activities			
+661	66	Activities auxiliary to financial services, except insurance and pension funding			
+6611	661	Administration of financial markets			
+66110	6611	Administration of financial markets	Gweinyddu marchnadoedd ariannol		
+6612	661	Security and commodity contracts brokerage			
+66120	6612	Security and commodity contracts dealing activities	Gweithgareddau masnachu contractau nwyddau a gwarannau		
+6619	661	Other activities auxiliary to financial services, except insurance and pension funding			
+66190	6619	Activities auxiliary to financial intermediation not elsewhere classified	Gweithgareddau atodol o ran rhyngoli ariannol n.dd.b.		
+662	66	Activities auxiliary to insurance and pension funding			
+6621	662	Risk and damage evaluation			
+66210	6621	Risk and damage evaluation	Gwerthuso risg a difrod		
+6622	662	Activities of insurance agents and brokers			
+66220	6622	Activities of insurance agents and brokers	Gweithgareddau asiantau a broceriaid yswiriant		
+6629	662	Other activities auxiliary to insurance and pension funding			
+66290	6629	Other activities auxiliary to insurance and pension funding	Gweithgareddau atodol eraill ym maes ariannu yswiriant a phensiynau		
+663	66	Fund management activities			
+6630	663	Fund management activities			
+66300	6630	Fund management activities	Gweithgareddau rheoli cronfeydd		
+68	L	Real estate activities			
+681	68	Buying and selling of own real estate			
+6810	681	Buying and selling of own real estate			
+68100	6810	Buying and selling of own real estate	Prynu a gwerthu eich eiddo diriaethol eich hun		
+682	68	Renting and operating of own or leased real estate			
+6820	682	Renting and operating of own or leased real estate			
+68201	6820	Renting and operating of Housing Association real estate	Rhentu a rheoli eiddo diriaethol Cymdeithas Tai		
+68202	6820	Letting and operating of conference and exhibition centres	Gosod a rheoli canolfannau cynadledda ac arddangos		
+68209	6820	Other letting and operating of own or leased real estate	Gosod a rheoli eich eiddo diriaethol arall eich hun neu ar brydles		
+683	68	Real estate activities on a fee or contract basis			
+6831	683	Real estate agencies			
+68310	6831	Real estate agencies	Asiantaethau eiddo diriaethol		
+6832	683	Management of real estate on a fee or contract basis			
+68320	6832	Management of real estate on a fee or contract basis	Rheoli eiddo diriaethol am ffi neu ar gontract		
+69	M	Legal and accounting activities			
+691	69	Legal activities			
+6910	691	Legal activities			
+69101	6910	Barristers at law	Bargyfreithwyr sy'n ymarfer y gyfraith		
+69102	6910	Solicitors	Cyfreithwyr		
+69109	6910	Activities of patent and copyright agents; other legal activities not elsewhere classified	Gweithgareddau asiantau patent a hawlfraint; gweithgareddau cyfreithiol eraill n.dd.b.		
+692	69	Accounting, bookkeeping and auditing activities; tax consultancy			
+6920	692	Accounting, bookkeeping and auditing activities; tax consultancy			
+69201	6920	Accounting and auditing activities	Gweithgareddau cyfrifyddu ac archwilio		
+69202	6920	Bookkeeping activities	Gweithgareddau cadw cyfrifon		
+69203	6920	Tax consultancy	Ymgynghoriaeth ar drethi		
+70	M	Activities of head offices; management consultancy activities			
+701	70	Activities of head offices			
+7010	701	Activities of head offices			
+70100	7010	Activities of head offices	Gweithgareddau pencadlysoedd		
+702	70	Management consultancy activities			
+7021	702	Public relations and communication activities			
+70210	7021	Public relations and communications activities	Gweithgareddau cysylltiadau cyhoeddus a chyfathrebu		
+7022	702	Business and other management consultancy activities			
+70221	7022	Financial management	Rheolaeth ariannol		
+70229	7022	Management consultancy activities other than financial management	Gweithgareddau ymgynghoriaeth ar faterion rheoli ac eithrio rheolaeth ariannol		
+71	M	Architectural and engineering activities; technical testing and analysis			
+711	71	Architectural and engineering activities and related technical consultancy			
+7111	711	Architectural activities			
+71111	7111	Architectural activities	Gweithgareddau pensaernïol		
+71112	7111	Urban planning and landscape architectural activities	Gweithgareddau cynllunio trefol a phensaernïaeth y dirwedd		
+7112	711	Engineering activities and related technical consultancy			
+71121	7112	Engineering design activities for industrial process and production	Gweithgareddau dylunio peirianneg ar gyfer prosesau a chynhyrchu diwydiannol		
+71122	7112	Engineering related scientific and technical consulting activities	Gweithgareddau ymgynghori gwyddonol a thechnegol ym maes peirianneg		
+71129	7112	Other engineering activities	Gweithgareddau peirianneg eraill		
+712	71	Technical testing and analysis			
+7120	712	Technical testing and analysis			
+71200	7120	Technical testing and analysis	Profi a dadansoddi technegol		
+72	M	Scientific research and development			
+721	72	Research and experimental development on natural sciences and engineering			
+7211	721	Research and experimental development on biotechnology			
+72110	7211	Research and experimental development on biotechnology	Gwaith ymchwil a datblygu arbrofol ym maes biodechnoleg		
+7219	721	Other research and experimental development on natural sciences and engineering			
+72190	7219	Other research and experimental development on natural sciences and engineering	Gwaith ymchwil a datblygu arbrofol arall ym maes peirianneg a'r gwyddorau natur		
+722	72	Research and experimental development on social sciences and humanities			
+7220	722	Research and experimental development on social sciences and humanities			
+72200	7220	Research and experimental development on social sciences and humanities	Gwaith ymchwil a datblygu arbrofol ym maes y gwyddorau cymdeithasol a'r dyniaethau		
+73	M	Advertising and market research			
+731	73	Advertising			
+7311	731	Advertising agencies			
+73110	7311	Advertising agencies	Asiantaethau hysbysebu		
+7312	731	Media representation			
+73120	7312	Media representation services	Gwasanaethau cynrychiolaeth ym maes y cyfryngau		
+732	73	Market research and public opinion polling			
+7320	732	Market research and public opinion polling			
+73200	7320	Market research and public opinion polling	Ymchwil i'r farchnad ac arolygon barn		
+74	M	Other professional, scientific and technical activities			
+741	74	Specialised design activities			
+7410	741	Specialised design activities			
+74100	7410	specialised design activities	Gweithgareddau dylunio arbenigol		
+742	74	Photographic activities			
+7420	742	Photographic activities			
+74201	7420	Portrait photographic activities	Gweithgareddau portreadu ffotograffig		
+74202	7420	Other specialist photography	Mathau eraill o ffotograffiaeth arbenigol		
+74203	7420	Film processing	Prosesu ffilmiau		
+74209	7420	Photographic activities not elsewhere classified	Gweithgareddau ffotograffig na ddosbarthwyd yn benodol		
+743	74	Translation and interpretation activities			
+7430	743	Translation and interpretation activities			
+74300	7430	Translation and interpretation activities	Gweithgareddau cyfieithu a chyfieithu ar y pryd		
+749	74	Other professional, scientific and technical activities not elsewhere classified			
+7490	749	Other professional, scientific and technical activities not elsewhere classified			
+74901	7490	Environmental consulting activities	Gweithgareddau ymgynghori amgylcheddol		
+74902	7490	Quantity surveying activities	Gweithgareddau mesur meintiau		
+74909	7490	Other professional, scientific and technical activities not elsewhere classified	Gweithgareddau proffesiynol, gwyddonol a thechnegol n.dd.b.		
+74990	7499	Non-trading company non trading	Cwmni anfasnachol		
+75	M	Veterinary activities			
+750	75	Veterinary activities			
+7500	750	Veterinary activities			
+75000	7500	Veterinary activities	Gweithgareddau milfeddygol		
+77	N	Rental and leasing activities			
+771	77	Renting and leasing of motor vehicles			
+7711	771	Renting and leasing of cars and light motor vehicles			
+77110	7711	Renting and leasing of cars and light motor vehicles	Rhentu a phrydlesu ceir a cherbydau modur ysgafn		
+7712	771	Renting and leasing of trucks			
+77120	7712	Renting and leasing of trucks and other heavy vehicles	Rhentu a phrydlesu tryciau a cherbydau trwm eraill		
+772	77	Renting and leasing of personal and household goods			
+7721	772	Renting and leasing of recreational and sports goods			
+77210	7721	Renting and leasing of recreational and sports goods	Rhentu a phrydlesu nwyddau hamdden a chwaraeon		
+7722	772	Renting of video tapes and disks			
+77220	7722	Renting of video tapes and disks	Rhentu tapiau a disgiau fideo		
+7729	772	Renting and leasing of other personal and household goods			
+77291	7729	Renting and leasing of media entertainment equipment	Rhentu a phrydlesu cyfarpar y cyfryngau adloniant		
+77299	7729	Renting and leasing of other personal and household goods	Rhentu a phrydlesu nwyddau personol a chartref eraill		
+773	77	Renting and leasing of other machinery, equipment and tangible goods			
+7731	773	Renting and leasing of agricultural machinery and equipment			
+77310	7731	Renting and leasing of agricultural machinery and equipment	Rhentu a phrydlesu peiriannau a chyfarpar amaethyddol		
+7732	773	Renting and leasing of construction and civil engineering machinery and equipment			
+77320	7732	Renting and leasing of construction and civil engineering machinery and equipment	Rhentu a phrydlesu peiriannau a chyfarpar adeiladu a pheirianneg sifil		
+7733	773	Renting and leasing of office machinery and equipment (including computers)			
+77330	7733	Renting and leasing of office machinery and equipment (including computers)	Rhentu a phrydlesu peiriannau a chyfarpar swyddfa (gan gynnwys cyfrifiaduron)		
+7734	773	Renting and leasing of water transport equipment			
+77341	7734	Renting and leasing of passenger water transport equipment	Rhentu a phrydlesu cyfarpar i gludo teithwyr ar y dŵr		
+77342	7734	Renting and leasing of freight water transport equipment	Rhentu a phrydlesu cyfarpar i gludo nwyddau ar y dŵr		
+7735	773	Renting and leasing of air transport equipment			
+77351	7735	Renting and leasing of air passenger transport equipment	Rhentu a phrydlesu cyfarpar i gludo teithwyr yn yr awyr		
+77352	7735	Renting and leasing of freight air transport equipment	Rhentu a phrydlesu cyfarpar i gludo nwyddau yn yr awyr		
+7739	773	Renting and leasing of other machinery, equipment and tangible goods not elsewhere classified			
+77390	7739	Renting and leasing of other machinery, equipment and tangible goods not elsewhere classified	Rhentu a phrydlesu peiriannau, cyfarpar a nwyddau diriaethol eraill n.dd.b.		
+774	77	Leasing of intellectual property and similar products, except copyrighted works			
+7740	774	Leasing of intellectual property and similar products, except copyrighted works			
+77400	7740	Leasing of intellectual property and similar products, except copyright works	Prydlesu eiddo deallusol a chynnyrch tebyg, ac eithrio gwaith hawlfraint		
+78	N	Employment activities			
+781	78	Activities of employment placement agencies			
+7810	781	Activities of employment placement agencies			
+78101	7810	Motion picture, television and other theatrical casting activities	Gweithgareddau castio ar gyfer ffilmiau, y teledu a gweithgareddau theatraidd eraill		
+78109	7810	Other activities of employment placement agencies	Gweithgareddau eraill asiantaethau canfod cyflogaeth		
+782	78	Temporary employment agency activities			
+7820	782	Temporary employment agency activities			
+78200	7820	Temporary employment agency activities	Gweithgareddau asiantaethau canfod cyflogaeth dros dro		
+783	78	Other human resources provision			
+7830	783	Other human resources provision			
+78300	7830	Human resources provision and management of human resources functions	Darparu gwasanaethau adnoddau dynol a rheoli swyddogaethau adnoddau dynol		
+79	N	Travel agency, tour operator and other reservation service and related activities			
+791	79	Travel agency and tour operator activities			
+7911	791	Travel agency activities			
+79110	7911	Travel agency activities	Gweithgareddau asiantaethau teithio		
+7912	791	Tour operator activities			
+79120	7912	Tour operator activities	Gweithgareddau trefnwyr teithiau		
+799	79	Other reservation service and related activities			
+7990	799	Other reservation service and related activities			
+79901	7990	Activities of tourist guides	Gweithgareddau tywyswyr twristiaid		
+79909	7990	Other reservation service activities not elsewhere classified	Gweithgareddau gwasanaethau bwcio a chadw eraill n.dd.b.		
+80	N	Security and investigation activities			
+801	80	Private security activities			
+8010	801	Private security activities			
+80100	8010	Private security activities	Gweithgareddau diogelwch preifat		
+802	80	Security systems service activities			
+8020	802	Security systems service activities			
+80200	8020	Security systems service activities	Gweithgareddau gwasanaethau systemau diogelwch		
+803	80	Investigation activities			
+8030	803	Investigation activities			
+80300	8030	Investigation activities	Gwasanaethau ymholi		
+81	N	Services to buildings and landscape activities			
+811	81	Combined facilities support activities			
+8110	811	Combined facilities support activities			
+81100	8110	Combined facilities support activities	Gweithgareddau cynnal cyfleusterau cyfunol		
+812	81	Cleaning activities			
+8121	812	General cleaning of buildings			
+81210	8121	General cleaning of buildings	Glanhau cyffredinol mewn adeiladau		
+8122	812	Other building and industrial cleaning activities			
+81221	8122	Window cleaning services	Gwasanaethau glanhau ffenestri		
+81222	8122	Specialised cleaning services	Gwasanaethau glanhau arbenigol		
+81223	8122	Furnace and chimney cleaning services	Gwasanaethau glanhau ffwrneisi a simneiau		
+81229	8122	Other building and industrial cleaning activities	Gweithgareddau eraill ym maes glanhau adeiladau a glanhau diwydiannol		
+8129	812	Other cleaning activities			
+81291	8129	Disinfecting and exterminating services	Gweithgareddau diheintio a difodi		
+81299	8129	Other cleaning services	Gwasanaethau glanhau eraill		
+813	81	Landscape service activities			
+8130	813	Landscape service activities			
+81300	8130	Landscape service activities	Gweithgareddau gwasanaethau'r dirwedd		
+82	N	Office administrative, office support and other business support activities			
+821	82	Office administrative and support activities			
+8211	821	Combined office administrative service activities			
+82110	8211	Combined office administrative service activities	Gweithgareddau gwasanaethau gweinyddol cyfunol mewn swyddfeydd		
+8219	821	Photocopying, document preparation and other specialised office support activities			
+82190	8219	Photocopying, document preparation and other specialised office support activities	Llungopïo, paratoi dogfennau a gweithgareddau cymorth arbenigol eraill ar gyfer swyddfeydd		
+822	82	Activities of call centres			
+8220	822	Activities of call centres			
+82200	8220	Activities of call centres	Gweithgareddau canolfannau galwadau		
+823	82	Organisation of conventions and trade shows			
+8230	823	Organisation of conventions and trade shows			
+82301	8230	Activities of exhibition and fair organisers	Gweithgareddau trefnu arddangosfeydd a ffeiriau		
+82302	8230	Activities of conference organisers	Gweithgareddau trefnu cynadleddau		
+829	82	Business support service activities not elsewhere classified			
+8291	829	Activities of collection agencies and credit bureaus			
+82911	8291	Activities of collection agencies	Gweithgareddau asiantaethau casglu		
+82912	8291	Activities of credit bureaus	Gweithgareddau canolfannau credyd		
+8292	829	Packaging activities			
+82920	8292	Packaging activities	Gweithgareddau pecynnu		
+8299	829	Other business support service activities not elsewhere classified			
+82990	8299	Other business support service activities not elsewhere classified	Gweithgareddau gwasanaethau cymorth busnes eraill n.dd.b.		
+84	O	Public administration and defence; compulsory social security			
+841	84	Administration of the State and the economic and social policy of the community			
+8411	841	General public administration activities			
+84110	8411	General public administration activities	Gweithgareddau cyffredinol ym maes gweinyddiaeth gyhoeddus		
+8412	841	Regulation of the activities of providing health care, education, cultural services and other social services, excluding social security			
+84120	8412	Regulation of health care, education, cultural and other social services, not incl. social security	Rheoleiddio gofal iechyd, addysg, diwylliant a gwasanaethau cymdeithasol eraill, heblaw nawdd cymdeithasol		
+8413	841	Regulation of and contribution to more efficient operation of businesses			
+84130	8413	Regulation of and contribution to more efficient operation of businesses	Rheoleiddio busnesau a'u helpu i weithredu'n fwy effeithlon		
+842	84	Provision of services to the community as a whole			
+8421	842	Foreign affairs			
+84210	8421	Foreign affairs	Materion tramor		
+8422	842	Defence activities			
+84220	8422	Defence activities	Gweithgareddau amddiffyn		
+8423	842	Justice and judicial activities			
+84230	8423	Justice and judicial activities	Gweithgareddau cyfiawnder a barnwrol		
+8424	842	Public order and safety activities			
+84240	8424	Public order and safety activities	Gweithgareddau'r drefn gyhoeddus a diogelwch		
+8425	842	Fire service activities			
+84250	8425	Fire service activities	Gweithgareddau gwasanaethau tân		
+843	84	Compulsory social security activities			
+8430	843	Compulsory social security activities			
+84300	8430	Compulsory social security activities	Gweithgareddau gorfodol nawdd cymdeithasol		
+85	P	Education			
+851	85	Pre-primary education			
+8510	851	Pre-primary education			
+85100	8510	Pre-primary education	Addysg cyn oedran cynradd		
+852	85	Primary education			
+8520	852	Primary education			
+85200	8520	Primary education	Addysg gynradd		
+853	85	Secondary education			
+8531	853	General secondary education			
+85310	8531	General secondary education	Addysg uwchradd gyffredinol		
+8532	853	Technical and vocational secondary education			
+85320	8532	Technical and vocational secondary education	Addysg uwchradd dechnegol a galwedigaethol		
+854	85	Higher education			
+8541	854	Post-secondary non-tertiary education			
+85410	8541	Post-secondary non-tertiary education	Addysg ôl-uwchradd nad yw'n drydyddol		
+8542	854	Tertiary education			
+85421	8542	First-degree level higher education	Addysg uwch lefel gradd gyntaf		
+85422	8542	Post-graduate level higher education	Addysg uwch lefel olraddedig		
+855	85	Other education			
+8551	855	Sports and recreation education			
+85510	8551	Sports and recreation education	Addysg chwaraeon a hamdden		
+8552	855	Cultural education			
+85520	8552	Cultural education	Addysg ddiwylliannol		
+8553	855	Driving school activities			
+85530	8553	Driving school activities	Gweithgareddau ysgolion gyrru		
+8559	855	Other education not elsewhere classified			
+85590	8559	Other education not elsewhere classified	Addysg arall n.dd.b.		
+856	85	Educational support activities			
+8560	856	Educational support activities			
+85600	8560	Educational support services	Gwasanaethau cymorth addysg		
+86	Q	Human health activities			
+861	86	Hospital activities			
+8610	861	Hospital activities			
+86101	8610	Hospital activities	Gweithgareddau ysbytai		
+86102	8610	Medical nursing home activities	Gweithgareddau cartrefi nyrsio meddygol		
+862	86	Medical and dental practice activities			
+8621	862	General medical practice activities			
+86210	8621	General medical practice activities	Gweithgareddau practisau meddygol cyffredinol		
+8622	862	Specialist medical practice activities			
+86220	8622	Specialists medical practice activities	Gweithgareddau practisau meddygol arbenigol		
+8623	862	Dental practice activities			
+86230	8623	Dental practice activities	Gweithgareddau practisau deintyddol		
+869	86	Other human health activities			
+8690	869	Other human health activities			
+86900	8690	Other human health activities	Gweithgareddau eraill ym maes iechyd y cyhoedd		
+87	Q	Residential care activities			
+871	87	Residential nursing care activities			
+8710	871	Residential nursing care activities			
+87100	8710	Residential nursing care facilities	Cyfleusterau gofal nyrsio preswyl		
+872	87	Residential care activities for learning disabilities, mental health and substance abuse			
+8720	872	Residential care activities for learning disabilities, mental health and substance abuse			
+87200	8720	Residential care activities for learning difficulties, mental health and substance abuse	Gweithgareddau gofal preswyl ar gyfer anawsterau dysgu, iechyd meddwl a cham-drin sylweddau		
+873	87	Residential care activities for the elderly and disabled			
+8730	873	Residential care activities for the elderly and disabled			
+87300	8730	Residential care activities for the elderly and disabled	Gweithgareddau gofal preswyl ar gyfer pobl oedrannus ac anabl		
+879	87	Other residential care activities			
+8790	879	Other residential care activities			
+87900	8790	Other residential care activities not elsewhere classified	Gweithgareddau eraill ym maes gofal preswyl n.dd.b.		
+88	Q	Social work activities without accommodation			
+881	88	Social work activities without accommodation for the elderly and disabled			
+8810	881	Social work activities without accommodation for the elderly and disabled			
+88100	8810	Social work activities without accommodation for the elderly and disabled	Gweithgareddau gwaith cymdeithasol heb lety ar gyfer pobl oedrannus ac anabl		
+889	88	Other social work activities without accommodation			
+8891	889	Child day-care activities			
+88910	8891	Child day-care activities	Gweithgareddau gofal dydd i blant		
+8899	889	Other social work activities without accommodation not elsewhere classified			
+88990	8899	Other social work activities without accommodation not elsewhere classified	Gweithgareddau gofal cymdeithasol eraill heb lety n.dd.b.		
+90	R	Creative, arts and entertainment activities			
+900	90	Creative, arts and entertainment activities			
+9001	900	Performing arts			
+90010	9001	Performing arts	Y celfyddydau perfformio		
+9002	900	Support activities to performing arts			
+90020	9002	Support activities to performing arts	Gweithgareddau cymorth ym maes y celfyddydau perfformio		
+9003	900	Artistic creation			
+90030	9003	Artistic creation	Creu artistig		
+9004	900	Operation of arts facilities			
+90040	9004	Operation of arts facilities	Rheoli cyfleusterau ar gyfer y celfyddydau		
+91	R	Libraries, archives, museums and other cultural activities			
+910	91	Libraries, archives, museums and other cultural activities			
+9101	910	Library and archive activities			
+91011	9101	Library activities	Gweithgareddau llyfrgelloedd		
+91012	9101	Archives activities	Gweithgareddau archifau		
+9102	910	Museum activities			
+91020	9102	Museums activities	Gweithgareddau amgueddfeydd		
+9103	910	Operation of historical sites and buildings and similar visitor attractions			
+91030	9103	Operation of historical sites and buildings and similar visitor attractions	Gweithredu safleoedd ac adeiladau hanesyddol ac atyniadau tebyg i ymwelwyr		
+9104	910	Botanical and zoological gardens and nature reserve activities			
+91040	9104	Botanical and zoological gardens and nature reserves activities	Gweithgareddau gerddi botanegol a sŵolegol a gwarchodfeydd natur		
+92	R	Gambling and betting activities			
+920	92	Gambling and betting activities			
+9200	920	Gambling and betting activities			
+92000	9200	Gambling and betting activities	Gweithgareddau gamblo a betio		
+93	R	Sports activities and amusement and recreation activities			
+931	93	Sports activities			
+9311	931	Operation of sports facilities			
+93110	9311	Operation of sports facilities	Gweithredu cyfleusterau chwaraeon		
+9312	931	Activities of sport clubs			
+93120	9312	Activities of sport clubs	Gweithgareddau clybiau chwaraeon		
+9313	931	Fitness facilities			
+93130	9313	Fitness facilities	Cyfleusterau ffitrwydd		
+9319	931	Other sports activities			
+93191	9319	Activities of racehorse owners	Gweithgareddau perchnogion ceffylau rasio		
+93199	9319	Other sports activities	Gweithgareddau chwaraeon eraill		
+932	93	Amusement and recreation activities			
+9321	932	Activities of amusement parks and theme parks			
+93210	9321	Activities of amusement parks and theme parks	Gweithgareddau parciau diddanu a pharciau thema		
+9329	932	Other amusement and recreation activities			
+93290	9329	Other amusement and recreation activities not elsewhere classified	Gweithgareddau diddanu a hamdden eraill n.dd.b.		
+94	S	Activities of membership organisations			
+941	94	Activities of business, employers and professional membership organisations			
+9411	941	Activities of business and employers membership organisations			
+94110	9411	Activities of business and employers membership organisations	Gweithgareddau sefydliadau i aelodau ym myd busnes a chyflogwyr		
+9412	941	Activities of professional membership organisations			
+94120	9412	Activities of professional membership organisations	Gweithgareddau sefydliadau proffesiynol i aelodau		
+942	94	Activities of trade unions			
+9420	942	Activities of trade unions			
+94200	9420	Activities of trade unions	Gweithgareddau undebau llafur		
+949	94	Activities of other membership organisations			
+9491	949	Activities of religious organisations			
+94910	9491	Activities of religious organisations	Gweithgareddau sefydliadau crefyddol		
+9492	949	Activities of political organisations			
+94920	9492	Activities of political organisations	Gweithgareddau sefydliadau gwleidyddol		
+9499	949	Activities of other membership organisations not elsewhere classified			
+94990	9499	Activities of other membership organisations not elsewhere classified	Gweithgareddau sefydliadau aelodaeth eraill n.dd.b.		
+95	S	Repair of computers and personal and household goods			
+951	95	Repair of computers and communication equipment			
+9511	951	Repair of computers and peripheral equipment			
+95110	9511	Repair of computers and peripheral equipment	Atgyweirio cyfrifiaduron a'u perifferolion		
+9512	951	Repair of communication equipment			
+95120	9512	Repair of communication equipment	Atgyweirio cyfarpar cyfathrebu		
+952	95	Repair of personal and household goods			
+9521	952	Repair of consumer electronics			
+95210	9521	Repair of consumer electronics	Atgyweirio cyfarpar electronig i ddefnyddwyr		
+9522	952	Repair of household appliances and home and garden equipment			
+95220	9522	Repair of household appliances and home and garden equipment	Atgyweirio dyfeisiau cartref a chyfarpar y cartref a'r ardd		
+9523	952	Repair of footwear and leather goods			
+95230	9523	Repair of footwear and leather goods	Atgyweirio esgidiau a nwyddau lledr		
+9524	952	Repair of furniture and home furnishings			
+95240	9524	Repair of furniture and home furnishings	Atgyweirio celfi ac eitemau dodrefnu'r cartref		
+9525	952	Repair of watches, clocks and jewellery			
+95250	9525	Repair of watches, clocks and jewellery	Atgyweirio watsys, clociau a gemwaith		
+9529	952	Repair of other personal and household goods			
+95290	9529	Repair of personal and household goods not elsewhere classified	Atgyweirio nwyddau personol a chartref eraill n.dd.b.		
+96	S	Other personal service activities			
+960	96	Other personal service activities			
+9601	960	Washing and (dry-)cleaning of textile and fur products			
+96010	9601	Washing and (dry-)cleaning of textile and fur products	Golchi a glanhau (sychlanhau) cynhyrchion tecstilau a ffwr		
+9602	960	Hairdressing and other beauty treatment			
+96020	9602	Hairdressing and other beauty treatment	Trin gwallt a thriniaethau harddwch eraill		
+9603	960	Funeral and related activities			
+96030	9603	Funeral and related activities	Angladdau a gweithgareddau cysylltiedig		
+9604	960	Physical well-being activities			
+96040	9604	Physical well-being activities	Gweithgareddau lles corfforol		
+9609	960	Other personal service activities not elsewhere classified			
+96090	9609	Other service activities not elsewhere classified	Gweithgareddau gwasanaethau eraill n.dd.b.		
+97	T	Activities of households as employers of domestic personnel			
+970	97	Activities of households as employers of domestic personnel			
+9700	970	Activities of households as employers of domestic personnel			
+97000	9700	Activities of households as employers of domestic personnel	Gweithgareddau aelwydydd fel cyflogwyr gweithwyr domestig		
+98	T	Undifferentiated goods- and services-producing activities of private households for own use			
+98000	9800	Residents property management	Rheolaeth trigolion dros eiddo		
+981	98	Undifferentiated goods-producing activities of private households for own use			
+9810	981	Undifferentiated goods-producing activities of private households for own use			
+98100	9810	Undifferentiated goods-producing activities of private households for own use	Gweithgareddau diwahaniaeth aelwydydd preifat i gynhyrchu nwyddau at eu defnydd eu hunain		
+982	98	Undifferentiated service-producing activities of private households for own use			
+9820	982	Undifferentiated service-producing activities of private households for own use			
+98200	9820	Undifferentiated service-producing activities of private households for own use	Gweithgareddau diwahaniaeth aelwydydd preifat i gynhyrchu gwasanaethau at eu defnydd eu hunain		
+99	U	Activities of extraterritorial organisations and bodies			
+990	99	Activities of extraterritorial organisations and bodies			
+9900	990	Activities of extraterritorial organisations and bodies			
+99000	9900	Activities of extraterritorial organisations and bodies	Gweithgareddau sefydliadau a chyrff alldiriogaethol		
+99999	9999	Dormant Company	Cwmni Segur		
+A		Agriculture, Forestry and Fishing	Amaethyddiaeth, Coedwigaeth a Physgota		
+B		Mining and Quarrying	Mwyngloddio a Chwarela		
+C		Manufacturing	Gweithgynhyrchu		
+D		Electricity, gas, steam and air conditioning supply	Cyflenwi trydan, nwy, stêm a thymherwyr awyr		
+E		Water supply, sewerage, waste management and remediation activities	Gweithgareddau cyflenwi dŵr, carthffosiaeth, rheoli ac adfer gwastraff		
+F		Construction	Adeiladu		
+G		Wholesale and retail trade; repair of motor vehicles and motorcycles	Masnachu trwy gyfanwerthu ac adwerthu; atgyweirio cerbydau modur a beiciau modur		
+H		Transportation and storage	Cludio a storio		
+I		Accommodation and food service activities	Gweithgareddau llety a gwasanaethau bwyd eraill		
+J		Information and communication	Gwybodaeth a chyfathrebu		
+K		Financial and insurance activities	Gweithgareddau ariannol ac yswiriant		
+L		Real estate activities	Gweithgareddau eiddo diriaethol		
+M		Professional, scientific and technical activities	Gweithgareddau proffesiynol, gwyddonol a thechnegol		
+N		Administrative and support service activities	Gweithgareddau gweinyddol a gwasanethau cynorthwyol		
+O		Public administration and defence; compulsory social security	Gweinyddiaeth gyhoeddus ac amddiffyn; nawdd cymdeithasol gorfodol		
+P		Education	Addysg		
+Q		Human health and social work activities	Gweithgareddau iechyd y cyhoedd a gwaith cymdeithasol		
+R		Arts, entertainment and recreation	Y celfyddydau, adloniant a hamdden		
+S		Other service activities	Gwithgareddau gwasanaethu eraill		
+T		Activities of households as employers; undifferentiated goods- and services-producing activities of households for own use	Gwithgareddau aelwydydd fel cyflogwyr; gweithgareddau diwahaniaeth sy’n cynhyrchu nwydday – a gwasanethau – ar gyfer aelwydydd at eu defnydd eu hunain		
+U		Activities of extraterritorial organisations and bodies	Gweithgareddau sefydliadau a chyrff alldiriogaethol		
