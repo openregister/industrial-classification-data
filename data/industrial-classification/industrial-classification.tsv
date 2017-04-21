@@ -958,7 +958,6 @@ industrial-classification	parent-industrial-classification	name	name-cy	start-da
 74901	74900	Environmental consulting activities	Gweithgareddau ymgynghori amgylcheddol		
 74902	74900	Quantity surveying activities	Gweithgareddau mesur meintiau		
 74909	74900	Other professional, scientific and technical activities not elsewhere classified	Gweithgareddau proffesiynol, gwyddonol a thechnegol n.dd.b.		
-74990	749	Non-trading company non trading	Cwmni anfasnachol		
 75	M	Veterinary activities			
 750	75	Veterinary activities			
 75000	750	Veterinary activities	Gweithgareddau milfeddygol		
@@ -1159,7 +1158,6 @@ industrial-classification	parent-industrial-classification	name	name-cy	start-da
 970	97	Activities of households as employers of domestic personnel			
 97000	970	Activities of households as employers of domestic personnel	Gweithgareddau aelwydydd fel cyflogwyr gweithwyr domestig		
 98	T	Undifferentiated goods- and services-producing activities of private households for own use			
-98000		Residents property management	Rheolaeth trigolion dros eiddo		
 981	98	Undifferentiated goods-producing activities of private households for own use			
 98100	981	Undifferentiated goods-producing activities of private households for own use	Gweithgareddau diwahaniaeth aelwydydd preifat i gynhyrchu nwyddau at eu defnydd eu hunain		
 982	98	Undifferentiated service-producing activities of private households for own use			
@@ -1167,7 +1165,6 @@ industrial-classification	parent-industrial-classification	name	name-cy	start-da
 99	U	Activities of extraterritorial organisations and bodies			
 990	99	Activities of extraterritorial organisations and bodies			
 99000	990	Activities of extraterritorial organisations and bodies	Gweithgareddau sefydliadau a chyrff alldiriogaethol		
-99999		Dormant Company	Cwmni Segur		
 A		Agriculture, Forestry and Fishing	Amaethyddiaeth, Coedwigaeth a Physgota		
 B		Mining and Quarrying	Mwyngloddio a Chwarela		
 C		Manufacturing	Gweithgynhyrchu		
