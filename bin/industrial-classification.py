@@ -59,20 +59,6 @@ for row in csv.DictReader(open(sys.argv[1]), delimiter=sep):
     codes[code] = row
 
 
-# take text from companies house list
-for row in csv.DictReader(open(sys.argv[2]), delimiter=sep):
-    code = row['industrial-classification']
-
-    # expand abbreviations
-    row['name'] = row['name'].replace('n.e.c.', 'not elsewhere classified')
-
-    if code not in codes:
-        print("skipping code", code, row['name'], file=sys.stderr)
-    else:
-        codes[code]['name'] = row['name']
-        codes[code]['name-cy'] = row['name-cy']
-
-
 print(sep.join(fields))
 for code in sorted(codes):
     row = codes[code]
