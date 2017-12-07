@@ -3,7 +3,7 @@ import re
 import sys
 import csv
 
-fields = ['industrial-classification', 'parent-industrial-classification', 'name', 'name-cy', 'start-date', 'end-date']
+fields = ['industrial-classification', 'parent-industrial-classification', 'name', 'start-date', 'end-date']
 sep = '\t'
 
 section = ''
