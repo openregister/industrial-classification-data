@@ -695,7 +695,7 @@ industrial-classification	parent-industrial-classification	name	start-date	end-d
 47.82	47.8	Retail sale via stalls and markets of textiles, clothing and footwear		
 47.89	47.8	Retail sale via stalls and markets of other goods		
 47.9	47	Retail trade not in stores, stalls or markets		
-47.91	47.9	Retail sale via mail order houses or via Internet		
+47.91	47.9	Retail sale via mail order houses or via internet		
 47.99	47.9	Other retail sale not in stores, stalls or markets		
 49	H	Land transport and transport via pipelines		
 49.1	49	Passenger rail transport, interurban		
@@ -754,8 +754,8 @@ industrial-classification	parent-industrial-classification	name	start-date	end-d
 53.10	53.1	Postal activities under universal service obligation		
 53.2	53	Other postal and courier activities		
 53.20	53.2	Other postal and courier activities		
-53.20/1	53.20	Licensed Carriers		
-53.20/2	53.20	Unlicensed Carriers		
+53.20/1	53.20	Licensed carriers		
+53.20/2	53.20	Unlicensed carriers		
 55	I	Accommodation		
 55.1	55	Hotels and similar accommodation		
 55.10	55.1	Hotels and similar accommodation		
@@ -894,9 +894,9 @@ industrial-classification	parent-industrial-classification	name	start-date	end-d
 68.10	68.1	Buying and selling of own real estate		
 68.2	68	Renting and operating of own or leased real estate		
 68.20	68.2	Renting and operating of own or leased real estate		
-68.20/1	68.20	Renting and operating of Housing Association real estate		
+68.20/1	68.20	Renting and operating of housing association real estate		
 68.20/2	68.20	Letting and operating of conference and exhibition centres		
-68.20/9	68.20	Letting and operating of own or leased real estate (other than Housing Association real estate and conference and exhibition services) not elsewhere classified		
+68.20/9	68.20	Letting and operating of own or leased real estate (other than housing association real estate and conference and exhibition services) not elsewhere classified		
 68.3	68	Real estate activities on a fee or contract basis		
 68.31	68.3	Real estate agencies		
 68.32	68.3	Management of real estate on a fee or contract basis		
@@ -1040,7 +1040,7 @@ industrial-classification	parent-industrial-classification	name	start-date	end-d
 82.92	82.9	Packaging activities		
 82.99	82.9	Other business support service activities not elsewhere classified		
 84	O	Public administration and defence; compulsory social security		
-84.1	84	Administration of the State and the economic and social policy of the community		
+84.1	84	Administration of the state and the economic and social policy of the community		
 84.11	84.1	General public administration activities		
 84.12	84.1	Regulation of the activities of providing health care, education, cultural services and other social services, excluding social security		
 84.13	84.1	Regulation of and contribution to more efficient operation of businesses		
@@ -1165,24 +1165,24 @@ industrial-classification	parent-industrial-classification	name	start-date	end-d
 99	U	Activities of extraterritorial organisations and bodies		
 99.0	99	Activities of extraterritorial organisations and bodies		
 99.00	99.0	Activities of extraterritorial organisations and bodies		
-A		AGRICULTURE, FORESTRY AND FISHING		
-B		MINING AND QUARRYING		
-C		MANUFACTURING		
-D		ELECTRICITY, GAS, STEAM AND AIR CONDITIONING SUPPLY		
-E		WATER SUPPLY; SEWERAGE, WASTE MANAGEMENT AND REMEDIATION ACTIVITIES		
-F		CONSTRUCTION		
-G		WHOLESALE AND RETAIL TRADE; REPAIR OF MOTOR VEHICLES AND MOTORCYCLES		
-H		TRANSPORTATION AND STORAGE		
-I		ACCOMMODATION AND FOOD SERVICE ACTIVITIES		
-J		INFORMATION AND COMMUNICATION		
-K		FINANCIAL AND INSURANCE ACTIVITIES		
-L		REAL ESTATE ACTIVITIES		
-M		PROFESSIONAL, SCIENTIFIC AND TECHNICAL ACTIVITIES		
-N		ADMINISTRATIVE AND SUPPORT SERVICE ACTIVITIES		
-O		PUBLIC ADMINISTRATION AND DEFENCE; COMPULSORY SOCIAL SECURITY		
-P		EDUCATION		
-Q		HUMAN HEALTH AND SOCIAL WORK ACTIVITIES		
-R		ARTS, ENTERTAINMENT AND RECREATION		
-S		OTHER SERVICE ACTIVITIES		
-T		ACTIVITIES OF HOUSEHOLDS AS EMPLOYERS; UNDIFFERENTIATED GOODS-AND SERVICES-PRODUCING ACTIVITIES OF HOUSEHOLDS FOR OWN USE		
-U		ACTIVITIES OF EXTRATERRITORIAL ORGANISATIONS AND BODIES		
+A		Agriculture, forestry and fishing		
+B		Mining and quarrying		
+C		Manufacturing		
+D		Electricity, gas, steam and air conditioning supply		
+E		Water supply; sewerage, waste management and remediation activities		
+F		Construction		
+G		Wholesale and retail trade; repair of motor vehicles and motorcycles		
+H		Transportation and storage		
+I		Accommodation and food service activities		
+J		Information and communication		
+K		Financial and insurance activities		
+L		Real estate activities		
+M		Professional, scientific and technical activities		
+N		Administrative and support service activities		
+O		Public administration and defence; compulsory social security		
+P		Education		
+Q		Human health and social work activities		
+R		Arts, entertainment and recreation		
+S		Other service activities		
+T		Activities of households as employers; undifferentiated goods-and services-producing activities of households for own use		
+U		Activities of extraterritorial organisations and bodies		

@@ -54,7 +54,7 @@ for row in csv.DictReader(open(sys.argv[1]), delimiter=sep):
     row['parent-code'] = parent_n7e(code, section)
 
     # expand abbreviations in text ..
-    row['name'] = row['name'].replace('n.e.c.', 'not elsewhere classified')
+    row['name'] = row['name'].replace('n.e.c.', 'not elsewhere classified').capitalize()
 
     codes[code] = row
 
