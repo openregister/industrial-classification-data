@@ -1,5 +1,7 @@
 # Convert the 2003 pdf and 2007 xls into registers
 
+# TODO: check for "This code is no longer in use"
+
 library(tidyverse)
 library(readxl)
 library(tabulizer)
