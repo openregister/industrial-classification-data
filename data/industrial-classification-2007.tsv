@@ -1,5 +1,5 @@
 industrial-classification-2007	name	parent-industrial-classification-2007	start-date	end-date
-A	AGRICULTURE, FORESTRY AND FISHING			
+A	Agriculture, forestry and fishing			
 01	Crop and animal production, hunting and related service activities	A		
 01.1	Growing of non-perennial crops	01		
 01.11	Growing of cereals (except rice), leguminous crops and oil seeds	01.1		
@@ -57,7 +57,7 @@ A	AGRICULTURE, FORESTRY AND FISHING
 03.2	Aquaculture	03		
 03.21	Marine aquaculture	03.2		
 03.22	Freshwater aquaculture	03.2		
-B	MINING AND QUARRYING			
+B	Mining and quarrying			
 05	Mining of coal and lignite	B		
 05.1	Mining of hard coal	05		
 05.10	Mining of hard coal	05.1		
@@ -90,7 +90,7 @@ B	MINING AND QUARRYING
 09.10	Support activities for petroleum and natural gas extraction	09.1		
 09.9	Support activities for other mining and quarrying	09		
 09.90	Support activities for other mining and quarrying	09.9		
-C	MANUFACTURING			
+C	Manufacturing			
 10	Manufacture of food products	C		
 10.1	Processing and preserving of meat and production of meat products	10		
 10.11	Processing and preserving of meat	10.1		
@@ -491,7 +491,7 @@ C	MANUFACTURING
 33.19	Repair of other equipment	33.1		
 33.2	Installation of industrial machinery and equipment	33		
 33.20	Installation of industrial machinery and equipment	33.2		
-D	ELECTRICITY, GAS, STEAM AND AIR CONDITIONING SUPPLY			
+D	Electricity, gas, steam and air conditioning supply			
 35	Electricity, gas, steam and air conditioning supply	D		
 35.1	Electric power generation, transmission and distribution	35		
 35.11	Production of electricity	35.1		
@@ -504,7 +504,7 @@ D	ELECTRICITY, GAS, STEAM AND AIR CONDITIONING SUPPLY
 35.23	Trade of gas through mains	35.2		
 35.3	Steam and air conditioning supply	35		
 35.30	Steam and air conditioning supply	35.3		
-E	WATER SUPPLY; SEWERAGE, WASTE MANAGEMENT AND REMEDIATION ACTIVITIES			
+E	Water supply; sewerage, waste management and remediation activities			
 36	Water collection, treatment and supply	E		
 36.0	Water collection, treatment and supply	36		
 36.00	Water collection, treatment and supply	36.0		
@@ -525,7 +525,7 @@ E	WATER SUPPLY; SEWERAGE, WASTE MANAGEMENT AND REMEDIATION ACTIVITIES
 This division includes the provision of remediation services, i.e. the cleanup of contaminated buildings and sites, soil, surface or ground water.		E		
 39.0	Remediation activities and other waste management services	This division includes the provision of remediation services, i.e. the cleanup of contaminated buildings and sites, soil, surface or ground water.		
 39.00	Remediation activities and other waste management services	39.0		
-F	CONSTRUCTION			
+F	Construction			
 41	Construction of buildings	F		
 41.1	Development of building projects	41		
 41.10	Development of building projects	41.1		
@@ -566,7 +566,7 @@ F	CONSTRUCTION
 43.99	Other specialised construction activities n.e.c.	43.9		
 43.99/1	Scaffold erection	43.99		
 43.99/9	Specialised construction activities (other than scaffold erection) n.e.c.	43.99		
-G	WHOLESALE AND RETAIL TRADE; REPAIR OF MOTOR VEHICLES AND MOTORCYCLES			
+G	Wholesale and retail trade; repair of motor vehicles and motorcycles			
 45	Wholesale and retail trade and repair of motor vehicles and motorcycles	G		
 45.1	Sale of motor vehicles	45		
 45.11	Sale of cars and light motor vehicles	45.1		
@@ -705,7 +705,7 @@ G	WHOLESALE AND RETAIL TRADE; REPAIR OF MOTOR VEHICLES AND MOTORCYCLES
 47.9	Retail trade not in stores, stalls or markets	47		
 47.91	Retail sale via mail order houses or via Internet	47.9		
 47.99	Other retail sale not in stores, stalls or markets	47.9		
-H	TRANSPORTATION AND STORAGE			
+H	Transportation and storage			
 49	Land transport and transport via pipelines	H		
 49.1	Passenger rail transport, interurban	49		
 49.10	Passenger rail transport, interurban	49.1		
@@ -765,7 +765,7 @@ H	TRANSPORTATION AND STORAGE
 53.20	Other postal and courier activities	53.2		
 53.20/1	Licensed Carriers	53.20		
 53.20/2	Unlicensed Carriers	53.20		
-I	ACCOMMODATION AND FOOD SERVICE ACTIVITIES			
+I	Accommodation and food service activities			
 55	Accommodation	I		
 55.1	Hotels and similar accommodation	55		
 55.10	Hotels and similar accommodation	55.1		
@@ -791,7 +791,7 @@ I	ACCOMMODATION AND FOOD SERVICE ACTIVITIES
 56.30	Beverage serving activities	56.3		
 56.30/1	Licensed clubs	56.30		
 56.30/2	Public houses and bars	56.30		
-J	INFORMATION AND COMMUNICATION			
+J	Information and communication			
 58	Publishing activities	J		
 58.1	Publishing of books, periodicals and other publishing activities	58		
 58.11	Book publishing	58.1		
@@ -847,7 +847,7 @@ J	INFORMATION AND COMMUNICATION
 63.9	Other information service activities	63		
 63.91	News agency activities	63.9		
 63.99	Other information service activities n.e.c.	63.9		
-K	FINANCIAL AND INSURANCE ACTIVITIES			
+K	Financial and insurance activities			
 64	Financial service activities, except insurance and pension funding	K		
 64.1	Monetary intermediation	64		
 64.11	Central banking	64.1		
@@ -901,7 +901,7 @@ K	FINANCIAL AND INSURANCE ACTIVITIES
 66.29	Other activities auxiliary to insurance and pension funding	66.2		
 66.3	Fund management activities	66		
 66.30	Fund management activities	66.3		
-L	REAL ESTATE ACTIVITIES			
+L	Real estate activities			
 68	Real estate activities	L		
 68.1	Buying and selling of own real estate	68		
 68.10	Buying and selling of own real estate	68.1		
@@ -913,7 +913,7 @@ L	REAL ESTATE ACTIVITIES
 68.3	Real estate activities on a fee or contract basis	68		
 68.31	Real estate agencies	68.3		
 68.32	Management of real estate on a fee or contract basis	68.3		
-M	PROFESSIONAL, SCIENTIFIC AND TECHNICAL ACTIVITIES			
+M	Professional, scientific and technical activities			
 69	Legal and accounting activities	M		
 69.1	Legal activities	69		
 69.10	Legal activities	69.1		
@@ -975,7 +975,7 @@ M	PROFESSIONAL, SCIENTIFIC AND TECHNICAL ACTIVITIES
 75	Veterinary activities	M		
 75.0	Veterinary activities	75		
 75.00	Veterinary activities	75.0		
-N	ADMINISTRATIVE AND SUPPORT SERVICE ACTIVITIES			
+N	Administrative and support service activities			
 77	Rental and leasing activities	N		
 77.1	Renting and leasing of motor vehicles	77		
 77.11	Renting and leasing of cars and light motor vehicles	77.1		
@@ -1054,7 +1054,7 @@ N	ADMINISTRATIVE AND SUPPORT SERVICE ACTIVITIES
 82.91/2	Activities of credit bureaus	82.91		
 82.92	Packaging activities	82.9		
 82.99	Other business support service activities n.e.c.	82.9		
-O	PUBLIC ADMINISTRATION AND DEFENCE; COMPULSORY SOCIAL SECURITY			
+O	Public administration and defence; compulsory social security			
 84	Public administration and defence; compulsory social security	O		
 84.1	Administration of the State and the economic and social policy of the community	84		
 84.11	General public administration activities	84.1		
@@ -1068,7 +1068,7 @@ O	PUBLIC ADMINISTRATION AND DEFENCE; COMPULSORY SOCIAL SECURITY
 84.25	Fire service activities	84.2		
 84.3	Compulsory social security activities	84		
 84.30	Compulsory social security activities	84.3		
-P	EDUCATION			
+P	Education			
 85	Education	P		
 85.1	Pre-primary education	85		
 85.10	Pre-primary education	85.1		
@@ -1089,7 +1089,7 @@ P	EDUCATION
 85.59	Other education n.e.c.	85.5		
 85.6	Educational support activities	85		
 85.60	Educational support activities	85.6		
-Q	HUMAN HEALTH AND SOCIAL WORK ACTIVITIES			
+Q	Human health and social work activities			
 86	Human health activities	Q		
 86.1	Hospital activities	86		
 86.10	Hospital activities	86.1		
@@ -1116,7 +1116,7 @@ Q	HUMAN HEALTH AND SOCIAL WORK ACTIVITIES
 88.9	Other social work activities without accommodation	88		
 88.91	Child day-care activities	88.9		
 88.99	Other social work activities without accommodation n.e.c.	88.9		
-R	ARTS, ENTERTAINMENT AND RECREATION			
+R	Arts, entertainment and recreation			
 90	Creative, arts and entertainment activities	R		
 90.0	Creative, arts and entertainment activities	90		
 90.01	Performing arts	90.0		
@@ -1145,7 +1145,7 @@ R	ARTS, ENTERTAINMENT AND RECREATION
 93.2	Amusement and recreation activities	93		
 93.21	Activities of amusement parks and theme parks	93.2		
 93.29	Other amusement and recreation activities	93.2		
-S	OTHER SERVICE ACTIVITIES			
+S	Other service activities			
 94	Activities of membership organisations	S		
 94.1	Activities of business, employers and professional membership organisations	94		
 94.11	Activities of business and employers membership organisations	94.1		
@@ -1174,7 +1174,7 @@ S	OTHER SERVICE ACTIVITIES
 96.03	Funeral and related activities	96.0		
 96.04	Physical well-being activities	96.0		
 96.09	Other personal service activities n.e.c.	96.0		
-T	ACTIVITIES OF HOUSEHOLDS AS EMPLOYERS; UNDIFFERENTIATED GOODS-AND SERVICES-PRODUCING ACTIVITIES OF HOUSEHOLDS FOR OWN USE			
+T	Activities of households as employers; undifferentiated goods-and services-producing activities of households for own use			
 97	Activities of households as employers of domestic personnel	T		
 97.0	Activities of households as employers of domestic personnel	97		
 97.00	Activities of households as employers of domestic personnel	97.0		
@@ -1183,7 +1183,7 @@ T	ACTIVITIES OF HOUSEHOLDS AS EMPLOYERS; UNDIFFERENTIATED GOODS-AND SERVICES-PRO
 98.10	Undifferentiated goods-producing activities of private households for own use	98.1		
 98.2	Undifferentiated service-producing activities of private households for own use	98		
 98.20	Undifferentiated service-producing activities of private households for own use	98.2		
-U	ACTIVITIES OF EXTRATERRITORIAL ORGANISATIONS AND BODIES			
+U	Activities of extraterritorial organisations and bodies			
 99	Activities of extraterritorial organisations and bodies	U		
 99.0	Activities of extraterritorial organisations and bodies	99		
 99.00	Activities of extraterritorial organisations and bodies	99.0		

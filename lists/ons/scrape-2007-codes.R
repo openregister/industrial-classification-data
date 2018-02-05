@@ -10,6 +10,11 @@ get_parent <- function(x) {
   x
 }
 
+to_sentence_case <- function(x) {
+  paste0(toupper(str_sub(x, 1L, 1L)),
+         tolower(str_sub(x, 2L)))
+}
+
 sic2007 <-
   read_excel(path, skip = 3, col_names = FALSE) %>%
   tidy_table() %>%
@@ -25,6 +30,10 @@ sic2007 <-
   do(get_parent(.)) %>%
   ungroup() %>%
   select(code, name, parent) %>%
+  # Convert allcaps to sentence case
+  mutate(name = if_else(!str_detect(name, "[a-z]"),
+                        to_sentence_case(name),
+                        name)) %>%
   rename(`industrial-classification-2007` = code,
          `parent-industrial-classification-2007` = parent) %>%
   mutate(`start-date` = NA,
