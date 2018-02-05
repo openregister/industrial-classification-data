@@ -49,6 +49,20 @@ The hierarchy has been modelled in the register using the parent-industrial-clas
 
 The complete hierarchy is included in the register, although a service should encourage users to record the finest (lowest-level) code as possible.
 
+## Data glitches
+
+A handful of inconsistencies were noticed when scraping the 2003 edition from
+PDF.  The codes were scraped twice from the [2003
+indices](http://www.ons.gov.uk/ons/guide-method/classifications/archived-standard-classifications/uk-standard-industrial-classification-1992--sic92-/uk-sic-2003-index.pdf)
+whether they are listed both alphabetically and numerically, against the 1980
+codes.  Some of the 2003 codes and descriptions have clearly been mis-typed.  In
+the end the codes and descriptions from the [2003
+edition](http://www.ons.gov.uk/ons/guide-method/classifications/archived-standard-classifications/uk-standard-industrial-classification-1992--sic92-/uk-sic-2003.pdf)
+were used instead, since they are 'authoritative', and the codes form the
+indices were only used to check for completeness.  The glitches are detailed in
+the
+[code](https://github.com/openregister/industrial-classification-data/blob/master/lists/ons/scrape-2003-indices.R).
+
 # Licence
 
 The software in this project is covered by LICENSE file.
