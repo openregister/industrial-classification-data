@@ -1,0 +1,33 @@
+library(tidyverse)
+library(readxl)
+library(unpivotr)
+library(here)
+
+path <- here("lists", "ons", "sic2007.xls")
+
+get_parent <- function(x) {
+  x$parent <- x[[as.character(x$parent_col)]]
+  x
+}
+
+sic2007 <-
+  read_excel(path, skip = 3, col_names = FALSE) %>%
+  tidy_table() %>%
+  filter(!is.na(chr)) %>%
+  group_by(row) %>%
+  arrange(row, col) %>%
+  summarise(first_col = first(col), code = chr[1], activity = chr[2]) %>%
+  mutate(first_col = as.integer(first_col - (first_col %/% 2))) %>%
+  mutate(code2 = code, parent_col = first_col - 1L) %>%
+  spread(first_col, code2) %>%
+  fill(`1`, `2`, `3`, `4`, `5`) %>%
+  group_by(row) %>%
+  do(temp(.)) %>%
+  ungroup() %>%
+  select(code, activity, parent) %>%
+  rename(`industrial-classification-2007` = code,
+         `parent-industrial-classification-2007` = parent) %>%
+  mutate(`start-date` = NA,
+         `end-date` = NA)
+
+write_tsv(sic2007, here("data", "industrial-classification-2007.tsv"), na = "")
