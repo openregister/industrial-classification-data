@@ -122,7 +122,7 @@ sic80 <-
   select(sic2003, sic80, activity) %>%
   mutate(sic80 = sprintf("%04i", as.integer(sic80)))
 
-# Compare the alphabetic and numerical versions.  Not good.
+# Compare the alphabetic and numerical versions.  Not bad.
 anti_join(alphabetic, sic80) %>% distinct %>% print(n = Inf) %>% write_tsv(here("lists", "ons", "2003-bad-records-1.tsv"))
 anti_join(sic80, alphabetic) %>% distinct %>% print(n = Inf) %>% write_tsv(here("lists", "ons", "2003-bad-records-2.tsv"))
 
