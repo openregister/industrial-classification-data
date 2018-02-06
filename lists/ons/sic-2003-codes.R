@@ -57,7 +57,7 @@ anti_join(sic2003, sic2003b)
 
 all_sic_2003 %>%
   rename(`industrial-classification-2003` = sic2003,
-         `parent-industrial-classification-2003` = parent) %>%
+         `parent-industrial-classification` = parent) %>%
   select(-level) %>%
   mutate(`start-date` = NA,
          `end-date` = NA) %>%

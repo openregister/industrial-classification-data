@@ -35,7 +35,7 @@ sic2007 <-
                         to_sentence_case(name),
                         name)) %>%
   rename(`industrial-classification-2007` = code,
-         `parent-industrial-classification-2007` = parent) %>%
+         `parent-industrial-classification` = parent) %>%
   mutate(`start-date` = NA,
          `end-date` = NA)
 
