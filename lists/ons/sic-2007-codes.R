@@ -33,7 +33,8 @@ sic2007 <-
   # Convert allcaps to sentence case
   mutate(name = if_else(!str_detect(name, "[a-z]"),
                         to_sentence_case(name),
-                        name)) %>%
+                        name),
+         parent = paste0("industrial-classification-2007:", parent)) %>%
   rename(`industrial-classification-2007` = code,
          `parent-industrial-classification` = parent) %>%
   mutate(`start-date` = NA,
