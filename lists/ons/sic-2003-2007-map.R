@@ -3,7 +3,7 @@ library(readxl)
 library(here)
 
 path <- here("lists", "ons",
-             "correlationbetweensic2003tosic2007_tcm77-232024.xls")
+             "sicCorrelation2003to2007.xls")
 
 sic2003 <- read_tsv(here("data", "industrial-classification-2003.tsv"))
 sic2007 <- read_tsv(here("data", "industrial-classification-2007.tsv"))
