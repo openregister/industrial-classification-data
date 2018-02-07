@@ -1,4 +1,4 @@
-industrial-classification-2007	name	parent-industrial-classification	start-date	end-date
+industrial-classification-2007	name	parent	start-date	end-date
 A	Agriculture, forestry and fishing			
 01	Crop and animal production, hunting and related service activities	industrial-classification-2007:A		
 01.1	Growing of non-perennial crops	industrial-classification-2007:01		

@@ -37,8 +37,7 @@ sic2007 <-
          parent = if_else(is.na(parent),
                           parent,
                           paste0("industrial-classification-2007:", parent))) %>%
-  rename(`industrial-classification-2007` = code,
-         `parent-industrial-classification` = parent) %>%
+  rename(`industrial-classification-2007` = code) %>%
   mutate(`start-date` = NA,
          `end-date` = NA)
 

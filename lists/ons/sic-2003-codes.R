@@ -59,8 +59,7 @@ all_sic_2003 %>%
   mutate(parent = if_else(is.na(parent),
                           parent,
                           paste0("industrial-classification-2003:", parent))) %>%
-  rename(`industrial-classification-2003` = sic2003,
-         `parent-industrial-classification` = parent) %>%
+  rename(`industrial-classification-2003` = sic2003) %>%
   select(-level) %>%
   mutate(`start-date` = NA,
          `end-date` = NA) %>%
