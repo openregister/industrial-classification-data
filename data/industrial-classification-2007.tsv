@@ -1,5 +1,5 @@
 industrial-classification-2007	name	parent-industrial-classification	start-date	end-date
-A	Agriculture, forestry and fishing	industrial-classification-2007:NA		
+A	Agriculture, forestry and fishing			
 01	Crop and animal production, hunting and related service activities	industrial-classification-2007:A		
 01.1	Growing of non-perennial crops	industrial-classification-2007:01		
 01.11	Growing of cereals (except rice), leguminous crops and oil seeds	industrial-classification-2007:01.1		
@@ -57,7 +57,7 @@ A	Agriculture, forestry and fishing	industrial-classification-2007:NA
 03.2	Aquaculture	industrial-classification-2007:03		
 03.21	Marine aquaculture	industrial-classification-2007:03.2		
 03.22	Freshwater aquaculture	industrial-classification-2007:03.2		
-B	Mining and quarrying	industrial-classification-2007:NA		
+B	Mining and quarrying			
 05	Mining of coal and lignite	industrial-classification-2007:B		
 05.1	Mining of hard coal	industrial-classification-2007:05		
 05.10	Mining of hard coal	industrial-classification-2007:05.1		
@@ -90,7 +90,7 @@ B	Mining and quarrying	industrial-classification-2007:NA
 09.10	Support activities for petroleum and natural gas extraction	industrial-classification-2007:09.1		
 09.9	Support activities for other mining and quarrying	industrial-classification-2007:09		
 09.90	Support activities for other mining and quarrying	industrial-classification-2007:09.9		
-C	Manufacturing	industrial-classification-2007:NA		
+C	Manufacturing			
 10	Manufacture of food products	industrial-classification-2007:C		
 10.1	Processing and preserving of meat and production of meat products	industrial-classification-2007:10		
 10.11	Processing and preserving of meat	industrial-classification-2007:10.1		
@@ -491,7 +491,7 @@ C	Manufacturing	industrial-classification-2007:NA
 33.19	Repair of other equipment	industrial-classification-2007:33.1		
 33.2	Installation of industrial machinery and equipment	industrial-classification-2007:33		
 33.20	Installation of industrial machinery and equipment	industrial-classification-2007:33.2		
-D	Electricity, gas, steam and air conditioning supply	industrial-classification-2007:NA		
+D	Electricity, gas, steam and air conditioning supply			
 35	Electricity, gas, steam and air conditioning supply	industrial-classification-2007:D		
 35.1	Electric power generation, transmission and distribution	industrial-classification-2007:35		
 35.11	Production of electricity	industrial-classification-2007:35.1		
@@ -504,7 +504,7 @@ D	Electricity, gas, steam and air conditioning supply	industrial-classification-
 35.23	Trade of gas through mains	industrial-classification-2007:35.2		
 35.3	Steam and air conditioning supply	industrial-classification-2007:35		
 35.30	Steam and air conditioning supply	industrial-classification-2007:35.3		
-E	Water supply; sewerage, waste management and remediation activities	industrial-classification-2007:NA		
+E	Water supply; sewerage, waste management and remediation activities			
 36	Water collection, treatment and supply	industrial-classification-2007:E		
 36.0	Water collection, treatment and supply	industrial-classification-2007:36		
 36.00	Water collection, treatment and supply	industrial-classification-2007:36.0		
@@ -525,7 +525,7 @@ E	Water supply; sewerage, waste management and remediation activities	industrial
 This division includes the provision of remediation services, i.e. the cleanup of contaminated buildings and sites, soil, surface or ground water.		industrial-classification-2007:E		
 39.0	Remediation activities and other waste management services	industrial-classification-2007:This division includes the provision of remediation services, i.e. the cleanup of contaminated buildings and sites, soil, surface or ground water.		
 39.00	Remediation activities and other waste management services	industrial-classification-2007:39.0		
-F	Construction	industrial-classification-2007:NA		
+F	Construction			
 41	Construction of buildings	industrial-classification-2007:F		
 41.1	Development of building projects	industrial-classification-2007:41		
 41.10	Development of building projects	industrial-classification-2007:41.1		
@@ -566,7 +566,7 @@ F	Construction	industrial-classification-2007:NA
 43.99	Other specialised construction activities n.e.c.	industrial-classification-2007:43.9		
 43.99/1	Scaffold erection	industrial-classification-2007:43.99		
 43.99/9	Specialised construction activities (other than scaffold erection) n.e.c.	industrial-classification-2007:43.99		
-G	Wholesale and retail trade; repair of motor vehicles and motorcycles	industrial-classification-2007:NA		
+G	Wholesale and retail trade; repair of motor vehicles and motorcycles			
 45	Wholesale and retail trade and repair of motor vehicles and motorcycles	industrial-classification-2007:G		
 45.1	Sale of motor vehicles	industrial-classification-2007:45		
 45.11	Sale of cars and light motor vehicles	industrial-classification-2007:45.1		
@@ -705,7 +705,7 @@ G	Wholesale and retail trade; repair of motor vehicles and motorcycles	industria
 47.9	Retail trade not in stores, stalls or markets	industrial-classification-2007:47		
 47.91	Retail sale via mail order houses or via Internet	industrial-classification-2007:47.9		
 47.99	Other retail sale not in stores, stalls or markets	industrial-classification-2007:47.9		
-H	Transportation and storage	industrial-classification-2007:NA		
+H	Transportation and storage			
 49	Land transport and transport via pipelines	industrial-classification-2007:H		
 49.1	Passenger rail transport, interurban	industrial-classification-2007:49		
 49.10	Passenger rail transport, interurban	industrial-classification-2007:49.1		
@@ -765,7 +765,7 @@ H	Transportation and storage	industrial-classification-2007:NA
 53.20	Other postal and courier activities	industrial-classification-2007:53.2		
 53.20/1	Licensed Carriers	industrial-classification-2007:53.20		
 53.20/2	Unlicensed Carriers	industrial-classification-2007:53.20		
-I	Accommodation and food service activities	industrial-classification-2007:NA		
+I	Accommodation and food service activities			
 55	Accommodation	industrial-classification-2007:I		
 55.1	Hotels and similar accommodation	industrial-classification-2007:55		
 55.10	Hotels and similar accommodation	industrial-classification-2007:55.1		
@@ -791,7 +791,7 @@ I	Accommodation and food service activities	industrial-classification-2007:NA
 56.30	Beverage serving activities	industrial-classification-2007:56.3		
 56.30/1	Licensed clubs	industrial-classification-2007:56.30		
 56.30/2	Public houses and bars	industrial-classification-2007:56.30		
-J	Information and communication	industrial-classification-2007:NA		
+J	Information and communication			
 58	Publishing activities	industrial-classification-2007:J		
 58.1	Publishing of books, periodicals and other publishing activities	industrial-classification-2007:58		
 58.11	Book publishing	industrial-classification-2007:58.1		
@@ -847,7 +847,7 @@ J	Information and communication	industrial-classification-2007:NA
 63.9	Other information service activities	industrial-classification-2007:63		
 63.91	News agency activities	industrial-classification-2007:63.9		
 63.99	Other information service activities n.e.c.	industrial-classification-2007:63.9		
-K	Financial and insurance activities	industrial-classification-2007:NA		
+K	Financial and insurance activities			
 64	Financial service activities, except insurance and pension funding	industrial-classification-2007:K		
 64.1	Monetary intermediation	industrial-classification-2007:64		
 64.11	Central banking	industrial-classification-2007:64.1		
@@ -901,7 +901,7 @@ K	Financial and insurance activities	industrial-classification-2007:NA
 66.29	Other activities auxiliary to insurance and pension funding	industrial-classification-2007:66.2		
 66.3	Fund management activities	industrial-classification-2007:66		
 66.30	Fund management activities	industrial-classification-2007:66.3		
-L	Real estate activities	industrial-classification-2007:NA		
+L	Real estate activities			
 68	Real estate activities	industrial-classification-2007:L		
 68.1	Buying and selling of own real estate	industrial-classification-2007:68		
 68.10	Buying and selling of own real estate	industrial-classification-2007:68.1		
@@ -913,7 +913,7 @@ L	Real estate activities	industrial-classification-2007:NA
 68.3	Real estate activities on a fee or contract basis	industrial-classification-2007:68		
 68.31	Real estate agencies	industrial-classification-2007:68.3		
 68.32	Management of real estate on a fee or contract basis	industrial-classification-2007:68.3		
-M	Professional, scientific and technical activities	industrial-classification-2007:NA		
+M	Professional, scientific and technical activities			
 69	Legal and accounting activities	industrial-classification-2007:M		
 69.1	Legal activities	industrial-classification-2007:69		
 69.10	Legal activities	industrial-classification-2007:69.1		
@@ -975,7 +975,7 @@ M	Professional, scientific and technical activities	industrial-classification-20
 75	Veterinary activities	industrial-classification-2007:M		
 75.0	Veterinary activities	industrial-classification-2007:75		
 75.00	Veterinary activities	industrial-classification-2007:75.0		
-N	Administrative and support service activities	industrial-classification-2007:NA		
+N	Administrative and support service activities			
 77	Rental and leasing activities	industrial-classification-2007:N		
 77.1	Renting and leasing of motor vehicles	industrial-classification-2007:77		
 77.11	Renting and leasing of cars and light motor vehicles	industrial-classification-2007:77.1		
@@ -1054,7 +1054,7 @@ N	Administrative and support service activities	industrial-classification-2007:N
 82.91/2	Activities of credit bureaus	industrial-classification-2007:82.91		
 82.92	Packaging activities	industrial-classification-2007:82.9		
 82.99	Other business support service activities n.e.c.	industrial-classification-2007:82.9		
-O	Public administration and defence; compulsory social security	industrial-classification-2007:NA		
+O	Public administration and defence; compulsory social security			
 84	Public administration and defence; compulsory social security	industrial-classification-2007:O		
 84.1	Administration of the State and the economic and social policy of the community	industrial-classification-2007:84		
 84.11	General public administration activities	industrial-classification-2007:84.1		
@@ -1068,7 +1068,7 @@ O	Public administration and defence; compulsory social security	industrial-class
 84.25	Fire service activities	industrial-classification-2007:84.2		
 84.3	Compulsory social security activities	industrial-classification-2007:84		
 84.30	Compulsory social security activities	industrial-classification-2007:84.3		
-P	Education	industrial-classification-2007:NA		
+P	Education			
 85	Education	industrial-classification-2007:P		
 85.1	Pre-primary education	industrial-classification-2007:85		
 85.10	Pre-primary education	industrial-classification-2007:85.1		
@@ -1089,7 +1089,7 @@ P	Education	industrial-classification-2007:NA
 85.59	Other education n.e.c.	industrial-classification-2007:85.5		
 85.6	Educational support activities	industrial-classification-2007:85		
 85.60	Educational support activities	industrial-classification-2007:85.6		
-Q	Human health and social work activities	industrial-classification-2007:NA		
+Q	Human health and social work activities			
 86	Human health activities	industrial-classification-2007:Q		
 86.1	Hospital activities	industrial-classification-2007:86		
 86.10	Hospital activities	industrial-classification-2007:86.1		
@@ -1116,7 +1116,7 @@ Q	Human health and social work activities	industrial-classification-2007:NA
 88.9	Other social work activities without accommodation	industrial-classification-2007:88		
 88.91	Child day-care activities	industrial-classification-2007:88.9		
 88.99	Other social work activities without accommodation n.e.c.	industrial-classification-2007:88.9		
-R	Arts, entertainment and recreation	industrial-classification-2007:NA		
+R	Arts, entertainment and recreation			
 90	Creative, arts and entertainment activities	industrial-classification-2007:R		
 90.0	Creative, arts and entertainment activities	industrial-classification-2007:90		
 90.01	Performing arts	industrial-classification-2007:90.0		
@@ -1145,7 +1145,7 @@ R	Arts, entertainment and recreation	industrial-classification-2007:NA
 93.2	Amusement and recreation activities	industrial-classification-2007:93		
 93.21	Activities of amusement parks and theme parks	industrial-classification-2007:93.2		
 93.29	Other amusement and recreation activities	industrial-classification-2007:93.2		
-S	Other service activities	industrial-classification-2007:NA		
+S	Other service activities			
 94	Activities of membership organisations	industrial-classification-2007:S		
 94.1	Activities of business, employers and professional membership organisations	industrial-classification-2007:94		
 94.11	Activities of business and employers membership organisations	industrial-classification-2007:94.1		
@@ -1174,7 +1174,7 @@ S	Other service activities	industrial-classification-2007:NA
 96.03	Funeral and related activities	industrial-classification-2007:96.0		
 96.04	Physical well-being activities	industrial-classification-2007:96.0		
 96.09	Other personal service activities n.e.c.	industrial-classification-2007:96.0		
-T	Activities of households as employers; undifferentiated goods-and services-producing activities of households for own use	industrial-classification-2007:NA		
+T	Activities of households as employers; undifferentiated goods-and services-producing activities of households for own use			
 97	Activities of households as employers of domestic personnel	industrial-classification-2007:T		
 97.0	Activities of households as employers of domestic personnel	industrial-classification-2007:97		
 97.00	Activities of households as employers of domestic personnel	industrial-classification-2007:97.0		
@@ -1183,7 +1183,7 @@ T	Activities of households as employers; undifferentiated goods-and services-pro
 98.10	Undifferentiated goods-producing activities of private households for own use	industrial-classification-2007:98.1		
 98.2	Undifferentiated service-producing activities of private households for own use	industrial-classification-2007:98		
 98.20	Undifferentiated service-producing activities of private households for own use	industrial-classification-2007:98.2		
-U	Activities of extraterritorial organisations and bodies	industrial-classification-2007:NA		
+U	Activities of extraterritorial organisations and bodies			
 99	Activities of extraterritorial organisations and bodies	industrial-classification-2007:U		
 99.0	Activities of extraterritorial organisations and bodies	industrial-classification-2007:99		
 99.00	Activities of extraterritorial organisations and bodies	industrial-classification-2007:99.0		

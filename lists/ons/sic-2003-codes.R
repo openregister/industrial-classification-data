@@ -56,7 +56,9 @@ anti_join(sic2003, sic2003b)
 # Write
 
 all_sic_2003 %>%
-  mutate(parent = paste0("industrial-classification-2003:", parent)) %>%
+  mutate(parent = if_else(is.na(parent),
+                          parent,
+                          paste0("industrial-classification-2003:", parent))) %>%
   rename(`industrial-classification-2003` = sic2003,
          `parent-industrial-classification` = parent) %>%
   select(-level) %>%

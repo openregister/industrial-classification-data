@@ -34,7 +34,9 @@ sic2007 <-
   mutate(name = if_else(!str_detect(name, "[a-z]"),
                         to_sentence_case(name),
                         name),
-         parent = paste0("industrial-classification-2007:", parent)) %>%
+         parent = if_else(is.na(parent),
+                          parent,
+                          paste0("industrial-classification-2007:", parent))) %>%
   rename(`industrial-classification-2007` = code,
          `parent-industrial-classification` = parent) %>%
   mutate(`start-date` = NA,

@@ -1,5 +1,5 @@
 industrial-classification-2003	name	parent-industrial-classification	start-date	end-date
-A	Agriculture, Hunting and Forestry	industrial-classification-2003:NA		
+A	Agriculture, Hunting and Forestry			
 01	Agriculture, Hunting and Related Service Activities	industrial-classification-2003:A		
 01.1	Growing of crops; market gardening; horticulture	industrial-classification-2003:01		
 01.11	Growing of cereals and other crops not elsewhere classified	industrial-classification-2003:01		
@@ -26,12 +26,12 @@ A	Agriculture, Hunting and Forestry	industrial-classification-2003:NA
 02.0	Forestry, logging and related service activities	industrial-classification-2003:02		
 02.01	Forestry and logging	industrial-classification-2003:02		
 02.02	Forestry and logging  related service activities	industrial-classification-2003:02		
-B	Fishing	industrial-classification-2003:NA		
+B	Fishing			
 05	Fishing, Fish Farming and Related Service Activities	industrial-classification-2003:B		
 05.0	Fishing,  fish farming and related service activities	industrial-classification-2003:05		
 05.01	Fishing	industrial-classification-2003:05		
 05.02	Fish farming	industrial-classification-2003:05		
-C	Mining and Quarrying	industrial-classification-2003:NA		
+C	Mining and Quarrying			
 10	Mining of Coal and Lignite; Extraction of Peat	industrial-classification-2003:C		
 10.1	Mining and agglomeration of hard coal	industrial-classification-2003:10		
 10.10	Mining and agglomeration of hard coal	industrial-classification-2003:10		
@@ -69,7 +69,7 @@ C	Mining and Quarrying	industrial-classification-2003:NA
 14.40	Production of salt	industrial-classification-2003:14		
 14.5	Other mining and quarrying not elsewhere classified	industrial-classification-2003:14		
 14.50	Other mining and quarrying not elsewhere classified	industrial-classification-2003:14		
-D	Manufacturing	industrial-classification-2003:NA		
+D	Manufacturing			
 15	Manufacture of Food Products and Beverages	industrial-classification-2003:D		
 15.1	Production, processing and preserving of meat and meat products	industrial-classification-2003:15		
 15.11	Production and preserving of meat	industrial-classification-2003:15		
@@ -533,7 +533,7 @@ D	Manufacturing	industrial-classification-2003:NA
 37.10	Recycling of metal waste and scrap	industrial-classification-2003:37		
 37.2	Recycling of non-metal waste and scrap	industrial-classification-2003:37		
 37.20	Recycling of non-metal waste and scrap	industrial-classification-2003:37		
-E	Electricity, Gas and Water Supply	industrial-classification-2003:NA		
+E	Electricity, Gas and Water Supply			
 40	Electricity, Gas, Steam and Hot Water Supply	industrial-classification-2003:E		
 40.1	Production and distribution of electricity	industrial-classification-2003:40		
 40.11	Production of electricity	industrial-classification-2003:40		
@@ -547,7 +547,7 @@ E	Electricity, Gas and Water Supply	industrial-classification-2003:NA
 41	Collection, Purification and Distribution of Water	industrial-classification-2003:E		
 41.0	Collection, purification and distribution of water	industrial-classification-2003:41		
 41.00	Collection, purification and distribution of water	industrial-classification-2003:41		
-F	Construction	industrial-classification-2003:NA		
+F	Construction			
 45	Construction	industrial-classification-2003:F		
 45.1	Site preparation	industrial-classification-2003:45		
 45.11	Demolition and wrecking of buildings; earth moving	industrial-classification-2003:45		
@@ -574,7 +574,7 @@ F	Construction	industrial-classification-2003:NA
 45.45	Other building completion	industrial-classification-2003:45		
 45.5	Renting of construction or demolition equipment with operator	industrial-classification-2003:45		
 45.50	Renting of construction or demolition equipment with operator	industrial-classification-2003:45		
-G	Wholesale and Retail Trade; Repair of Motor Vehicles, Motorcycles and Personal and	industrial-classification-2003:NA		
+G	Wholesale and Retail Trade; Repair of Motor Vehicles, Motorcycles and Personal and			
 50	Sale, Maintenance and Repair of Motor Vehicles and Motorcycles; Retail Sale of Automotive Fuel	industrial-classification-2003:G		
 50.1	Sale of motor vehicles	industrial-classification-2003:50		
 50.10	Sale of motor vehicles	industrial-classification-2003:50		
@@ -728,7 +728,7 @@ G	Wholesale and Retail Trade; Repair of Motor Vehicles, Motorcycles and Personal
 52.72	Repair of electrical household goods	industrial-classification-2003:52		
 52.73	Repair of watches, clocks and jewellery	industrial-classification-2003:52		
 52.74	Repair not elsewhere classified	industrial-classification-2003:52		
-H	Hotels and Restaurants	industrial-classification-2003:NA		
+H	Hotels and Restaurants			
 55	Hotels and Restaurants	industrial-classification-2003:H		
 55.1	Hotels	industrial-classification-2003:55		
 55.10	Hotels	industrial-classification-2003:55		
@@ -758,7 +758,7 @@ H	Hotels and Restaurants	industrial-classification-2003:NA
 55.5	Canteens and catering	industrial-classification-2003:55		
 55.51	Canteens	industrial-classification-2003:55		
 55.52	Catering	industrial-classification-2003:55		
-I	Transport, Storage and Communication	industrial-classification-2003:NA		
+I	Transport, Storage and Communication			
 60	Land Transport; Transport Via Pipelines	industrial-classification-2003:I		
 60.1	Transport via railways	industrial-classification-2003:60		
 60.10	Transport via railways	industrial-classification-2003:60		
@@ -830,7 +830,7 @@ I	Transport, Storage and Communication	industrial-classification-2003:NA
 64.12	Courier activities other than national post activities	industrial-classification-2003:64		
 64.2	Telecommunications	industrial-classification-2003:64		
 64.20	Telecommunications	industrial-classification-2003:64		
-J	Financial Intermediation	industrial-classification-2003:NA		
+J	Financial Intermediation			
 65	Financial Intermediation, Except Insurance and Pension Funding	industrial-classification-2003:J		
 65.1	Monetary intermediation	industrial-classification-2003:65		
 65.11	Central banking	industrial-classification-2003:65		
@@ -873,7 +873,7 @@ J	Financial Intermediation	industrial-classification-2003:NA
 67.13	Activities auxiliary to financial intermediation not elsewhere classified	industrial-classification-2003:67		
 67.2	Activities auxiliary to insurance and pension funding	industrial-classification-2003:67		
 67.20	Activities auxiliary to insurance and pension funding	industrial-classification-2003:67		
-K	Real Estate, Renting and Business Activities	industrial-classification-2003:NA		
+K	Real Estate, Renting and Business Activities			
 70	Real Estate Activities	industrial-classification-2003:K		
 70.1	Real estate activities with own property	industrial-classification-2003:70		
 70.11	Development and selling of real estate	industrial-classification-2003:70		
@@ -1009,7 +1009,7 @@ K	Real Estate, Renting and Business Activities	industrial-classification-2003:NA
 74.87/3	Activities of exhibition and fair organisers	industrial-classification-2003:74.87		
 74.87/4	Activities of conference organisers	industrial-classification-2003:74.87		
 74.87/9	Other business activities not elsewhere classified	industrial-classification-2003:74.87		
-L	Public Administration and Defence; Compulsory Social Security	industrial-classification-2003:NA		
+L	Public Administration and Defence; Compulsory Social Security			
 75	Public Administration and Defence; Compulsory Social Security	industrial-classification-2003:L		
 75.1	Administration of the State and the economic and social policy of the community	industrial-classification-2003:75		
 75.11	General (overall) public service activities	industrial-classification-2003:75		
@@ -1024,7 +1024,7 @@ L	Public Administration and Defence; Compulsory Social Security	industrial-class
 75.25	Fire service activities	industrial-classification-2003:75		
 75.3	Compulsory social security activities	industrial-classification-2003:75		
 75.30	Compulsory social security activities	industrial-classification-2003:75		
-M	Education	industrial-classification-2003:NA		
+M	Education			
 80	Education	industrial-classification-2003:M		
 80.1	Primary education	industrial-classification-2003:80		
 80.10	Primary education	industrial-classification-2003:80		
@@ -1042,7 +1042,7 @@ M	Education	industrial-classification-2003:NA
 80.42/1	Activities of private training providers	industrial-classification-2003:80.42		
 80.42/2	This code is no longer in use	industrial-classification-2003:80.42		
 80.42/9	Other adult and other education not elsewhere classified	industrial-classification-2003:80.42		
-N	Health and Social Work	industrial-classification-2003:NA		
+N	Health and Social Work			
 85	Health and Social Work	industrial-classification-2003:N		
 85.1	Human health activities	industrial-classification-2003:85		
 85.11	Hospital activities	industrial-classification-2003:85		
@@ -1061,7 +1061,7 @@ N	Health and Social Work	industrial-classification-2003:NA
 85.32	Social work activities without accommodation	industrial-classification-2003:85		
 85.32/1	Charitable social work activities without accommodation	industrial-classification-2003:85.32		
 85.32/2	Non-charitable social work activities without accommodation	industrial-classification-2003:85.32		
-O	Other Community, Social and Personal Service Activities	industrial-classification-2003:NA		
+O	Other Community, Social and Personal Service Activities			
 90	Sewage and Refuse Disposal, Sanitation and Similar Activities	industrial-classification-2003:O		
 90.0	Sewage and refuse disposal, sanitation and similar activities	industrial-classification-2003:90		
 90.01	Collection and treatment of sewage	industrial-classification-2003:90		
@@ -1127,7 +1127,7 @@ O	Other Community, Social and Personal Service Activities	industrial-classificat
 93.05	Other service activities not elsewhere classified	industrial-classification-2003:93		
 93.05/1	Operation of coin-operated photographic machines	industrial-classification-2003:93.05		
 93.05/9	Other service activities not elsewhere classified	industrial-classification-2003:93.05		
-P	Private Households Employing Staff and Undifferentiated Production Activities of	industrial-classification-2003:NA		
+P	Private Households Employing Staff and Undifferentiated Production Activities of			
 95	Activities of Households as Employers of Domestic Staff	industrial-classification-2003:P		
 95.0	Activities of households as employers of domestic staff	industrial-classification-2003:95		
 95.00	Activities of households as employers of domestic staff	industrial-classification-2003:95		
@@ -1137,7 +1137,7 @@ P	Private Households Employing Staff and Undifferentiated Production Activities 
 97	Undifferentiated Services Producing Activities of Private Households for Own Use	industrial-classification-2003:P		
 97.0	Undifferentiated services producing activities of private households for own use	industrial-classification-2003:97		
 97.00	Undifferentiated services producing activities of private households for own use	industrial-classification-2003:97		
-Q	Extra-territorial Organisation and Bodies	industrial-classification-2003:NA		
+Q	Extra-territorial Organisation and Bodies			
 99	Extra-territorial Organisations and Bodies	industrial-classification-2003:Q		
 99.0	Extra-territorial organisations and bodies	industrial-classification-2003:99		
 99.00	Extra-territorial organisations and bodies	industrial-classification-2003:99		
