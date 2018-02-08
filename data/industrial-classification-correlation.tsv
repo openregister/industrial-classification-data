@@ -1,4 +1,4 @@
-industrial-classification-correlation	source-industrial-classification	target-industrial-classification	start-date	end-date
+industrial-classification-correlation	source	target	start-date	end-date
 1	industrial-classification-2003:01.11	industrial-classification-2007:01.11		
 2	industrial-classification-2003:01.12	industrial-classification-2007:01.11		
 3	industrial-classification-2003:01.11	industrial-classification-2007:01.12		

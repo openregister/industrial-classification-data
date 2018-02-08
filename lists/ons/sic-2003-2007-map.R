@@ -63,8 +63,8 @@ maps %>%
          sic2007 = paste0("industrial-classification-2007:", sic2007)) %>%
   select(id, sic2003, sic2007) %>%
   set_names(c("industrial-classification-correlation",
-              "source-industrial-classification",
-              "target-industrial-classification")) %>%
+              "source",
+              "target")) %>%
   mutate(`start-date` = NA,
          `end-date` = NA) %>%
   write_tsv(here("data", "industrial-classification-correlation.tsv"), na = "")
