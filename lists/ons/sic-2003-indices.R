@@ -12,7 +12,7 @@ source2007 <- here("lists", "ons", "sic2007.xls")
 
 n_pages <- get_n_pages(source2003)
 
-# Specifgy `pages` so that each page is in a separate element of a vector
+# Specify `pages` so that each page is in a separate element of a vector
 source_text <- extract_text(source2003, pages = seq_len(n_pages))
 
 tabulize <- function(x, n_col) {

@@ -9,7 +9,7 @@ source_all_2003 <- here("lists", "ons", "uk-sic-2003.pdf")
 
 n_pages <- get_n_pages(source_all_2003)
 
-# Specifgy `pages` so that each page is in a separate element of a vector
+# Specify `pages` so that each page is in a separate element of a vector
 source_text_all_2003 <- extract_text(source_all_2003, pages = seq_len(n_pages))
 
 filter_codes <- function(x) {
