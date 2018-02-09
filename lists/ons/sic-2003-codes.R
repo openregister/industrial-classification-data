@@ -63,4 +63,5 @@ all_sic_2003 %>%
   select(-level) %>%
   mutate(`start-date` = NA,
          `end-date` = NA) %>%
+  arrange(desc(`industrial-classification-2003`)) %>%
   write_tsv(here("data", "industrial-classification-2003.tsv"), na = "")

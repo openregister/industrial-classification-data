@@ -39,6 +39,7 @@ sic2007 <-
                           paste0("industrial-classification-2007:", parent))) %>%
   rename(`industrial-classification-2007` = code) %>%
   mutate(`start-date` = NA,
-         `end-date` = NA)
+         `end-date` = NA) %>%
+  arrange(desc(`industrial-classification-2007`))
 
 write_tsv(sic2007, here("data", "industrial-classification-2007.tsv"), na = "")

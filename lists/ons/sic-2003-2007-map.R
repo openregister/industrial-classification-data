@@ -67,6 +67,7 @@ maps %>%
               "target")) %>%
   mutate(`start-date` = NA,
          `end-date` = NA) %>%
+  arrange(desc(`industrial-classification-correlation`)) %>%
   write_tsv(here("data", "industrial-classification-correlation.tsv"), na = "")
 
 # TODO: compare spellings in more depth
