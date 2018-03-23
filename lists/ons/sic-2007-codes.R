@@ -34,6 +34,7 @@ sic2007 <-
   mutate(name = if_else(!str_detect(name, "[a-z]"),
                         to_sentence_case(name),
                         name),
+         name = str_replace("name", "’", "'"),
          parent = if_else(is.na(parent),
                           parent,
                           paste0("industrial-classification-2007:", parent))) %>%
