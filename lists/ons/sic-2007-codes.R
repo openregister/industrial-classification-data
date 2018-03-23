@@ -3,7 +3,7 @@ library(readxl)
 library(unpivotr)
 library(here)
 
-path <- here("lists", "ons", "sic2007.xls")
+path <- here("lists", "ons", "2007", "sic2007summaryofstructurtcm6.xls")
 
 get_parent <- function(x) {
   x$parent <- x[[as.character(x$parent_col)]]
