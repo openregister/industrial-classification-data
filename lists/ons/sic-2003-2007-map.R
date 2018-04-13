@@ -5,7 +5,13 @@ library(here)
 path <- here("lists", "ons",
              "sicCorrelation2003to2007.xls")
 
-sic2003 <- read_tsv(here("data", "industrial-classification-2003.tsv"))
+sic2003 <-
+  read_tsv(here("data", "industrial-classification-2003.tsv")) %>%
+  mutate(full_code = `industrial-classification-2003`,
+         `industrial-classification-2003` = str_replace(full_code,
+                                                        "^[A-Z]{1,2}",
+                                                        ""))
+
 sic2007 <- read_tsv(here("data", "industrial-classification-2007.tsv"))
 
 `%na%` <- function(x, y) {
@@ -58,6 +64,13 @@ maps %>%
 
 # Write the maps as a register
 maps %>%
+  # Get the full 2003 codes back
+  left_join(select(sic2003,
+                   `industrial-classification-2003`,
+                   full_code),
+            by = c("sic2003" = "industrial-classification-2003")) %>%
+  mutate(sic2003 = full_code) %>%
+  select(-full_code) %>%
   mutate(id = row_number(),
          sic2003 = paste0("industrial-classification-2003:", sic2003),
          sic2007 = paste0("industrial-classification-2007:", sic2007)) %>%
