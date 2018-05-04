@@ -1,6 +1,5 @@
 industrial-classification-2007	name	parent	start-date	end-date
 U	Activities of extraterritorial organisations and bodies			
-This division includes the provision of remediation services, i.e. the cleanup of contaminated buildings and sites, soil, surface or ground water.		industrial-classification-2007:E		
 T	Activities of households as employers; undifferentiated goods-and services-producing activities of households for own use			
 S	Other service activities			
 R	Arts, entertainment and recreation			
@@ -668,7 +667,7 @@ A	Agriculture, forestry and fishing
 41.1	Development of building projects	industrial-classification-2007:41		
 41	Construction of buildings	industrial-classification-2007:F		
 39.00	Remediation activities and other waste management services	industrial-classification-2007:39.0		
-39.0	Remediation activities and other waste management services	industrial-classification-2007:This division includes the provision of remediation services, i.e. the cleanup of contaminated buildings and sites, soil, surface or ground water.		
+39.0	Remediation activities and other waste management services	industrial-classification-2007:39		
 39	Remediation activities and other waste management services.	industrial-classification-2007:E		
 38.32	Recovery of sorted materials	industrial-classification-2007:38.3		
 38.31	Dismantling of wrecks	industrial-classification-2007:38.3		

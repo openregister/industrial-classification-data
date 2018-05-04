@@ -18,7 +18,8 @@ to_sentence_case <- function(x) {
 sic2007 <-
   read_excel(path, skip = 3, col_names = FALSE) %>%
   tidy_table() %>%
-  filter(!is.na(chr)) %>%
+  filter(!is.na(chr),
+         chr != "This division includes the provision of remediation services, i.e. the cleanup of contaminated buildings and sites, soil, surface or ground water.") %>%
   group_by(row) %>%
   arrange(row, col) %>%
   summarise(first_col = first(col), code = chr[1], name = chr[2]) %>%
