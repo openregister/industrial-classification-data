@@ -27,6 +27,7 @@ sic2007 <-
   mutate(code2 = code, parent_col = first_col - 1L) %>%
   spread(first_col, code2) %>%
   fill(`1`, `2`, `3`, `4`, `5`) %>%
+  mutate(code = if_else(code == `1`, code, paste0(`1`, code))) %>%
   group_by(row) %>%
   do(get_parent(.)) %>%
   ungroup() %>%

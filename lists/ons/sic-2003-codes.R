@@ -63,6 +63,7 @@ filter(all_sic_2003, !is.na(parent)) %>%
   anti_join(all_sic_2003, by = c("parent" = "sic2003")) # check that all parents exist
 
 # Compare with sic2003 from the script "sic-2003-indices.R"
+source(here("lists", "ons", "sic-2003-indices.R"))
 sic2003b <-
   all_sic_2003 %>%
   filter(level %in% 3:4) %>%
