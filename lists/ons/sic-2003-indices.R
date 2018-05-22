@@ -70,7 +70,7 @@ alphabetic <-
          activity = str_replace(activity, "Blacksmiths(?=[^'])", "Blacksmiths'"), # spelling
          activity = str_replace(activity, " \\.", ""), # stray space and full point
          activity = str_trim(activity)) %>% # again, to be sure
-  filter(sic80 != "****") %>%
+  dplyr::filter(sic80 != "****") %>%
   mutate(sic80 = str_replace_all(sic80, " ", ""), # stray space
          sic80 = sprintf("%04i", as.integer(sic80)),
          sic2003 = map_chr(sic2003, normalize_sic2003))
@@ -104,19 +104,19 @@ numerical <-
   ungroup() %>%
   mutate(parent = if_else(header, str_sub(group_name, 1L, 2L), group_name)) %>%
   select(code, activity, parent, header) %>%
-  filter(code != "****") %>%
+  dplyr::filter(code != "****") %>%
   mutate(code = str_replace_all(code, " ", "")) # stray space
 
 sic2003 <-
   numerical %>%
-  filter(header) %>%
+  dplyr::filter(header) %>%
   rename(sic2003 = code) %>%
   # mutate(sic2003 = normalize_sic2003(sic2003)) %>%
   select(sic2003, activity)
 
 sic80 <-
   numerical %>%
-  filter(!header) %>%
+  dplyr::filter(!header) %>%
   rename(sic80 = code, sic2003 = parent) %>%
   mutate(sic2003 = map_chr(sic2003, normalize_sic2003)) %>%
   select(sic2003, sic80, activity) %>%

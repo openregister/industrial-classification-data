@@ -56,32 +56,25 @@ all_sic_2003 <-
   select(sic2003, name, parent, level, full_code)
 
 # Checks
-filter(all_sic_2003, is.na(parent))
-filter(all_sic_2003, str_detect(parent, "[A-Z]{1}")) %>% print(n = Inf)
-filter(all_sic_2003, str_detect(parent, "[A-Z]{2}")) %>% print(n = Inf)
-filter(all_sic_2003, !is.na(parent)) %>%
+dplyr::filter(all_sic_2003, is.na(parent))
+dplyr::filter(all_sic_2003, str_detect(parent, "[A-Z]{1}")) %>% print(n = Inf)
+dplyr::filter(all_sic_2003, str_detect(parent, "[A-Z]{2}")) %>% print(n = Inf)
+dplyr::filter(all_sic_2003, !is.na(parent)) %>%
   anti_join(all_sic_2003, by = c("parent" = "sic2003")) # check that all parents exist
 
 # Compare with sic2003 from the script "sic-2003-indices.R"
 source(here("lists", "ons", "sic-2003-indices.R"))
 sic2003b <-
   all_sic_2003 %>%
-  filter(level %in% 3:4) %>%
+  dplyr::filter(level %in% 3:4) %>%
   mutate(sic2003 = normalize_sic2003(sic2003))
 
 anti_join(sic2003b, sic2003)
 anti_join(sic2003, sic2003b)
 
-# Spell out the full codes all the way up the hierarchy
-full_codes <-
-  all_sic_2003 %>%
-  select(parent = sic2003, full_parent_code = full_code) %>%
-  left_join(all_sic_2003, ., by = "parent") %>%
-  select(sic2003 = full_code, name, parent = full_parent_code, level)
-
 # Write
 
-full_codes %>%
+all_sic_2003 %>%
   mutate(parent = if_else(is.na(parent),
                           parent,
                           paste0("industrial-classification-2003:", parent))) %>%

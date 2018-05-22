@@ -77,7 +77,11 @@ maps <-
   mutate(sic2003 = map_chr(sic2003, normalize_code),
          sic2007 = map_chr(sic2007, normalize_code),
          sic2003activity = str_replace_all(sic2003activity, " +", " "),
-         sic2007activity = str_replace_all(sic2007activity, " +", " "))
+         sic2007activity = str_replace_all(sic2007activity, " +", " "),
+         sic2003activity = str_replace_all(sic2003activity, "\\n", " "),
+         sic2007activity = str_replace_all(sic2007activity, "\\n", " "),
+         sic2003activity = str_trim(sic2003activity),
+         sic2007activity = str_trim(sic2007activity))
 
 # All the codes in the maps are present in the classifications
 anti_join(maps, sic2003, by = c("sic2003" = "industrial-classification-2003"))
@@ -90,11 +94,11 @@ anti_join(sic2007, maps, by = c("industrial-classification-2007" = "sic2007"))
 # Some that are present are spelled differently
 maps %>%
   inner_join(sic2007, by = c("sic2007" = "industrial-classification-2007")) %>%
-  filter(sic2007activity != name) %>%
+  dplyr::filter(sic2007activity != name) %>%
   select(sic2007, sic2007activity, name)
 maps %>%
   inner_join(sic2003, by = c("sic2003" = "industrial-classification-2003")) %>%
-  filter(sic2003activity != name) %>%
+  dplyr::filter(sic2003activity != name) %>%
   select(sic2003, sic2003activity, name)
 
 # Some inconsistenciees: "other" vs "not elsewhere classified" vs "n.e.c"

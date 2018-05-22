@@ -18,7 +18,7 @@ to_sentence_case <- function(x) {
 sic2007 <-
   read_excel(path, skip = 3, col_names = FALSE) %>%
   tidy_table() %>%
-  filter(!is.na(chr),
+  dplyr::filter(!is.na(chr),
          chr != "This division includes the provision of remediation services, i.e. the cleanup of contaminated buildings and sites, soil, surface or ground water.") %>%
   group_by(row) %>%
   arrange(row, col) %>%
@@ -27,7 +27,6 @@ sic2007 <-
   mutate(code2 = code, parent_col = first_col - 1L) %>%
   spread(first_col, code2) %>%
   fill(`1`, `2`, `3`, `4`, `5`) %>%
-  mutate(code = if_else(code == `1`, code, paste0(`1`, code))) %>%
   group_by(row) %>%
   do(get_parent(.)) %>%
   ungroup() %>%
