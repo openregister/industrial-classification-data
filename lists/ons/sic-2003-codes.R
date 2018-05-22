@@ -79,7 +79,7 @@ all_sic_2003 %>%
                           parent,
                           paste0("industrial-classification-2003:", parent))) %>%
   rename(`industrial-classification-2003` = sic2003) %>%
-  select(-level) %>%
+  select(-level, -full_code) %>%
   mutate(`start-date` = NA,
          `end-date` = NA) %>%
   arrange(desc(`industrial-classification-2003`)) %>%
